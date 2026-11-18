@@ -1,0 +1,10657 @@
+// ============================================================
+// Locket Remote Config Rewrite
+// Endpoint: firebaseremoteconfig.googleapis.com
+// Dùng cho: Loon / Quantumult X / Surge / Shadowrocket
+// Tác giả: @duyvinh09
+// Vui lòng khi chia sẽ hoặc lấy về, làm ơn để nguồn giúp mình. Mình cảm ơn
+// ============================================================
+
+var _0x2a997b = _0x500a;
+(function (_0x5d8675, _0x391bc2) {
+  var _0xccdfa4 = _0x500a,
+    _0xf5a491 = _0x5d8675();
+  while (!![]) {
+    try {
+      var _0x2259bd =
+        -parseInt(_0xccdfa4(0x586)) / (-0x222c + -0x31 * -0x76 + 0xb97 * 0x1) +
+        parseInt(_0xccdfa4(0x5e6)) / (-0x1d32 + 0x1cc1 + -0x5 * -0x17) +
+        (parseInt(_0xccdfa4(0xaa7)) /
+          (0x28c * -0x1 + -0x2046 + -0x1 * -0x22d5)) *
+          (-parseInt(_0xccdfa4(0x3de)) /
+            (0x5a5 * -0x2 + -0x5e7 * 0x1 + 0x1135)) +
+        parseInt(_0xccdfa4(0x7ed)) / (-0x14d6 + -0xb * 0x2c6 + 0x335d) +
+        (parseInt(_0xccdfa4(0x36c)) / (0x58d + 0x158f * -0x1 + 0x24 * 0x72)) *
+          (-parseInt(_0xccdfa4(0x848)) / (0x643 + -0x99e + 0x362)) +
+        (-parseInt(_0xccdfa4(0x940)) / (-0x289 + 0x1bdd + 0x194c * -0x1)) *
+          (parseInt(_0xccdfa4(0x958)) / (0x9 * 0x109 + 0x1 * -0x1721 + 0xdd9)) +
+        parseInt(_0xccdfa4(0x6c0)) / (-0xe4a + 0x165a + -0x403 * 0x2);
+      if (_0x2259bd === _0x391bc2) break;
+      else _0xf5a491["push"](_0xf5a491["shift"]());
+    } catch (_0x243c13) {
+      _0xf5a491["push"](_0xf5a491["shift"]());
+    }
+  }
+})(_0x3aa7, 0x72 * -0x949 + 0xf05b * 0xb + -0xbf5 * 0x12);
+function _0x3aa7() {
+  var _0x2d32d7 = [
+    "music",
+    "cloud.fill",
+    "#6A82FB",
+    "he_choi",
+    "#DCCAF0",
+    "#334E68",
+    "#D5D5F0",
+    "chịu\x20luôn\x20",
+    "h\x20💛",
+    "#E6DDD8",
+    "nay\x20ngủ",
+    "minimum_di",
+    "caption:th",
+    ",\x20Học\x20hành",
+    "o_hun_mien",
+    "#FF512F",
+    "#FCA5A5",
+    "/xBNYQv0A.",
+    "#FFFFFF",
+    "#E2E9BD",
+    "ght_vibes",
+    "#B8E0D2",
+    "khung_shin",
+    "#F4C5D9",
+    "#faed32",
+    "#D76D77",
+    "chưa?",
+    "phien_thie",
+    "#FFD200",
+    "#542323",
+    "#D2B48C",
+    "#F1F7C8",
+    "ay_vi",
+    "#E3E9C5",
+    "#FFD08A",
+    "_vote_2026",
+    "ì\x20cái\x20này\x20",
+    "ection_day",
+    "#EBD8C7",
+    "te\x20🍵",
+    "#80CBC4",
+    "Yeu\x20Anhhh",
+    "#F0D1A4",
+    "i,\x20lộ\x20hết\x20",
+    "#ECEFF1",
+    "🗳️",
+    "#BCAAA4",
+    "ews",
+    "#FFF1A8",
+    "\x20Happy\x20Sna",
+    "https://us",
+    "cowboy_cow",
+    "Never",
+    "cần\x20lý\x20do",
+    "tten_islan",
+    "#EBC6E8",
+    "#D5D0E8",
+    "/ckAcbUl1.",
+    "#AB1745",
+    "Cảm\x20thấy\x20h",
+    "#A81818",
+    "#C9CDE2",
+    "hoan",
+    "#E6C8E7",
+    "entries",
+    "i_chat",
+    "#283593",
+    "\x20nhận\x20nấy,",
+    "y\x20kìa\x20💛",
+    ",\x20không\x20th",
+    "#71465D",
+    "n_vien_la_",
+    "#58C9A5",
+    "uoi_im_lan",
+    "cái\x20đéo\x20má",
+    "caption:fe",
+    "Đi\x20chơi\x20kh",
+    "ó\x20gì\x20sai",
+    "ipped_2x2",
+    "\x20Ripped\x20Pa",
+    "#88D49E",
+    "caption:an",
+    "\x20&\x20Tiền\x20💸",
+    "\x20Eve",
+    "rồi",
+    "#35451B",
+    "#EDCDB4",
+    "#CFD8DC",
+    "Dating\x20Tim",
+    "#A18E72",
+    "ong_nghe",
+    "#F4D5B6",
+    "#BFA06A",
+    "bolt.badge",
+    "#FFD45C",
+    "thân\x20ai\x20nấ",
+    "ngao",
+    "bạn\x20mình\x20n",
+    "#55415F",
+    "#823FFF",
+    "mà\x20dỡn",
+    "#104B45",
+    "ksgiving!",
+    "ote",
+    "_an",
+    "khung_hell",
+    "caption:ni",
+    "ều\x20hành\x20lạ",
+    "i_tru_dead",
+    "pb_holo_4c",
+    "#D7B77D",
+    "t\x20loại\x20tài",
+    "#FF4B2B",
+    "#D8D1F2",
+    "ex_den_hoi",
+    "i_deo_ma",
+    "0.8",
+    "caption:ne",
+    "#267DD7",
+    "#E8C979",
+    "#F8D7A7",
+    "#2C5364",
+    "#E53935",
+    "#6A4549",
+    "_lam_vi_da",
+    "Mood:\x20Chil",
+    "nghe",
+    "#47616B",
+    "Practical\x20",
+    "3wpfSzl",
+    "i,\x20làm\x20nhi",
+    "🎨\x20Chứng\x20nh",
+    "#E2F0B0",
+    "Này\x20là\x20hết",
+    "#414C72",
+    "đời\x20sai",
+    "🎨\x20Tâm\x20trạn",
+    "#F0C58E",
+    "#35564F",
+    "ó\x20yêu\x20hong",
+    "#C9E5EE",
+    "nh_thay_me",
+    "côn\x20viên\x20l",
+    "#70C1B3",
+    "yet_khong_",
+    "보고\x20싶어\x20🥺",
+    "026",
+    "#FFAB40",
+    "ệt\x20hong",
+    "Bùng\x20nổ",
+    "\x20uống\x20nào!",
+    "đúng\x20là\x20hế",
+    "caption:de",
+    "#FFD49B",
+    "in_la_biet",
+    "y_2027",
+    "#FBC2EB",
+    "#78A77E",
+    "#F6EBDD",
+    "t_cuu_thie",
+    "c_lap_tai_",
+    "#FF758C",
+    "#F8D5A8",
+    "#FED78B",
+    "g\x20khác,\x20ri",
+    "#D2C6EA",
+    "#C8E1D2",
+    "i.locketca",
+    "_vong",
+    "mera.com",
+    "mắc\x20cỡ\x20quá",
+    "#F4C9BB",
+    "bớt\x20báo\x20gi",
+    "siêu\x20cấp\x20b",
+    "Tiền\x20đâu\x20m",
+    "n_lui_duoc",
+    "#232526",
+    "tcamera.co",
+    "Mixue\x20Time",
+    "/KMjL2bn1.",
+    "\x20đi\x20💛",
+    "#B8E04A",
+    "#F0FFF1",
+    "tin",
+    "#D2C8FF",
+    "la_met",
+    "#153F3D",
+    "xinh\x20là\x20mộ",
+    "#DCCCF0",
+    "#F0D0DC",
+    "_tai_tai_l",
+    "ng\x20vai\x20chư",
+    "thôi\x20thì\x20m",
+    "#91643E",
+    "beard",
+    "Bất\x20lực",
+    "#370C6F",
+    "#398A8C",
+    "tui",
+    "ong_love_h",
+    "ai\x20rồi\x20cũn",
+    "nói\x20chuyện",
+    "#FF6EC7",
+    "t\x20vọng",
+    "#F27121",
+    "n.upanhlay",
+    "theo\x20=))",
+    "ét\x20ô\x20ét",
+    "\x20nghe\x20mắc\x20",
+    "\x20Cute",
+    "caption:la",
+    "#DDD0F2",
+    "g\x20vậy?\x20💛",
+    "#F5D9A9",
+    "caption:hy",
+    "erred",
+    "sweet_hear",
+    "Rớt\x20nước\x20m",
+    "#F9D423",
+    "#F2C4B6",
+    "#EFC2B5",
+    "\x20mua\x20được\x20",
+    "#A6C1EE",
+    "🕶️",
+    "y_2026",
+    "\x20rồi",
+    "weather",
+    "kkah!",
+    "#EE9CA7",
+    "#FFB6C1",
+    "#6C757D",
+    "et_voi",
+    "#93C5FD",
+    "covery_cou",
+    "hôm\x20nay\x20tô",
+    "ai_se_nhu",
+    "h_thuong_e",
+    "regular",
+    "\x20ngày\x20rồi\x20",
+    "#F44336",
+    "ãn!",
+    "caption:me",
+    "deadline\x20d",
+    "#64E8C8",
+    "Có\x20biến\x20có",
+    "#6B5148",
+    "#F0D0B1",
+    ",\x20tài\x20lanh",
+    "anh",
+    "Photobooth",
+    "Có\x20tiền\x20là",
+    "khung_ngoi",
+    "#E8CDEB",
+    "ktok.com/@",
+    "#C8D5E2",
+    "/3lS0E28Z.",
+    "#F5D2C8",
+    "nd\x20🖼️",
+    "caption:ae",
+    "\x20em\x20một\x20cá",
+    "đã\x20xem,\x20ch",
+    "love_you",
+    "round",
+    "#1B5E20",
+    "ngu",
+    "#00F2FE",
+    "\x20trừ\x20deadl",
+    "#6D5436",
+    "Toang\x20thật",
+    "uation\x20Day",
+    "#124559",
+    "#65d9fc",
+    "#BBDEFB",
+    "Locket",
+    "o_kitty_pa",
+    "#F2D2B7",
+    "#B5E5D5",
+    "hé\x20lô\x20cả\x20n",
+    "lo_ca_nha_",
+    "heart",
+    "#fce03f",
+    "#8A2387",
+    "ng\x20có\x20chọc",
+    "#6D597A",
+    "star_sign_",
+    "odnight",
+    "ui\x20của\x20mìn",
+    "#D8C6E8",
+    "Locket\x20Tim",
+    "#EFEBE9",
+    "iu_luon_a",
+    "#D18D59",
+    "#145A64",
+    "#B82D59",
+    "yet_voi_uo",
+    "#6fb1d3",
+    "Không\x20thể\x20",
+    "#D8B4E2",
+    "#F44772",
+    "/locket-pu",
+    "t_tien_vi_",
+    "#52658F",
+    "caption:na",
+    "o\x20Kitty\x20Hồ",
+    "caption:si",
+    "#26D0CE",
+    "n_ha",
+    "Yeu\x20Emmm",
+    "g\x20&\x20Bất\x20ổn",
+    "_be_can_do",
+    "#EC407A",
+    "_uy_tin",
+    "đẹp\x20không\x20",
+    "ong_thay_k",
+    "t-filters",
+    "nhiệm\x20vụ\x20h",
+    "#4A9FEF",
+    "t\x20cả,\x20may\x20",
+    "#FFD1C9",
+    "qua",
+    "y\x20vọng,\x20mộ",
+    "Một\x20follow",
+    "mới\x20đi\x20á",
+    "#20212D",
+    "holiday_in",
+    "n\x20ảnh",
+    "\x20m\x20ơi\x20:))",
+    "#654018",
+    "_nho",
+    "rain.fill",
+    "#D7DEEA",
+    "#DDE9D8",
+    "#FFB347",
+    "#D1D8EA",
+    "ket",
+    "Christmas\x20",
+    "blonde_ble",
+    ",\x20chỉ\x20khôn",
+    "hóa\x20ra\x20tưở",
+    "o_nghi_lam",
+    "#1C1C1E",
+    "#E8D5AD",
+    "#F4D1B0",
+    "✨💟✨",
+    "LOCKET\x20GOL",
+    "_duong_ne_",
+    "#E7D8B8",
+    "ck_cutout",
+    "New\x20Year\x27s",
+    "🎨\x20Deadline",
+    "ppy",
+    "#F6E5D2",
+    "rty_time",
+    "ý\x20là\x20mệt\x20á",
+    "#C9D5EE",
+    "Magic\x202",
+    "Gục\x20ngã",
+    "pb_galaxy",
+    "Nhớ\x20follow",
+    "rk.circle.",
+    "custom",
+    "https://ap",
+    "#1B5E20E6",
+    "#F8D9A0",
+    "VOTE",
+    "stringify",
+    "#426450",
+    "paywall_te",
+    "#334EAC",
+    "u_huynh_du",
+    "_tao_ma_ca",
+    "#FF7B54",
+    "uong_nguoi",
+    "c_met",
+    "i_it_lo",
+    "\x20của\x20bạn,\x20",
+    "\x20hai\x20ơi",
+    "oi_hoc_qua",
+    "#D1E8C9",
+    "nema_time",
+    "một\x20niềm\x20v",
+    "#592313",
+    "un\x20á",
+    "thui\x20mừ\x20đừ",
+    "khung_xanh",
+    "#C8540D",
+    "cter\x20của\x20c",
+    "caption:bi",
+    "%403x.png",
+    "h\x20bạn\x20là\x20g",
+    "n_vinh_bie",
+    "nner_time",
+    "#E9C6DB",
+    "n_island_b",
+    "#E0D1DE",
+    "leprechaun",
+    "nctions.ne",
+    ",\x20bà\x20chã\x20h",
+    "#E5E6D0",
+    "camera.fil",
+    "ì\x20nói\x20chuy",
+    "#C7DCE8",
+    "Silver\x20Hol",
+    "khung_spid",
+    "chịu\x20ngủ",
+    "#EF4444",
+    "#16213E",
+    "691200",
+    "#AAB2C0",
+    "fill",
+    "🛍️",
+    "#E8C6C6",
+    "ae\x20sãn\x20sàn",
+    "OOTD",
+    "vl\x20m\x20ơi?",
+    "Không\x20Gian",
+    "caption:el",
+    "#B7D96C",
+    "1000",
+    "#72EFDD",
+    "#F6D0B2",
+    "frame_sky_",
+    "w_years_ev",
+    "#2193B0",
+    "lạy\x20ai",
+    "#DCD6EC",
+    "#789CB5",
+    "Giờ\x20uống\x20c",
+    "roi",
+    "#A3C957",
+    "light.beac",
+    "#344536",
+    "#DED0E0",
+    "ận\x20của\x20Loc",
+    "#4B5E70",
+    "#FAD0C4",
+    "o_gi_da",
+    "et_dua_kia",
+    "#E7C9EF",
+    "sparkles",
+    "on.max.fil",
+    "#4F4770",
+    "#EDF6F9",
+    "#F5C9B8",
+    "Veterans",
+    "em\x20nhớ\x20anh",
+    "#D5E6A8",
+    "#00BFA5",
+    "#46664C",
+    "#E8D9E6",
+    "cơm\x20nước\x20g",
+    "cho\x20hun\x20mi",
+    "#EED1C8",
+    "ng\x20tượng",
+    "caption:eh",
+    "uá\x20đi\x20mất",
+    "hand.raise",
+    "quá\x20à!",
+    "n\x20online",
+    "\x20Cổ\x20Điển",
+    "h_con_tuon",
+    "không\x20nghe",
+    "lightbulb.",
+    "snowflake",
+    "\x20xưởng\x20❤️❤️❤️",
+    "#424B70",
+    "#F8BBD0",
+    "#176B3A",
+    "#E9D8B8",
+    "á\x20làn",
+    "star_sign",
+    "#205844",
+    "_yeu",
+    "ather",
+    "p_khong_ly",
+    "remote",
+    "#1CB5E0",
+    "caption:ki",
+    "#39204F",
+    "ss_you",
+    "cket_dangi",
+    "#70435B",
+    "#FFEB3B",
+    "mày\x20lắm\x20đó",
+    "trêu\x20bạn",
+    "tieu",
+    "caption:fl",
+    "xue_time",
+    "#FFF0F3",
+    "#E63946",
+    "Ăn\x20cơm\x20chư",
+    "#15345C",
+    "#45475F",
+    "#51546E",
+    "0|5|2",
+    "#F6D9A8",
+    "elf_cutout",
+    "_chua",
+    "photobooth",
+    "tatted",
+    "/GSfYXmKd.",
+    "ernate",
+    "/kSaUH2JF.",
+    "#FFB7C5",
+    "✨🔐💛✨",
+    "#A1C4FD",
+    "#3B00EC",
+    "i\x20ngủ",
+    "em\x20hong\x20có",
+    "caption:ov",
+    "Biển\x20ơiiii",
+    "_diem",
+    "e_2026",
+    "_4cut",
+    "#F6D365",
+    "#5B5472",
+    "_khi",
+    "User-Agent",
+    "#6D5140",
+    "movieclapp",
+    "ết\x20uy\x20tín",
+    "#FF6B6B",
+    "https://pu",
+    "#454660",
+    "cảnh\x20báo:\x20",
+    "#7B1FA2",
+    "#E8D2DF",
+    "#694A68",
+    "#7D9EAB",
+    "NO\x20MEMORY\x20",
+    "_hong_doi",
+    "_vong_that",
+    "#1A1A1A",
+    "c_nao_co_t",
+    "cháy\x20ví",
+    "ợc\x20trà\x20sữa",
+    "_vu",
+    "c\x20nữa",
+    "e_manh",
+    "n\x20bạn\x20là\x20b",
+    "denim_ripp",
+    "Coffee\x20Tim",
+    "#812D49",
+    "Good\x20morni",
+    "Quá\x20là\x20điệ",
+    "#FF91AE",
+    "#65462D",
+    "ura",
+    "/EO18VJqL.",
+    "#AFC6D8",
+    "#627D98",
+    "cloud.sun.",
+    "hello_kitt",
+    "tortoise.f",
+    "opping_tim",
+    "\x20đau",
+    "m_nhau_kho",
+    "t\x20mình",
+    "#173767",
+    "#633F59",
+    "#6F9C84",
+    "g\x20ưa",
+    "caption:mu",
+    "ên\x20dương\x20b",
+    "o_thi_nho",
+    "p_trai_co_",
+    "#C77F9B",
+    "áp\x20lực",
+    "cation",
+    "Overthinki",
+    "Đã\x20#day#\x20n",
+    "miss_you",
+    "h_pastel",
+    "#52B69A",
+    "ệ\x20thống:\x20đ",
+    "ch_xa_lach",
+    "caption:go",
+    "nmark.bubb",
+    "oughts\x20🌙",
+    "Diwali",
+    "ong_khong",
+    "#56AB2F",
+    "#F3D2D9",
+    "#FFB199",
+    "gold_gradi",
+    "#E2D7E8",
+    "i\x20buồn",
+    "ơng\x20em\x20thi",
+    "Ngôi\x20Sao\x20H",
+    "3x.png",
+    "#F0B8CD",
+    "u_troi_da_",
+    "hết\x20duyên\x20",
+    "\x20Denim\x204\x20ô",
+    "_ra_dai_kh",
+    "một\x20chút\x20h",
+    "Thank\x20You\x20",
+    "rồi\x20gay\x20lu",
+    "T23:59:59",
+    "#F2AFC6",
+    "#EFD0C7",
+    "#D8B4F8",
+    "_o_et",
+    "#EAAFC8",
+    "Một\x20ngày\x20r",
+    "#EEC5DD",
+    "#F1BDD0",
+    "1020",
+    "Happy\x20Grad",
+    "#FFD166",
+    "🇺🇸",
+    "a_la_dien_",
+    "paper_4cut",
+    "_nha_ma",
+    "o_khong_tr",
+    "#B8E7FF",
+    "#928DAB",
+    "đừng\x20xem",
+    "ristmas_ev",
+    "#EF7402",
+    "_o_ran_doc",
+    "eu_cap_ba_",
+    "terans_day",
+    "lm_diary",
+    "\x20nhưng\x20lòn",
+    "duyvinh09",
+    "et_roi_kho",
+    "/kyzGgnKy.",
+    "\x20💛",
+    "circle.fil",
+    "#EACDE2",
+    "ươi",
+    "#654B69",
+    "sos",
+    "#FCBF49",
+    "#91A7FF",
+    "i\x20thì\x20thôi",
+    "ồng",
+    "#FDA085",
+    "hỉ\x20buồn",
+    "_cute",
+    "#5F5646",
+    "caption:bl",
+    "oách\x20xà\x20lá",
+    "looks_maxx",
+    "caption:sh",
+    "#B0C9D9",
+    "ì\x20lạ",
+    "u_em_nhiem",
+    "#5D4037",
+    "#FF5F6D",
+    "ake_vibes",
+    "#F77062",
+    "caption:dr",
+    "aduation_d",
+    "t_duyen_he",
+    "Vinh",
+    "#E0E5E3",
+    "#86A873",
+    "locket",
+    "#E5CFF0",
+    "t_cu",
+    "quá",
+    "m_thay_han",
+    "#FFB703",
+    "#064D43",
+    "#00A896",
+    "caption:bu",
+    "hưng\x20hệ\x20đi",
+    "có\x20tài\x20ghê",
+    "✨️⭐️✨",
+    "#F5CBA1",
+    "#EC0C00",
+    "#E7C9DF",
+    "line",
+    "i_song_the",
+    ",\x20đừng\x20có\x20",
+    "#1F1C2C",
+    "Frames",
+    "lại\x20phải\x20l",
+    "#6D9DB8",
+    "iu\x20hong",
+    "#B8C9F2",
+    "#29485D",
+    "#C9E8E9",
+    "ng_phu_ban",
+    "link.com/i",
+    "#26A69A",
+    "Tôi\x20sống\x20t",
+    "#1A1A2E",
+    "\x20hoá\x20ra\x20lố",
+    "#4B626B",
+    "y\x20em\x20cute\x20",
+    "good_morni",
+    "caption:qu",
+    "#7566D9",
+    "#D5B8D2",
+    "oa\x20sen\x20thấ",
+    "#A183B3",
+    "tui\x20không\x20",
+    "/eIXwHlV5.",
+    "ng_choc_be",
+    "hong_ua",
+    "í\x20🏃🏾‍♂️💨",
+    "#B8F0D8",
+    "#EBCFD0",
+    "157680000",
+    "✨⚡️😱⚡✨",
+    "h.09/",
+    "#D9ED9A",
+    "ng_no",
+    "i_tinh_nay",
+    "#719BAA",
+    "999999999",
+    "eck_var",
+    "dicator%40",
+    "Ủa\x20alo,\x20gì",
+    "oi_xiu",
+    "Halloween",
+    "#8E3B46",
+    "caption:to",
+    "\x20lý\x20hương",
+    "#38BDF8",
+    "#EBC6B8",
+    "ình\x20quan\x20t",
+    "#A8E6CF",
+    "#D7C7E6",
+    "18OkwesK",
+    "hé!",
+    "#FFD6A5",
+    "#684B4B",
+    "#FFB3C6",
+    "alone\x20😭",
+    "#D2E8C9",
+    "eng_cuoi_l",
+    "#BBC9D8",
+    "Bóc\x20trúng\x20",
+    "ai\x20sợ\x20thì\x20",
+    "caption:ro",
+    "ae\x20tao\x20ma\x20",
+    "c_co_qua",
+    "cutout",
+    "lười\x20học\x20q",
+    "#C9B1FF",
+    "Eve",
+    "frame_happ",
+    "c_buon_ngu",
+    "#EACBC1",
+    "_thoi",
+    "ngại",
+    "#DED3F4",
+    "uộc\x20đời\x20mì",
+    "#D5DDF8",
+    "bled",
+    "#FFF3D0",
+    "bé\x20hông\x20có",
+    "#F7D4DF",
+    "t_thuong",
+    "#B9A5FF",
+    "#70475D",
+    "dding_time",
+    "u_cuc_dang",
+    "/IlejAWVQ.",
+    "halloween_",
+    "en_oiiii",
+    "#704C47",
+    "w_years_da",
+    "/77T1zXKS.",
+    "i\x20mức\x20hơi\x20",
+    "amera_roll",
+    "#FFEE58",
+    "Ủa\x20alo",
+    "#9295BE",
+    "#607D8B",
+    "mat_chuoi",
+    "nhớ\x20anh\x20tớ",
+    "buồn\x20ngủ\x20n",
+    "#B7E4C7",
+    "không\x20ghét",
+    "birthday.c",
+    "cloud_cove",
+    "03x.png",
+    "🌧️",
+    "đừng\x20im\x20lặ",
+    "ì\x20bảo",
+    "#B71C1C",
+    "#2980B9",
+    "#B0BEC5",
+    "caption:tr",
+    "ợc\x20chưa",
+    "ng\x20ngược",
+    "h_phuc",
+    "#4FACFE",
+    "#812626",
+    "#A0F0E0",
+    "#70445C",
+    "anksgiving",
+    "#B8A1D9",
+    "đề\x20gì\x20luôn",
+    "#F7C9D9",
+    "é\x20ngoan",
+    "caption:mo",
+    "by_love",
+    "🏃💨",
+    "người\x20vui\x20",
+    "#FFF0A8",
+    "#8E2430",
+    "\x20biến",
+    "tưởng\x20gì,\x20",
+    "em\x20ổn,\x20ổn\x20",
+    "không",
+    "#4862F7",
+    "#D8F3DC",
+    "nhớ\x20thì\x20nh",
+    "be_khong_p",
+    "setup_read",
+    "#9A8FBF",
+    "Chưa\x20đủ\x20wo",
+    "#64152F",
+    "#E0F7FA",
+    "xjnh\x20gái",
+    "_tay_van_o",
+    "#C8A6C4",
+    "#FFF0C2",
+    "#DBDBDB",
+    "uoi_vui_nh",
+    "#6A0572",
+    "Sao\x20Vàng\x20X",
+    "#A8B4C9",
+    "Xinh\x20đẹp\x20t",
+    "#D5E3E8",
+    "caption:lu",
+    "#A9C1D9",
+    "ng\x20với\x20em\x20",
+    "Sò\x20Hải\x20Cẩu",
+    "caption:gi",
+    "per",
+    "#FF8E53",
+    "#F0B5CA",
+    "#FFFBF8",
+    "figure.run",
+    "1424288IohmYW",
+    "iu\x20thì\x20nói",
+    "Không\x20cảm\x20",
+    "pastel_vie",
+    "en_dau",
+    "#70474B",
+    "#F5B91E",
+    "below",
+    "Khung\x20Deni",
+    "#633B12",
+    "caption:oo",
+    "#672812",
+    "caption:vi",
+    "ương\x20mại!",
+    "#6A503B",
+    "ạnh\x20con\x20tư",
+    "#1A2980",
+    "/Ya9kkP4b.",
+    "o_kitty_ho",
+    "#BCC5D6",
+    "hơn\x20ai,\x20tu",
+    "true",
+    "#FFFFFFE5",
+    "#8F9FE8",
+    "Nhện\x20Đỏ",
+    "yeu_hong",
+    "u_tinh_kho",
+    "caption:sn",
+    "#7873F5",
+    "locket-425",
+    "Black\x20Frid",
+    "lgia",
+    "_hong_sai",
+    "#F3E5F5",
+    "#505571",
+    "oi_mua",
+    "#704A36",
+    "Nói\x20hết\x20bí",
+    "#EBCFDF",
+    "Đã\x20xác\x20min",
+    "vibe\x20này\x20k",
+    "#5B4A35",
+    "#704D35",
+    "#FCFF57",
+    "u_diem_aur",
+    "split",
+    "one",
+    "ớng",
+    "hay\x20hết\x20th",
+    "#233746",
+    "#F6D9D0",
+    "t_bao",
+    "em\x20bé\x20cần\x20",
+    "phim_1",
+    "#cfedfc",
+    "moon.zzz.f",
+    "#FFD1BA",
+    "#CDB4DB",
+    "wand.and.s",
+    "square.gri",
+    "h\x20đa\x20tình",
+    "easter_chi",
+    "m_nay_noi_",
+    "#D6A36A",
+    "Trang\x20phục",
+    "#EAC8D9",
+    "🏳️",
+    "Trầm\x20cảm\x20n",
+    "giraffe",
+    "#D5D8FF",
+    "#EBCBD8",
+    "khung_anh_",
+    "#FF4D6D",
+    "#3A1C71",
+    "\x20kênh\x20tikt",
+    "i\x20love\x20lạp",
+    "crown.fill",
+    "#D6E6D7",
+    "/gphwGSQG.",
+    "y\x20🐱",
+    "4cut",
+    "clearToken",
+    "#AEB8D1",
+    "background",
+    "c_co_qua_h",
+    "#70243D",
+    "#A5D6A7",
+    "n\x20bè\x20lác\x20m",
+    "i_chieu_tr",
+    "#B7E4A8",
+    "_sao_hong_",
+    "\x20hồi\x20sinh",
+    ".png",
+    "nh_la_lop",
+    "#FFF1B6",
+    ".fill",
+    "\x20đây",
+    "#FF6F91",
+    "#6E4254",
+    "caption:ye",
+    "ng_pastel",
+    "#5C6BC0",
+    "#FF6A88",
+    "wallet.bif",
+    "#7B2CBF",
+    "el_vien_re",
+    "#203A43",
+    "y_la_het_c",
+    "yvinh09",
+    "#FF0062",
+    "happy_birt",
+    "ong_du_tot",
+    "#F8DDE5",
+    "oliday_ind",
+    "bearded",
+    "_holo",
+    "dự\x20án\x20ma",
+    "_indicator",
+    "Locket\x20xác",
+    "Gửi\x20cho\x20họ",
+    "_so_thi_di",
+    "\x20ngày\x20rồi.",
+    "ng_im_lang",
+    "#59636E",
+    "☕🌧️",
+    "không\x20hoàn",
+    "caption:ha",
+    "ng_con_1",
+    "camera.com",
+    "#425348",
+    "ng_be_oi",
+    "#FFFF00",
+    "#00BCD4",
+    "#D4F1BE",
+    "#39B8A5",
+    "assign",
+    "#F3AFC7",
+    "hai_ai",
+    "on_ngu_chu",
+    "frosty",
+    "#FECFEF",
+    "#4E342E",
+    "_v_sao",
+    "#754252",
+    "#FC5C7D",
+    "\x20tắt\x20nguồn",
+    "#C3B1E1",
+    "gòi\x20xong\x20l",
+    "Happy\x20New\x20",
+    "uyen_ghe",
+    "#C7C7DF",
+    "ong_vua_lo",
+    "Sự\x20kiện",
+    "y_on_backg",
+    "Trend\x20Tíc\x20",
+    "\x20•\x20🔥#strea",
+    "caption:i_",
+    "#EA384D",
+    "iem_vu_hom",
+    "Tinh\x20hoa\x20h",
+    "a_nay_tu_l",
+    "duyvinh.09",
+    "#FFC857",
+    "đừng\x20có\x20là",
+    "hỏ?",
+    "#F09819",
+    "#C4D9CB",
+    "iews.png",
+    "#0A84FF",
+    "tui\x20là\x20nạn",
+    "disco_ligh",
+    "#E94057",
+    "_ngoan",
+    "\x20Scrapbook",
+    "Hóng\x20drama",
+    "group_cute",
+    "_do",
+    "andard",
+    "#594015",
+    "#FF9A9E",
+    "bowling_ba",
+    "#6C7A89",
+    "ong_van_de",
+    "_ghe",
+    "caption:ke",
+    "mắc\x20mệt\x20qu",
+    "Cảm\x20lạnh",
+    "_chuyen_ng",
+    "m.com/dvin",
+    "g\x20thì\x20khôn",
+    "#D5D9EF",
+    "#B3E5FC",
+    "#D0E4FF",
+    "#654EA3",
+    "nh_hoa_hoi",
+    "#FFFFFFDB",
+    "Tiền\x20đình",
+    "#141E30",
+    "tumn_2026",
+    "/JNBpQnLu.",
+    "Shopping\x20T",
+    "obooth",
+    "#E9C2D5",
+    "iên\x20hạ",
+    "lucky_face",
+    "cket_time",
+    "2020-01-01",
+    "crush\x20nhìn",
+    "Snake\x20Vibe",
+    "Chê\x20mạnh",
+    ".profile",
+    "ếng\x20coi",
+    "#D9FFF5",
+    "r_assets/h",
+    "khung_hoa_",
+    "Hello\x20Kitt",
+    "g\x20thiên\x20hạ",
+    "#EBD0E5",
+    "cái\x20nết\x20kỳ",
+    "#FF7EB3",
+    "🎨\x20Tình\x20yêu",
+    "#66BB6A",
+    "ang",
+    "não\x20đang\x20b",
+    "#F3C4B9",
+    "tui\x20hơn\x20hẳ",
+    "h\x20bạn\x20là\x20t",
+    "#4CAF50",
+    "ục\x20đích\x20th",
+    "#FF8A50",
+    "#514368",
+    "caption:lo",
+    "#C45D69",
+    "#E2CFEA",
+    "#81C784",
+    "#FFDDE1",
+    "caption:ph",
+    "_nay_nam_i",
+    "an_dang_iu",
+    "#D62828",
+    "lại\x20một\x20mì",
+    "i_gay_luon",
+    "caption:st",
+    "#202124",
+    "gày\x20đi\x20nào",
+    "m_lanh",
+    "\x20🥲",
+    "#D1E5E7",
+    "caption:le",
+    "#FFE0A3",
+    "c_nga",
+    "ơi\x20thở\x20cuố",
+    "#E3D2E4",
+    "caption:ti",
+    "ặng\x20gặp\x20ng",
+    "\x20mê\x20ngủ",
+    "yen_duong",
+    "ạn\x20cute",
+    "lor_palett",
+    "nz_flex",
+    "6|8|4|11|1",
+    "Không\x20vấn\x20",
+    "#164E52",
+    "_nho_anhh",
+    "hông\x20phụ\x20b",
+    "#F5D0C3",
+    "úng\x20dưới\x20m",
+    "/gxzBXrkx.",
+    "Hảo\x20hán",
+    "ong_cam_xu",
+    "frame_berr",
+    "#F08A8E",
+    "i\x20là\x20xong",
+    "hơn\x20thua,\x20",
+    "#713D20",
+    "#FF5722",
+    "y\x20&\x20Sao",
+    "#D66F78",
+    "cloud.moon",
+    "/HmfZ08L9.",
+    "dangiu",
+    "#D2D1ED",
+    "#F3C7D9",
+    "hông\x20ấy\x20mì",
+    "#E5B7CD",
+    "ắt\x20⭐️",
+    "027!",
+    "i_mot_minh",
+    "#731B0D",
+    "rep",
+    "lloween_in",
+    "okay_wig",
+    "Phụ\x20huynh\x20",
+    "#F3B9A9",
+    "tie_pie",
+    "png",
+    "Đã\x20xác\x20nhậ",
+    "#A9B8E8",
+    "_em",
+    "#AAB4BE",
+    "ia\x20ghê\x20😒",
+    "n_hom_qua",
+    "_ho_la_bao",
+    "nh_gai_an_",
+    "rời\x20màu\x20dạ",
+    "i_gi_vay_t",
+    "easter_bun",
+    "le.fill",
+    "🗡️",
+    "i\x20love\x20you",
+    "\x20bé",
+    "có\x20tiền\x20th",
+    "hieu",
+    "https://st",
+    "được\x20dỗ",
+    "#504567",
+    "t_minh",
+    "#672016",
+    "Đang\x20bận\x20t",
+    "Party\x20Time",
+    "ê\x20????",
+    "i_it_lam_n",
+    "i_nho_em",
+    "#FFC64B",
+    "/sKn1mwH3.",
+    "#E73C7E",
+    "Cười\x20xỉu",
+    "caption:cu",
+    "Tuyệt\x20đối\x20",
+    "#FFF59D",
+    "#FE5196",
+    "flame.fill",
+    "#D6B8E8",
+    "#E0C3FC",
+    "ông?",
+    "#FD8205",
+    "Cũng\x20cứng\x20",
+    "locket_cou",
+    "#9A789D",
+    "_nha_thay_",
+    "#006D77",
+    "Giờ\x20mua\x20sắ",
+    "hông\x20biết\x20",
+    "Thân\x20chưa\x20",
+    "#FFE5EC",
+    "cai_nay",
+    "#E8CFF0",
+    "day",
+    "Tuất",
+    "ack_friday",
+    "_i_voted_2",
+    "on_duoc_om",
+    "khi",
+    "#FFE4EC",
+    "#704B48",
+    "ăm\x20chã\x20húi",
+    "tte",
+    "#FFFDD0",
+    "Hồi\x20chiều\x20",
+    "#FF638B",
+    "t\x20đống\x20thấ",
+    "#DA251D",
+    "ời\x20không\x20t",
+    "#7D91A8",
+    "_sua",
+    "#394713",
+    "#5EFFF5",
+    "parkles",
+    "T00:00:00",
+    "nhìn\x20bầu\x20t",
+    "#FFB26B",
+    "fein\x20gấp",
+    "#624C6B",
+    "#EDE8F5",
+    "ok\x20@duyvin",
+    "#D9A4B3",
+    "#2C1A0E",
+    "#F9F7A8",
+    "#8C1938",
+    "gi_sai",
+    "sic",
+    "#FFE8A3",
+    "❤️‍🔥",
+    "https://ti",
+    "bạn!\x20Vui\x20l",
+    "#5D472B",
+    "#FF6B81",
+    "lơ\x20🤡",
+    "#FFD180",
+    "pastel",
+    "includes",
+    "Chạy\x20ngay\x20",
+    "u_emmm",
+    "#FFFFFFE6",
+    "#0000001A",
+    "#FFE0A0",
+    "#C4B5FD",
+    "Happy\x20Hanu",
+    "#D94A77",
+    "nang",
+    "Người\x20im\x20l",
+    "hế\x20đấy",
+    "me!",
+    "eu_ban",
+    "photoboot",
+    "🙏🥺",
+    "\x20đi\x20🫶",
+    "sic_pb",
+    "\x20năng",
+    "caption:po",
+    "en_anh",
+    "c_so_tai_k",
+    "_muon",
+    "Cả\x20ổ\x20rắn\x20đ",
+    "\x20Gold\x20rồi\x20",
+    "Ngoại\x20hình",
+    "#643F00",
+    "#A0C4FF",
+    "Dễ\x20thương",
+    "Đám\x20cưới\x20n",
+    "#80D8FF",
+    "điên\x20đầu\x20q",
+    "ng_truc_ti",
+    "group_cost",
+    "60226csEwBC",
+    "Cứ\x20từ\x20từ\x20k",
+    "#A07DAD",
+    "\x20Pastel",
+    "/bjXF2O5d.",
+    "\x20iu\x20của\x20ai",
+    "chụp\x20mới\x20c",
+    "bá\x20khí\x20nga",
+    "\x20Xanh",
+    "c_trung_si",
+    "\x20??",
+    "#C0394B",
+    "#FF7A59",
+    "d_welcome_",
+    "#263D27",
+    "#B3C5FF",
+    "không\x20biết",
+    "#FFD700",
+    "#51566D",
+    "standard",
+    "caption:be",
+    "cmt_locket",
+    "dicators/s",
+    "#A8E063",
+    "girl",
+    "caption:kh",
+    "#FF9F1C",
+    "group_misc",
+    "n_noi",
+    "a_chiu_ngu",
+    "2a.cloudfu",
+    "erthinking",
+    "ngoan\x20xinh",
+    "#52734D",
+    "Xong\x20rồi\x20n",
+    "🎨\x20Holiday\x20",
+    "#684B3D",
+    "#6B4B3E",
+    "🕯️",
+    "#E8D1F2",
+    "pb_vintage",
+    "#12383D",
+    "o_han",
+    "ve\x20by\x20Duy\x20",
+    "nh_dep_tuy",
+    "#D31027",
+    "#C17F72",
+    "Đi\x20làm\x20vì\x20",
+    "#D8C6E5",
+    "✨💎✨",
+    "main\x20chara",
+    "#3F51B5",
+    "Chilling\x20T",
+    "battery.0p",
+    "#FF416C",
+    "#FFC0CB",
+    "t_on_that_",
+    "en_mua_tra",
+    "Viền\x20Ren",
+    "\x20ghê",
+    "/YYMilOf6.",
+    "_ke_kh_ai_",
+    "#FF9AA2",
+    "#FF6B35",
+    "#CBB4DE",
+    "#D8D5F0",
+    "Cười\x20vcl\x20m",
+    "t_luc",
+    "d.2x2",
+    "#4F5879",
+    "u_ngang",
+    "#F2E3F7",
+    "#29346F",
+    "stel_ngot_",
+    "Tôi\x20yêu\x20Vi",
+    "#1672D4",
+    "location",
+    "always_ena",
+    "nh\x20💕",
+    "Locket\x20Việ",
+    "old.fill",
+    "ublic/jour",
+    "ached",
+    "#78A9F5",
+    "#2C2C2E",
+    "#F07167",
+    "#4CA1AF",
+    "#F2BFC8",
+    "#EFD6D8",
+    "#D9ED92",
+    "#D8D0F0",
+    "blank",
+    "ho\x20ăn",
+    "Merry\x20Chri",
+    "caption:we",
+    "#593B68",
+    "810848iTbJZy",
+    "ng_ton_hoa",
+    "caption:gu",
+    "#EBCDE4",
+    "ng_cung_di",
+    "nline",
+    "n_moii",
+    "ăn\x20nói\x20xà\x20",
+    "Lên\x20hình\x20g",
+    "caption:al",
+    "cket\x20đi\x20ba",
+    "Hay\x20ra\x20dẻ\x20",
+    "rry",
+    "#150804",
+    "#FF3B5C",
+    "à\x20tiêu",
+    "#DFD8C8",
+    "#704510",
+    "#DCE5D1",
+    "caption:il",
+    "#E9DDC9",
+    "ay_moi_vui",
+    "#F2B5C8",
+    "#67455C",
+    "_on_ap_luc",
+    "#F3B6AF",
+    "Xinh\x20gái\x20ấ",
+    "#EACBE0",
+    "t_rit",
+    "t-img",
+    "#FFB182",
+    "m_nuoc_chu",
+    "à\x20phê!",
+    "view",
+    "u_xoi",
+    "i_net_ky",
+    "#7C3AED",
+    "ai\x20cũng\x20có",
+    "\x20vậy\x20á",
+    "#DCE8EF",
+    "#F77F00",
+    "caption:ch",
+    "#FFAD73",
+    "#243B55",
+    "xĩu\x20dọc",
+    "lạnh\x20thấy\x20",
+    "cũng\x20có",
+    "i\x20xui\x20được",
+    "_m_oi",
+    "\x20hảo\x20nhưng",
+    "mà\x20giỡn\x20🤨",
+    "#FFC4D6",
+    "#FF8C00",
+    "Tóc",
+    "hân\x20phẩm",
+    "#6B2814",
+    "_promos/go",
+    "o_bao_tri",
+    "Deadline\x20d",
+    "ều\x20lên",
+    "#F2C8B8",
+    "#644C68",
+    "#C5B5E8",
+    "url",
+    "ly_huong",
+    "đó\x20😎",
+    "#F0C9DD",
+    "đời\x20cho\x20gì",
+    "ôm\x20nay:\x20nằ",
+    "i\x20rồi",
+    "#64B5F6",
+    "#000000",
+    "iem_vu_di_",
+    "ong_tuong",
+    "caption:ma",
+    "\x20luyến\x20ghê",
+    "y_2027_alt",
+    "ill",
+    "_doi_trai",
+    "Sweet\x20Drea",
+    "Cảm\x20thấy\x20d",
+    "Nhìn\x20là\x20bi",
+    "ng_ban_tuo",
+    "cdn.locket",
+    "#101010E6",
+    "caption:pa",
+    "checkmark.",
+    "\x20Berry\x20Day",
+    "nào\x20không\x20",
+    "_don",
+    "#E6C8C9",
+    "#5A4366",
+    "santa_cuto",
+    "cau",
+    "target",
+    "#454545",
+    "#FF8A80",
+    "m_nay_slay",
+    "i_dep",
+    "#633F13",
+    "ama_ai_hon",
+    "princess",
+    "pb_strawbe",
+    "caption:y_",
+    "khung_khon",
+    "a\x20ai\x20nấy\x20h",
+    "#E9D9E8",
+    "gradient",
+    "caption:gh",
+    "wali_2026",
+    "#E64980",
+    "m_nay_toi_",
+    "yêu\x20cục\x20dà",
+    "_tu_tu_kho",
+    "#F5FFB8",
+    "#D3D0E8",
+    "sos.circle",
+    "ộc\x20thân\x20tì",
+    "tcha_latte",
+    "ristmas_da",
+    "ok_ripped_",
+    "t_nuoc_mat",
+    "m\x20bé\x20quạo",
+    "#704B59",
+    "ưng\x20mua\x20đư",
+    "seal.fill",
+    "slimed",
+    "ove_lapxuo",
+    "rangers",
+    "#E9CDE0",
+    "Ngày\x20mới\x20v",
+    "🎨\x20Daily\x20&\x20",
+    "s\x20🌌",
+    "m_thoughts",
+    "#F5E7CC",
+    "\x20ôm\x20nỗi\x20bu",
+    "#FF1493",
+    "oan_xinh_i",
+    "pin\x20người\x20",
+    "đi\x20về",
+    "Cái\x20gì\x20vậy",
+    "yêu\x20em\x20là\x20",
+    "cao",
+    "locket_gol",
+    "Mong\x20tôn\x20h",
+    "#DEC9E4",
+    "về\x20kể\x20kh\x20a",
+    "bíc\x20gòi\x20kh",
+    "ndicator%4",
+    "i_phai_lo",
+    "ội\x20tụ",
+    "🎨\x20Gen\x20Z\x20&\x20",
+    "cutii",
+    "toothless",
+    "#B9D7D0",
+    "ì\x20chưa\x20ngư",
+    "ng\x20slay",
+    "#455467",
+    "có\x20ra\x20dại\x20",
+    "nói\x20ít\x20thô",
+    "#F6C5B9",
+    "Tưởng\x20love",
+    "#8A304F",
+    "#E2CBEF",
+    "#3B5BDB",
+    "Tới\x20rồi\x20tớ",
+    "#C4C8EF",
+    "#F0B6B6",
+    "ê\x20nha\x20má",
+    "mê\x20anh\x20hơn",
+    "nhăm\x20nhăm",
+    "\x20một\x20phát\x20",
+    "#b3001e",
+    "Lúc\x20nào\x20có",
+    "tin\x20nổi",
+    "yet_doi_kh",
+    "Night\x20Vibe",
+    "ay_rua_fen",
+    "\x20nhân",
+    "#405D70",
+    "#F6D2C2",
+    "ời\x20đẹp",
+    "òng\x20không\x20",
+    "question",
+    "đọc\x20số\x20tài",
+    "#F6C6A8",
+    "#C77D78",
+    "user-agent",
+    "lan",
+    "#6DD5ED",
+    "#70465B",
+    "Kể\x20chuyện\x20",
+    "#D9D0EF",
+    "#51e6e4",
+    "streak",
+    "_xem_chua_",
+    "Chan\x20bố\x20mà",
+    "_dieu_hanh",
+    "on_vui_tuo",
+    "caption:iu",
+    "#83C5BE",
+    "#636363",
+    "#FFD6E0",
+    "#E8C6DE",
+    "hát\x20cho\x20bạ",
+    "#F5D2DD",
+    "#F6B6C8",
+    "anh\x20có\x20thư",
+    "unseen",
+    "_gi_luon",
+    "#2E7D32",
+    "tiep",
+    "\x20dỗi,\x20em\x20c",
+    "#78909C",
+    "Giảm\x20sức\x20m",
+    "#1E90FF",
+    "!\x20Đã\x20#day#",
+    "hong\x20bé\x20ơi",
+    "7809210HYuPiQ",
+    "\x20Sky\x20Diary",
+    "Xin\x20chào\x202",
+    "#5367C5",
+    "#FF9800",
+    "#713F40",
+    "ay_ngay_di",
+    "#FFF9C4",
+    "nh_cuoi_nh",
+    "cũng\x20fomo\x20",
+    "#263238",
+    "#FFE66D",
+    "group_phot",
+    "#F4A6B7",
+    "_cung_khac",
+    "#754454",
+    "\x20cứu",
+    "có\x20nhớ\x20ngư",
+    "\x20khoản",
+    "#8CA6DB",
+    "#0097A7",
+    "#F1C6B8",
+    "#6B1833",
+    "#4ADEDE",
+    "ush_nhin",
+    "#343A40",
+    "#2539B6",
+    "an_trong_l",
+    "_khong_thu",
+    "#CDE6D5",
+    "Kiểm\x20tra\x20n",
+    "àm,\x20tay\x20vẫ",
+    "a_a",
+    "#B5C8DE",
+    "Bất\x20ổn\x20thậ",
+    "caption:so",
+    "đêm\x20nay\x20ai",
+    "ông",
+    "ạnh\x20phúc",
+    "#BCCCDC",
+    "#FF4E50",
+    "ủa\x20tưởng\x20m",
+    "t_noi_noi",
+    "caption:nh",
+    "Happy\x20Than",
+    "#69420A",
+    "n_nhan",
+    "\x20trời",
+    "d/forgotte",
+    "🇻🇳",
+    "i_het_bi_m",
+    "_memory",
+    "_thi_noi",
+    "caption:cr",
+    "#BE8C62",
+    "#575CD4",
+    "ình\x20lại\x20mộ",
+    "D\x20ALL\x20FEAT",
+    "nh\x20cưới\x20nh",
+    "?\x20thôi\x20khỏ",
+    "Mắc\x20cỡ\x20quá",
+    "icators/ha",
+    "Ngủ\x20ngon",
+    "đã\x20đến\x20lúc",
+    "Mắc\x20bẫy\x20tì",
+    "hưng\x20chưa\x20",
+    "Lên\x20Locket",
+    "ua_du_wow",
+    "ạn\x20bè\x20khôn",
+    "#F3C1D4",
+    "/WXQ5IJRY.",
+    "caption:vl",
+    "#FFB36B",
+    "chắc\x20tại\x20m",
+    "#D5D1C4",
+    "#C8DDEB",
+    "ởng",
+    "eling_cute",
+    "#B8F3FF",
+    "nh\x20nầy",
+    "y\x20đi",
+    "sít\x20rịt",
+    "_cuu_tui",
+    "#FF8E9E",
+    "#B993D6",
+    "#FFC107",
+    "_tay_sao_v",
+    "xúc",
+    "an_chua_ma",
+    "Check\x20VAR\x20",
+    "#604D6C",
+    "ông\x20có\x20như",
+    "Xin\x20chào\x20M",
+    "u_ngon",
+    "Khung\x20Hell",
+    "Rainy\x20Day\x20",
+    "#FFF0BF",
+    "#F5E2BD",
+    "URES",
+    "#E0E7FF",
+    "ại\x20lệ\x20của\x20",
+    "caption:fi",
+    "i_let_luon",
+    "_den_luc_t",
+    "#294B42",
+    "https://ww",
+    "#455A64",
+    "tuyệt\x20vời,",
+    "huyện\x20nữa\x20",
+    "h.09\x20✨",
+    "hủ\x20đời\x20tra",
+    "xin\x20mờii",
+    "\x20sai,\x20tại\x20",
+    "caption:di",
+    "Chất\x20rắn",
+    "mệt",
+    "#C27F5E",
+    "#EAD1F0",
+    "eye.fill",
+    "#F57C00",
+    "#7888BD",
+    "caption:no",
+    "\x20&\x20Hot\x20Tre",
+    "_com_chua",
+    "#B8C8B3",
+    "cket_dep",
+    "ình\x20không\x20",
+    "khung_past",
+    "Feeling\x20Ha",
+    "#E2DCE9",
+    "i_chuyen_m",
+    "#FF7043",
+    "#526C9E",
+    "film_nosta",
+    "Dỗi\x20rồi",
+    "trừ\x20điểm\x20a",
+    "lại\x20tự\x20mìn",
+    "tới\x20công\x20c",
+    "#37474F",
+    "Wedding\x20Ti",
+    "Cinema\x20Tim",
+    "poll",
+    "ien_thi_mo",
+    "#8E2DE2",
+    "ime!",
+    "gs://locke",
+    "blic.locke",
+    "d.slash.fi",
+    "⚡️😵‍💫⚡",
+    "Đủ\x20bá\x20khí\x20",
+    "#F6D0DF",
+    "#D8EAD8",
+    "ve\x20by\x20Lock",
+    "caption:em",
+    "reak",
+    "#E9D2B8",
+    "hoai\x20sẽ\x20nh",
+    "ủa\x20rồi\x20ai\x20",
+    "ện\x20tiếp",
+    "#FFE0E9",
+    "\x20📸",
+    "caption:ra",
+    "Họ\x20thương\x20",
+    "idgets.png",
+    "#C47C89",
+    "_hong_thi_",
+    "nh_luan_mi",
+    "ien",
+    "ui\x20vẻ",
+    "#EAD9B7",
+    "#BDE0FE",
+    "#CEAF76",
+    "wedding",
+    "hong\x20ạ",
+    "#B185DB",
+    "ng_xem",
+    "caption:sw",
+    "_vai_chuon",
+    "#F0B5CB",
+    "#681D2A",
+    "#38EF7D",
+    "ong_ghet_k",
+    "caption:co",
+    "caption:xi",
+    "hì\x20xoá\x20app",
+    "caption:do",
+    "bye_brows",
+    "/xxXEkGa0.",
+    "#075E54",
+    "#172554",
+    "uyệt\x20vời",
+    "Giờ\x20thư\x20gi",
+    "#cdd64c",
+    "#EAD6AA",
+    "|0|7|3|9|1",
+    "#DFF3FF",
+    "ublic/over",
+    "/GcdaJHFy.",
+    "đủ\x20tốt",
+    "in_charact",
+    "#493824",
+    "m\x20Cá\x20Tính",
+    "0.6",
+    "Sóng\x20gió\x20p",
+    "Này,\x20nhớ\x20b",
+    "caption:ho",
+    "i\x20hơn\x20hôm\x20",
+    "#802D50",
+    "đam\x20mê",
+    "\x20&\x20Thả\x20thí",
+    "caption:ua",
+    "caption:of",
+    "cả\x20nhà\x20thấ",
+    "\x20tiền\x20thì\x20",
+    "sticker_fa",
+    "i\x20chính,\x20đ",
+    "party_time",
+    "ái\x20đẹp",
+    "#FF8C42",
+    "#F0D5E8",
+    "sử\x20dụng\x20ch",
+    "#C9CEE3",
+    "thân\x20chưa\x20",
+    "#EAC7D8",
+    "#E2C8ED",
+    "#E1BEE7",
+    "ld_promo_c",
+    "_gion",
+    "1Dzzy/Shin",
+    "LEFT\x20BEHIN",
+    "ootd",
+    "rai\x20đẹp",
+    "ublic/gold",
+    "🎨\x20Decorati",
+    "ười\x20hay\x20nó",
+    "ất\x20chill",
+    "còn\x20cái\x20nị",
+    "caption:e_",
+    "hong_nghe",
+    "#546E7A",
+    "hief",
+    "\x20Hoài\x20Cổ",
+    "i_xong_lun",
+    "mượn?",
+    "Ra\x20đường\x20n",
+    "blic/overl",
+    "hôm\x20nay\x20cũ",
+    "oi_vcl_m_o",
+    "Vô\x20chụp\x20Lo",
+    "í\x20tụt\x20quần",
+    "Year!",
+    "Bạn\x20bè\x20đan",
+    "_tho_cuoi",
+    "#D9F477",
+    "#FF8FA3",
+    "ar_sign",
+    "cash_money",
+    "#E9D9EF",
+    "#70401F",
+    "ảo\x20trì",
+    "#D2E2E8",
+    "caption:10",
+    "#F4A7C3",
+    "#F8E2BE",
+    "Sinh\x20Nhật\x20",
+    "/Gm6AI5Vf.",
+    "stmas!",
+    "diary",
+    "n_lam_moi_",
+    "#24563A",
+    "#000046",
+    "ent",
+    "#F5F5F0",
+    "em_cute",
+    "Đời\x20thường",
+    "Giờ\x20ăn\x20tối",
+    "\x20oi",
+    "điện\x20ảnh",
+    "_an_ma",
+    "liền",
+    "caption:2a",
+    "emoji",
+    "#8E354A",
+    "nukkah_202",
+    "#E0CDEB",
+    "thế\x20mà\x20lại",
+    "Baby\x20Love\x20",
+    "tiền\x20không",
+    "https://i.",
+    "influencer",
+    "#C6E2D2",
+    "#F7971E",
+    "400000000",
+    "🎨\x20General",
+    "an_bo_may_",
+    "time",
+    "n_xanh_xin",
+    "#FF8E72",
+    "khum\x20có\x20bí",
+    "caption:gr",
+    "#F1C9C1",
+    "1570925LNPisk",
+    "#F5D9E1",
+    "#F7DFCA",
+    "\x20chứ\x20taa\x20💅",
+    "#F4C3D5",
+    "🌪️",
+    "#6A4248",
+    "caption:au",
+    "#5F4C70",
+    "ả\x20đời",
+    "#8CA6B8",
+    "ương\x20tư",
+    "_ngu",
+    "breaking_n",
+    "#283B66",
+    "m\x20phiền\x20th",
+    "group_holi",
+    "\x20an\x20lành",
+    "n_chua_kho",
+    "Nơ\x20Pastel\x20",
+    "nh\x20cảm",
+    "êng\x20bạn\x20th",
+    "at_nguon",
+    "Cu\x20🐎",
+    "#58151B",
+    "ĐANG\x20TRỰC\x20",
+    "n_thua",
+    "headers",
+    "am_cam_nhe",
+    "parse",
+    "#9C27B0",
+    "\x20mật\x20thì\x20c",
+    "#C8E6C9",
+    "questionma",
+    "#D4C6F0",
+    "m\x20im",
+    "độc\x20lập\x20tà",
+    "enabled",
+    "thương\x20ngư",
+    "#3977D5",
+    "#E9CDE8",
+    "streak_con",
+    "lên\x20chùa\x20k",
+    "caption:et",
+    "_alo",
+    "#FF9999",
+    "#E09F3E",
+    "yet_doi_di",
+    "arance",
+    "#F8D0D8",
+    "#FF9A8B",
+    "offline\x20để",
+    "rồi\x20lét\x20lu",
+    "sf_symbol",
+    "ibb.co/1Yt",
+    "#52647A",
+    "+1\x20máy\x20bị\x20",
+    "_tu",
+    "Xin\x20lũi\x20đư",
+    "#FF493F",
+    "hien_cuu_k",
+    "#B2DFDB",
+    "_hong",
+    "ệt\x20Nam",
+    "Chúc\x20mừng\x20",
+    "adline_ruo",
+    "#C18A6E",
+    "group_even",
+    "ưa\x20rep,\x20đã",
+    "g\x20ngóng\x20mà",
+    "d.fill",
+    "https://cd",
+    "#FFCCBC",
+    "òi\x20ai\x20cứu\x20",
+    "#702B16",
+    "i_khong_ho",
+    "#634044",
+    "#FFB74D",
+    "sơ\x20hở\x20là\x20b",
+    "od_morning",
+    "TIẾP",
+    "iữ\x20chuỗi\x20n",
+    "iu\x20hong\x20th",
+    "Flex\x20đến\x20h",
+    "#B5FFFC",
+    "up_moi_cho",
+    "#C9184A",
+    "ong_the_ti",
+    "#D2C8E8",
+    "w.instagra",
+    "trời\x20mưa..",
+    "1579879bSZWxP",
+    "ùa\x20Thu",
+    "at_thi_co_",
+    "#93291E",
+    "ùm\x20cái",
+    "ăn\x20nhó",
+    "uáa",
+    "ake.fill",
+    "#F2B6B8",
+    "#2FA85F",
+    "#f00008",
+    "y_days",
+    "#11998E",
+    "ời\x20buồn\x20kh",
+    "_sen",
+    "_ve",
+    "cutesy",
+    "2027",
+    "ớ,\x20quay\x20lạ",
+    "ể\x20mỗi\x20anh",
+    "#EFC8B1",
+    "#FF0844",
+    "ong_phai_g",
+    "đó.",
+    "caption:am",
+    "caption:du",
+    "hông\x20sài\x20t",
+    "Dinner\x20Tim",
+    "ting_time",
+    "\x204\x20ô",
+    "orage.goog",
+    "#526A82",
+    "Gián\x20đáng\x20",
+    "y_ai",
+    "#FFEDBF",
+    "#F3C4C4",
+    "body",
+    "#FFC2D1",
+    "#35475D",
+    "=))",
+    "10\x20điểm\x20kh",
+    "#F0B6A8",
+    "y_snap",
+    "#F6D1B5",
+    "#80DEEA",
+    "eet_dream",
+    "astel",
+    "c_bay_tinh",
+    "#812D4A",
+    "caption:pi",
+    "#F5B8A9",
+    "l\x20💅",
+    "t\x20Nam",
+    "#DFCBEA",
+    "frame_clas",
+    "ng_fomo",
+    "nal_calend",
+    "Shin-Chan",
+    "#EABF0F",
+    "um_biet_nu",
+    "#2C5E8F",
+    "_2026",
+    "blic/journ",
+    "Xin\x20vĩnh\x20b",
+    "#A8C3A0",
+    "#35B5E8",
+    "Người\x20lạ",
+    "#FFF0B5",
+    "phiền",
+    "Miss\x20you",
+    "icators/va",
+    "t\x20nói\x20nổi",
+    "ổ\x20lém",
+    "\x20:))",
+    "#A2AB58",
+    "#E7D1F2",
+    "u_anhhh",
+    "#174C58",
+    "caption:br",
+    "#F37335",
+    "fig",
+    "#D7A86E",
+    "#C4DFD6",
+    "tốt\x20nghiệp",
+    "xui_duoc_v",
+    "#8B4513",
+    "#7AA6C2",
+    "ng_biet_la",
+    "#F1C0D2",
+    "\x20có\x20khí\x20ch",
+    "_choi_khon",
+    "Giờ\x20Mixue!",
+    "nghe\x20chơi",
+    "face.smili",
+    "_ba_khi_ch",
+    "Chụp\x20một\x20p",
+    "não\x20nghỉ\x20l",
+    "llo_kitty",
+    "#624736",
+    "group_appe",
+    "#C2185B",
+    "2:00\x20AM\x20Th",
+    "🍽️",
+    "tent",
+    "à\x20lơ\x20🤡",
+    "adline_di",
+    "caption:re",
+    "static_con",
+    "_day",
+    "#103F43",
+    "bob_cut",
+    "_anh_me_ng",
+    "#D9E9EF",
+    "ng_tu",
+    "#D9B9D0",
+    "1440",
+    "nhiệm\x20vụ\x20c",
+    "caption:ge",
+    "#A4E6C8",
+    "#49664E",
+    "Cutie\x20Pie\x20",
+    "igns",
+    "#F8DCE5",
+    "Locket\x20tuy",
+    "#FFE3A3",
+    "_la",
+    "#F8759B",
+    "tôi\x20tưởng\x20",
+    "Chờ\x20anh\x20ch",
+    "Khung\x20Y2K\x20",
+    "caption:oa",
+    "#3F554E",
+    "ng.fill",
+    "_tien_noi_",
+    "#6D9EEB",
+    "lentines_i",
+    "buon",
+    "#70495D",
+    "#FFD1DC",
+    "i_hay_noi",
+    "ffee_time",
+    "caption:bo",
+    "#8D6E63",
+    "sống\x20sao\x20c",
+    "oa_ra_lop",
+    "#DCD2E9",
+    "o_anh_phie",
+    "#5D3F59",
+    "quote",
+    "Hoa\x20Xinh\x20P",
+    "group_fram",
+    "nh_tue",
+    "#694F40",
+    "sinh_nhat_",
+    "#FF783F",
+    "#70445A",
+    "_san_san",
+    "cket_xinh",
+    "m_me",
+    "ld_promo_v",
+    "#F8D5D9",
+    "er.fill",
+    "/x84e4vYZ.",
+    "e_ma_lai_h",
+    "m\x20🧊",
+    "caption:ba",
+    "g.png",
+    "Custom\x20🖼️",
+    "yen",
+    "ai_dep",
+    "I\x20voted!",
+    "ương?",
+    "\x20Y2K\x20Holo",
+    "hết\x20tiền\x20v",
+    "#71351F",
+    "út\x20thôi",
+    "y\x20cảnh\x20này",
+    "2026",
+    "#B8F2E6",
+    "\x20hay",
+    "el_so_hai_",
+    "gày\x20rồi!\x20K",
+    "_da_tinh",
+    "#205953",
+    "Matcha\x20Lat",
+    "caption:mi",
+    ".xmark",
+    "rọng\x20lắm?",
+    "illing_tim",
+    "hoa_hoc",
+    "#593744",
+    "moi_anh",
+    "Khung\x20Viền",
+    "ar_assets/",
+    "y\x20Ngọt\x20Ngà",
+    "#FF69B4",
+    "ng_lam_be_",
+    "au\x20đi",
+    "ve_vietnam",
+    "#F6A53A",
+    "#E8BFCB",
+    "ng_nao",
+    "Khung\x20Film",
+    "#C9D9F0",
+    "Mình\x20là\x20lố",
+    "#D8C8F4",
+    "#545677",
+    "❤️‍🩹",
+    "#C7D5ED",
+    "o_anh_chut",
+    "image",
+    "#C4FFF0",
+    "n_pham",
+    "/2LCkIMOS.",
+    "ghét\x20đứa\x20k",
+    "eaking_new",
+    "ng_gio_phu",
+    "#F4BDD0",
+    "#FDE68A",
+    "#F7253E",
+    "g_co",
+    "ay_a",
+    "#23466F",
+    "🌟🫶🌟",
+    "#E0F7D9",
+    "leapis.com",
+    "\x20mất\x20chuỗi",
+    "m/locket-p",
+    "#A8F5D0",
+    "#55CDB5",
+    "#F6BFA6",
+    "lloween_20",
+    "#2C3E50",
+    "fline_de_h",
+    "nh_la_tai_",
+    "#59476F",
+    "#183153",
+    "t\x20sự",
+    "óng",
+    "pb_scrapbo",
+    "iệt\x20chứ",
+    "Feeling\x20Cu",
+    "mẹ\x20🥶",
+    "#E0F2F1",
+    "\x20nhận\x20bạn\x20",
+    "#F4C6B4",
+    "caption:ci",
+    "#F2B5A7",
+    "1856SIjvQh",
+    "-chan-1.pn",
+    "false",
+    "oai_le_cua",
+    "2592000",
+    "quyết\x20k\x20để",
+    "pb_ripped_",
+    "chinh",
+    "_tien_lam_",
+    "iny_day",
+    ".\x20Đã\x20#day#",
+    "mohawk",
+    "#BBC3DD",
+    "#1A237E",
+    "Attention",
+    "ang_that_r",
+    "#694A67",
+    "al_calenda",
+    "gấc\x20buồn\x20n",
+    "t_patricks",
+    "\x20nha,\x20chụp",
+    "ume",
+    "#B8C9E8",
+    "#434343",
+    "2187ZvAllE",
+    "Caption",
+    "#FFDEE9",
+    "#4A00E0",
+    "en_dinh",
+    "#ED213A",
+    "ong",
+    "ai_oi",
+    "caption:ve",
+    "#F1C9B9",
+    "Khung\x20ảnh\x20",
+    "#651515",
+    "goodnight",
+    "brain.head",
+    "cloud.bolt",
+    "off",
+    "hông",
+    "heart.fill",
+    "Hài\x20hước",
+    "#000000E6",
+    "#373653",
+    "#414345",
+    "#FFD1FF",
+    "minimum_re",
+    "love_bug",
+    "Phụ\x20tình\x20k",
+    "sticker_bi",
+    "clown",
+    "#F3D8B8",
+    "\x20🫠",
+    "#405340",
+    "Ngày\x20lễ",
+    "#E9B9C5",
+    "#2979FF",
+    "#00897B",
+    "hellokitty",
+    "i_cong_chu",
+    "Cha\x20này\x20tự",
+    "#9B8AFB",
+    "✨💗✨",
+    "#087E8B",
+    "xĩu\x20ngang\x20",
+    "y\x20lo,\x20dram",
+    "#19A1D8",
+    "#70475C",
+    "#FF007F",
+    "#E7C8D6",
+    "#F5D5B6",
+    "\x20gu\x20của\x20tấ",
+    "flower_cro",
+    "#57A99A",
+    "pb_single_",
+    "-central1-",
+    "#FFB4A2",
+    "stflight",
+    "caption:tu",
+    "caption:ai",
+    "#633B24",
+    "#E5A642",
+    "nh\x20yêu",
+    "2099-12-31",
+    "#FF8FAB",
+    "Flex\x20💅",
+    "#E8DFC6",
+    "hương\x20mình",
+    "#65A30D",
+    "#168AAD",
+    "_cha_hui",
+    "#3867FF",
+    "y2k_silver",
+    "ercent",
+    "#DCCAE9",
+    "ng_drama",
+    "g_gap_nguo",
+    "ine",
+    "dùng\x20còn\x201",
+    "#D5A64B",
+    "Khung\x20&\x20Ph",
+    "/QjqQ20hC.",
+    "#1A237EE6",
+    "#D9DFC5",
+    "mai\x20tính,\x20",
+    "#C9DCEB",
+    "#F4CB78",
+    "ld_promo_w",
+    "splay_coun",
+    "en_dau_ma_",
+    "#D8C8E8",
+    "Giáng\x20sinh",
+    "#E0E9C9",
+    "cket_cuti",
+    "#780c23",
+    "braces",
+    "#EED9B9",
+    "#6D4C41",
+    "local",
+    "bất\x20ngờ\x20đi",
+    "Lâu\x20rồi\x20đó",
+    "miệng\x20cười",
+    "thw",
+    "i_di_a",
+    "#315847",
+    "t-video",
+    "#4C385C",
+    "iệt\x20cụ",
+    "Goodnight",
+    "\x20dạ?",
+    "otobooth\x20📸",
+    "i_roi",
+    "#D4E3EB",
+    "#E5CFF4",
+    "#70454D",
+    "#FF8A5B",
+    "pb_denim_r",
+    "ing",
+    "không\x20phải",
+    "#C2E9FB",
+    "đẹp\x20chai",
+    "#FFCA70",
+    "caption:ga",
+    "/ERSGe9wZ.",
+    "y_ra_de_qu",
+    "#F2BDA5",
+    "o\x20phải\x20ai\x20",
+    "_noi_xa_lo",
+    "caption:ca",
+    "ney_cutout",
+    "🎨\x20Meme\x20&\x20X",
+    "á\x20khí",
+    "i_roi_toi_",
+    "normal",
+    "caption:ng",
+    "#17483F",
+    "_bien_co_b",
+    "buns",
+    "#16A085",
+    "#DCCBFF",
+    "bao",
+    "#0F2027",
+    "#ADB5BD",
+    "#384358",
+    "n_cai_nit",
+    "#F5C5A9",
+    "#BEDCEB",
+    "#2F4712",
+    "Đẹp\x20trai\x20c",
+    "color_pale",
+    "Hên\x20lắm\x20mớ",
+    "#725CFF",
+    "quao",
+    "oi_sinh",
+    "anh\x20là\x20ngo",
+    "Cần\x20nạp\x20ca",
+    "#FFC371",
+    "lays/forgo",
+    "#D7CCC8",
+    "ays/star_s",
+    "Luôn\x20vui\x20t",
+    "/I3P77Cgk.",
+    "bây\x20giờ",
+    "Muốn\x20được\x20",
+    "#F3D9C5",
+    "#3498DB",
+    "#C5DDF1",
+    "hà\x20iu",
+    "am_suc_man",
+    "#00D4FF",
+    "i\x20tin\x20:))",
+    "#292E49",
+    "Nấu\x20xói",
+    "#D5CDE5",
+    "#8EACCD",
+    "g_gian_xan",
+    "hday",
+    "#FDC830",
+    "#C0B7E5",
+    "tất\x20cả,\x20nh",
+    "ong_ai_cun",
+    "am_nham",
+    "review",
+    "#E85D75",
+    "đấm\x20nhau\x20k",
+    "#F0C4A8",
+    "em_tra_nha",
+    "#287271",
+    "#FFE4E1",
+    "#F4E1C5",
+    "#a94770",
+    "caption:he",
+    "n_nguoi_du",
+    "caption:da",
+    "exclamatio",
+    "_chan",
+    "ho\x20vừa\x20lòn",
+    "#E2CBE6",
+    "#56CFE1",
+    "#258DEB",
+    "ấy,\x20không\x20",
+    "#525866",
+    "n\x20phím\x201",
+    "/itGU69Tn.",
+    "á\x20m\x20ơi",
+    "hết\x20cứu\x20th",
+    "#C4D7F2",
+    "#E91E63",
+    "quậy\x20rứa\x20f",
+  ];
+  _0x3aa7 = function () {
+    return _0x2d32d7;
+  };
+  return _0x3aa7();
+}
+var ua =
+    $request[_0x2a997b(0x808)][_0x2a997b(0x29a)] ||
+    $request[_0x2a997b(0x808)][_0x2a997b(0x6a1)] ||
+    "",
+  obj = JSON[_0x2a997b(0x80a)]($response[_0x2a997b(0x86c)]);
+function _0x500a(_0x3cc989, _0x7ca1c2) {
+  _0x3cc989 = _0x3cc989 - (0x152 * 0x14 + -0x1 * -0x7f1 + 0x303 * -0xb);
+  var _0x3d27d2 = _0x3aa7();
+  var _0x4e95cc = _0x3d27d2[_0x3cc989];
+  return _0x4e95cc;
+}
+if (ua[_0x2a997b(0x564)](_0x2a997b(0x1a6))) {
+  var VSwhoK = (_0x2a997b(0x4e2) + _0x2a997b(0x782) + _0x2a997b(0x283))[
+      _0x2a997b(0x40b)
+    ]("|"),
+    ElOhnb = 0x1 * -0x1f39 + 0x39 * 0x9e + -0x3f5;
+  while (!![]) {
+    switch (VSwhoK[ElOhnb++]) {
+      case "0":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          max_friends_count: _0x2a997b(0x35e),
+          friend_limit_mode: "0",
+          soft_friend_limit_threshold_count: _0x2a997b(0x35e),
+          show_friend_limit_on_cam: _0x2a997b(0x942),
+          signup_max_friends_count: _0x2a997b(0x35e),
+          celebrity_inbox_limit: _0x2a997b(0x35e),
+          celebrity_inbox_enabled: _0x2a997b(0x3f3),
+          celebrity_vip_qr_redemption_enabled: _0x2a997b(0x3f3),
+          friend_limit_geo_override: JSON[_0x2a997b(0x202)]({
+            experiments: {},
+            area_code_overrides: {},
+          }),
+          friends_sheet_locket_count_config: JSON[_0x2a997b(0x202)]({
+            items: [
+              { threshold: 0x0, icon_name: _0x2a997b(0x1ac) },
+              { threshold: 0x1, icon_name: _0x2a997b(0x969) },
+              { threshold: 0xa, emoji: "🤍" },
+              { threshold: 0x64, emoji: "💛" },
+              { threshold: 0x1f4, emoji: _0x2a997b(0x55c) },
+              { threshold: 0x3e8, emoji: _0x2a997b(0x927) },
+              { threshold: 0x7d0, emoji: _0x2a997b(0x1ec) },
+              { threshold: 0x1388, emoji: _0x2a997b(0x754) },
+              { threshold: 0x2710, emoji: _0x2a997b(0x358) },
+            ],
+          }),
+          friend_locket_count_config: JSON[_0x2a997b(0x202)]({
+            items: [
+              { threshold: 0x0, icon_name: _0x2a997b(0x1ac) },
+              { threshold: 0x1, icon_name: _0x2a997b(0x969) },
+              { threshold: 0xa, emoji: "🤍" },
+              { threshold: 0x64, emoji: "💛" },
+              { threshold: 0x1f4, emoji: _0x2a997b(0x55c) },
+              { threshold: 0x3e8, emoji: _0x2a997b(0x97f) },
+              { threshold: 0x7d0, emoji: _0x2a997b(0x333) },
+              { threshold: 0x1388, emoji: _0x2a997b(0x5b7) },
+              { threshold: 0x2710, emoji: _0x2a997b(0x28d) },
+            ],
+          }),
+          new_friends_monitoring_enabled: _0x2a997b(0x3f3),
+          improved_friend_suggestions: _0x2a997b(0x3f3),
+          show_friend_suggestions_by_default: _0x2a997b(0x3f3),
+          emoji_friend_suggestions: _0x2a997b(0x3f3),
+          friend_suggestions_v2: _0x2a997b(0x3f3),
+          prompt_contact_permissions_on_search: _0x2a997b(0x3f3),
+          populate_phone_numbers_from_suggest_friends: _0x2a997b(0x3f3),
+          hide_friends_enabled: _0x2a997b(0x3f3),
+          hide_invite_links: _0x2a997b(0x942),
+          hide_skip_contacts: _0x2a997b(0x3f3),
+          show_all_contacts: _0x2a997b(0x3f3),
+          show_invite_suggestions: _0x2a997b(0x3f3),
+          show_no_friends_bottom_sheet: _0x2a997b(0x942),
+          signup_allow_skip_add_friends: _0x2a997b(0x3f3),
+          signup_custom_profile_picture: _0x2a997b(0x3f3),
+          user_data_export_enabled: _0x2a997b(0x3f3),
+          username_suggestions_enabled: _0x2a997b(0x3f3),
+        });
+        continue;
+      case "1":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          camera: JSON[_0x2a997b(0x202)]({
+            gold_max_duration: 0x3c,
+            max_duration: 0x3c,
+            ultra_wide: !![],
+            volume_button: !![],
+            flash_button: !![],
+            telephoto: !![],
+            srgb: !![],
+            lanczos: !![],
+            quality_mbps: 0.6,
+          }),
+          camera_roll: JSON[_0x2a997b(0x202)]({
+            gold_max_duration: 0x1e,
+            video_max_duration: 0x1e,
+            max_duration: 0x1e,
+            trim_max_duration: 0x1e,
+            camera_roll_max_duration: 0x1e,
+            quality_mbps: 0.6,
+            flash_button: !![],
+          }),
+          live_photos: JSON[_0x2a997b(0x202)]({
+            capture: !![],
+            video: !![],
+            viewing: !![],
+            catch_up: !![],
+            widget_playback: !![],
+            widget_looping_mode: _0x2a997b(0x6b6),
+          }),
+          camera_filter_config: JSON[_0x2a997b(0x202)]({
+            allows_custom_filters: !![],
+            show_filter_button: !![],
+            sheet_enabled: !![],
+            open_sheet_immediately: !![],
+            reference_image_attachment_enabled: !![],
+            sheet_filters: [
+              {
+                id: _0x2a997b(0x6cc) + _0x2a997b(0x4a7),
+                title: { en: _0x2a997b(0x18e) + _0x2a997b(0x760) },
+                filter_ids: [
+                  _0x2a997b(0x4ec) + _0x2a997b(0x853),
+                  _0x2a997b(0x37e) + _0x2a997b(0x872),
+                  _0x2a997b(0x23a) + _0x2a997b(0x7cb),
+                  _0x2a997b(0x287) + _0x2a997b(0x296),
+                  _0x2a997b(0x287) + _0x2a997b(0x315),
+                  _0x2a997b(0xa93) + "ut",
+                  _0x2a997b(0x937) + _0x2a997b(0x65e) + _0x2a997b(0x42e),
+                  _0x2a997b(0x946) + _0x2a997b(0x2f9),
+                  _0x2a997b(0x9c9) + _0x2a997b(0xa74),
+                ],
+              },
+              {
+                id: _0x2a997b(0x8de) + "es",
+                title: { en: _0x2a997b(0x962) + _0x2a997b(0x8ef) },
+                filter_ids: [
+                  _0x2a997b(0x87e) + _0x2a997b(0x575),
+                  _0x2a997b(0x972) + _0x2a997b(0x766) + _0x2a997b(0x8df),
+                  _0x2a997b(0x59b),
+                  _0x2a997b(0xa8f) +
+                    _0x2a997b(0x1a7) +
+                    _0x2a997b(0x5cf) +
+                    _0x2a997b(0xa86),
+                  _0x2a997b(0xa8f) + _0x2a997b(0x3f0) + _0x2a997b(0x442),
+                  _0x2a997b(0x73f) + _0x2a997b(0x447) + "n",
+                  _0x2a997b(0x4b4) + _0x2a997b(0x3e1) + _0x2a997b(0x7e8) + "h",
+                  _0x2a997b(0x228) + _0x2a997b(0x16c),
+                  _0x2a997b(0x64e) + _0x2a997b(0xa04) + _0x2a997b(0x2d1),
+                  _0x2a997b(0x190) + _0x2a997b(0x438) + _0x2a997b(0x563),
+                  _0x2a997b(0x73f) + _0x2a997b(0x8fc) + _0x2a997b(0x643),
+                  _0x2a997b(0xa3c) + _0x2a997b(0xa18),
+                  _0x2a997b(0x425) + _0x2a997b(0x97b) + _0x2a997b(0x46c),
+                  _0x2a997b(0x215) + _0x2a997b(0x716) + _0x2a997b(0x4bc),
+                  _0x2a997b(0x8e1) + _0x2a997b(0x2bd) + "y",
+                  _0x2a997b(0x98b) + _0x2a997b(0x99d) + _0x2a997b(0x451),
+                  _0x2a997b(0x98b) + _0x2a997b(0x2b1) + "ed",
+                  _0x2a997b(0x98b) + _0x2a997b(0x745) + _0x2a997b(0x3fd),
+                ],
+              },
+              {
+                id: _0x2a997b(0x5a1) + _0x2a997b(0x7b0),
+                title: { en: _0x2a997b(0x96a) },
+                filter_ids: [
+                  _0x2a997b(0x501),
+                  _0x2a997b(0x7e1),
+                  _0x2a997b(0x319) + _0x2a997b(0x9ca),
+                  _0x2a997b(0x67f),
+                  _0x2a997b(0x77a),
+                ],
+              },
+              {
+                id: _0x2a997b(0x8ab) + _0x2a997b(0x81d),
+                title: { en: _0x2a997b(0x57d) },
+                filter_ids: [
+                  _0x2a997b(0x492) + "ll",
+                  _0x2a997b(0x1e5) + _0x2a997b(0x5d8),
+                  _0x2a997b(0x157),
+                  _0x2a997b(0x8b6),
+                  _0x2a997b(0x9de),
+                  _0x2a997b(0x288),
+                  _0x2a997b(0x94b),
+                  _0x2a997b(0x9b4),
+                  _0x2a997b(0x77a),
+                ],
+              },
+              {
+                id: _0x2a997b(0x830) + "t",
+                title: { en: _0x2a997b(0x476) },
+                filter_ids: [
+                  _0x2a997b(0x328),
+                  _0x2a997b(0x664),
+                  _0x2a997b(0x64b),
+                  _0x2a997b(0x488) + "ts",
+                  _0x2a997b(0x7c0),
+                  _0x2a997b(0x44c) + _0x2a997b(0xa05),
+                ],
+              },
+              {
+                id: _0x2a997b(0x48d),
+                title: { en: _0x2a997b(0x580) },
+                filter_ids: [
+                  _0x2a997b(0x858),
+                  _0x2a997b(0x796) + "ce",
+                  _0x2a997b(0x989) + "wn",
+                  _0x2a997b(0x970),
+                ],
+              },
+              {
+                id: _0x2a997b(0x585) + _0x2a997b(0x955),
+                title: { en: _0x2a997b(0x41e) },
+                filter_ids: [
+                  _0x2a997b(0x76c),
+                  _0x2a997b(0xa59) + _0x2a997b(0x59e),
+                  _0x2a997b(0x422),
+                  _0x2a997b(0x973),
+                ],
+              },
+              {
+                id: _0x2a997b(0x7fd) + _0x2a997b(0x539),
+                title: { en: _0x2a997b(0x977) },
+                filter_ids: [
+                  _0x2a997b(0x510) + _0x2a997b(0x9d6),
+                  _0x2a997b(0x41b) + _0x2a997b(0x1f0),
+                  _0x2a997b(0x450),
+                  _0x2a997b(0x220),
+                  _0x2a997b(0x4aa),
+                  _0x2a997b(0x16d) + "ts",
+                  _0x2a997b(0x285),
+                  _0x2a997b(0x642) + "ut",
+                  _0x2a997b(0x469),
+                ],
+              },
+            ],
+            filter_groups: [
+              {
+                id: _0x2a997b(0x6cc) + _0x2a997b(0x4a7),
+                title: { en: _0x2a997b(0x9a5) + _0x2a997b(0x9c3) },
+                filter_ids: [
+                  _0x2a997b(0x4ec) + _0x2a997b(0x853),
+                  _0x2a997b(0x37e) + _0x2a997b(0x872),
+                  _0x2a997b(0x23a) + _0x2a997b(0x7cb),
+                  _0x2a997b(0x287) + _0x2a997b(0x296),
+                  _0x2a997b(0x287) + _0x2a997b(0x315),
+                  _0x2a997b(0xa93) + "ut",
+                  _0x2a997b(0x937) + _0x2a997b(0x65e) + _0x2a997b(0x42e),
+                  _0x2a997b(0x946) + _0x2a997b(0x2f9),
+                  _0x2a997b(0x9c9) + _0x2a997b(0xa74),
+                ],
+              },
+              {
+                id: _0x2a997b(0x8de) + "es",
+                title: {
+                  en: _0x2a997b(0x908) + _0x2a997b(0x73a) + _0x2a997b(0x196),
+                },
+                filter_ids: [
+                  _0x2a997b(0x87e) + _0x2a997b(0x575),
+                  _0x2a997b(0x972) + _0x2a997b(0x766) + _0x2a997b(0x8df),
+                  _0x2a997b(0x59b),
+                  _0x2a997b(0xa8f) +
+                    _0x2a997b(0x1a7) +
+                    _0x2a997b(0x5cf) +
+                    _0x2a997b(0xa86),
+                  _0x2a997b(0xa8f) + _0x2a997b(0x3f0) + _0x2a997b(0x442),
+                  _0x2a997b(0x73f) + _0x2a997b(0x447) + "n",
+                  _0x2a997b(0x4b4) + _0x2a997b(0x3e1) + _0x2a997b(0x7e8) + "h",
+                  _0x2a997b(0x228) + _0x2a997b(0x16c),
+                  _0x2a997b(0x64e) + _0x2a997b(0xa04) + _0x2a997b(0x2d1),
+                  _0x2a997b(0x190) + _0x2a997b(0x438) + _0x2a997b(0x563),
+                  _0x2a997b(0x73f) + _0x2a997b(0x8fc) + _0x2a997b(0x643),
+                  _0x2a997b(0xa3c) + _0x2a997b(0xa18),
+                  _0x2a997b(0x425) + _0x2a997b(0x97b) + _0x2a997b(0x46c),
+                  _0x2a997b(0x215) + _0x2a997b(0x716) + _0x2a997b(0x4bc),
+                  _0x2a997b(0x8e1) + _0x2a997b(0x2bd) + "y",
+                  _0x2a997b(0x98b) + _0x2a997b(0x99d) + _0x2a997b(0x451),
+                  _0x2a997b(0x98b) + _0x2a997b(0x2b1) + "ed",
+                  _0x2a997b(0x98b) + _0x2a997b(0x745) + _0x2a997b(0x3fd),
+                ],
+              },
+              {
+                id: _0x2a997b(0x5a1) + _0x2a997b(0x7b0),
+                title: { en: _0x2a997b(0x96a) },
+                filter_ids: [
+                  _0x2a997b(0x501),
+                  _0x2a997b(0x7e1),
+                  _0x2a997b(0x319) + _0x2a997b(0x9ca),
+                  _0x2a997b(0x67f),
+                  _0x2a997b(0x77a),
+                ],
+              },
+              {
+                id: _0x2a997b(0x8ab) + _0x2a997b(0x81d),
+                title: { en: _0x2a997b(0x57d) },
+                filter_ids: [
+                  _0x2a997b(0x492) + "ll",
+                  _0x2a997b(0x1e5) + _0x2a997b(0x5d8),
+                  _0x2a997b(0x157),
+                  _0x2a997b(0x8b6),
+                  _0x2a997b(0x9de),
+                  _0x2a997b(0x288),
+                  _0x2a997b(0x94b),
+                  _0x2a997b(0x9b4),
+                  _0x2a997b(0x77a),
+                ],
+              },
+              {
+                id: _0x2a997b(0x830) + "t",
+                title: { en: _0x2a997b(0x476) },
+                filter_ids: [
+                  _0x2a997b(0x328),
+                  _0x2a997b(0x664),
+                  _0x2a997b(0x64b),
+                  _0x2a997b(0x488) + "ts",
+                  _0x2a997b(0x7c0),
+                  _0x2a997b(0x44c) + _0x2a997b(0xa05),
+                ],
+              },
+              {
+                id: _0x2a997b(0x48d),
+                title: { en: _0x2a997b(0x580) },
+                filter_ids: [
+                  _0x2a997b(0x858),
+                  _0x2a997b(0x796) + "ce",
+                  _0x2a997b(0x989) + "wn",
+                  _0x2a997b(0x970),
+                ],
+              },
+              {
+                id: _0x2a997b(0x585) + _0x2a997b(0x955),
+                title: { en: _0x2a997b(0x41e) },
+                filter_ids: [
+                  _0x2a997b(0x76c),
+                  _0x2a997b(0xa59) + _0x2a997b(0x59e),
+                  _0x2a997b(0x422),
+                  _0x2a997b(0x973),
+                ],
+              },
+              {
+                id: _0x2a997b(0x7fd) + _0x2a997b(0x539),
+                title: { en: _0x2a997b(0x977) },
+                filter_ids: [
+                  _0x2a997b(0x510) + _0x2a997b(0x9d6),
+                  _0x2a997b(0x41b) + _0x2a997b(0x1f0),
+                  _0x2a997b(0x450),
+                  _0x2a997b(0x220),
+                  _0x2a997b(0x4aa),
+                  _0x2a997b(0x16d) + "ts",
+                  _0x2a997b(0x285),
+                  _0x2a997b(0x642) + "ut",
+                  _0x2a997b(0x469),
+                ],
+              },
+            ],
+            picker_filters: [
+              _0x2a997b(0x501),
+              _0x2a997b(0x7e1),
+              _0x2a997b(0x319) + _0x2a997b(0x9ca),
+              _0x2a997b(0x67f),
+              _0x2a997b(0x77a),
+              _0x2a997b(0x492) + "ll",
+              _0x2a997b(0x1e5) + _0x2a997b(0x5d8),
+              _0x2a997b(0x157),
+              _0x2a997b(0x8b6),
+              _0x2a997b(0x9de),
+              _0x2a997b(0x288),
+              _0x2a997b(0x94b),
+              _0x2a997b(0x9b4),
+              _0x2a997b(0x664),
+              _0x2a997b(0x64b),
+              _0x2a997b(0x488) + "ts",
+              _0x2a997b(0x7c0),
+              _0x2a997b(0x44c) + _0x2a997b(0xa05),
+              _0x2a997b(0x858),
+              _0x2a997b(0x796) + "ce",
+              _0x2a997b(0x989) + "wn",
+              _0x2a997b(0x970),
+              _0x2a997b(0x76c),
+              _0x2a997b(0xa59) + _0x2a997b(0x59e),
+              _0x2a997b(0x422),
+              _0x2a997b(0x973),
+              _0x2a997b(0x510) + _0x2a997b(0x9d6),
+              _0x2a997b(0x41b) + _0x2a997b(0x1f0),
+              _0x2a997b(0x450),
+              _0x2a997b(0x220),
+              _0x2a997b(0x4aa),
+              _0x2a997b(0x16d) + "ts",
+              _0x2a997b(0x285),
+              _0x2a997b(0x642) + "ut",
+              _0x2a997b(0x469),
+              _0x2a997b(0x4ec) + _0x2a997b(0x853),
+              _0x2a997b(0x37e) + _0x2a997b(0x872),
+              _0x2a997b(0x23a) + _0x2a997b(0x7cb),
+              _0x2a997b(0x287) + _0x2a997b(0x296),
+              _0x2a997b(0x287) + _0x2a997b(0x315),
+              _0x2a997b(0xa93) + "ut",
+              _0x2a997b(0x937) + _0x2a997b(0x65e) + _0x2a997b(0x42e),
+              _0x2a997b(0x946) + _0x2a997b(0x2f9),
+              _0x2a997b(0x9c9) + _0x2a997b(0xa74),
+              _0x2a997b(0x87e) + _0x2a997b(0x575),
+              _0x2a997b(0x972) + _0x2a997b(0x766) + _0x2a997b(0x8df),
+              _0x2a997b(0x59b),
+              _0x2a997b(0xa8f) +
+                _0x2a997b(0x1a7) +
+                _0x2a997b(0x5cf) +
+                _0x2a997b(0xa86),
+              _0x2a997b(0xa8f) + _0x2a997b(0x3f0) + _0x2a997b(0x442),
+              _0x2a997b(0x73f) + _0x2a997b(0x447) + "n",
+              _0x2a997b(0x4b4) + _0x2a997b(0x3e1) + _0x2a997b(0x7e8) + "h",
+              _0x2a997b(0x228) + _0x2a997b(0x16c),
+              _0x2a997b(0x64e) + _0x2a997b(0xa04) + _0x2a997b(0x2d1),
+              _0x2a997b(0x190) + _0x2a997b(0x438) + _0x2a997b(0x563),
+              _0x2a997b(0x73f) + _0x2a997b(0x8fc) + _0x2a997b(0x643),
+              _0x2a997b(0xa3c) + _0x2a997b(0xa18),
+              _0x2a997b(0x425) + _0x2a997b(0x97b) + _0x2a997b(0x46c),
+              _0x2a997b(0x215) + _0x2a997b(0x716) + _0x2a997b(0x4bc),
+              _0x2a997b(0x8e1) + _0x2a997b(0x2bd) + "y",
+              _0x2a997b(0x98b) + _0x2a997b(0x99d) + _0x2a997b(0x451),
+              _0x2a997b(0x98b) + _0x2a997b(0x2b1) + "ed",
+              _0x2a997b(0x98b) + _0x2a997b(0x745) + _0x2a997b(0x3fd),
+              _0x2a997b(0x328),
+            ],
+            remote_filters: [
+              {
+                uid: _0x2a997b(0x4ec) + _0x2a997b(0x853),
+                id: _0x2a997b(0x4ec) + _0x2a997b(0x853),
+                name: _0x2a997b(0x18e) + _0x2a997b(0x63d) + "s",
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x64c) + _0x2a997b(0x5f2),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4e9) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4e9) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4e9) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4e9) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x17a),
+                colors: [_0x2a997b(0x17a), _0x2a997b(0x90b)],
+                captureButtonColors: [_0x2a997b(0x17a), _0x2a997b(0x90b)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4e9) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4e9) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4e9) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x37e) + _0x2a997b(0x872),
+                id: _0x2a997b(0x37e) + _0x2a997b(0x872),
+                name: _0x2a997b(0x18e) + _0x2a997b(0xa57) + "p",
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x5ae),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x3ef) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x3ef) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x3ef) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x3ef) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x36a),
+                colors: [_0x2a997b(0x36a), _0x2a997b(0xa76)],
+                captureButtonColors: [_0x2a997b(0x36a), _0x2a997b(0xa76)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x3ef) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x3ef) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x3ef) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x23a) + _0x2a997b(0x7cb),
+                id: _0x2a997b(0x23a) + _0x2a997b(0x7cb),
+                name: _0x2a997b(0x18e) + _0x2a997b(0x6c1),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x1fa),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x706) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x706) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x706) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x706) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x2ee),
+                colors: [_0x2a997b(0x2ee), _0x2a997b(0x470)],
+                captureButtonColors: [_0x2a997b(0x2ee), _0x2a997b(0x470)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x706) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x706) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x706) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x287) + _0x2a997b(0x296),
+                id: _0x2a997b(0x287) + _0x2a997b(0x296),
+                name: _0x2a997b(0x18e) + _0x2a997b(0x865),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x287) + _0x2a997b(0x296),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9f6) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9f6) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9f6) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9f6) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x6b0),
+                colors: [_0x2a997b(0x6b0), _0x2a997b(0x53f)],
+                captureButtonColors: [_0x2a997b(0x6b0), _0x2a997b(0x53f)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9f6) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9f6) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9f6) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x287) + _0x2a997b(0x315),
+                id: _0x2a997b(0x287) + _0x2a997b(0x315),
+                name: _0x2a997b(0x18e) + _0x2a997b(0x166),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x287) + _0x2a997b(0x315),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9a6) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9a6) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9a6) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9a6) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x6b0),
+                colors: [_0x2a997b(0x6b0), _0x2a997b(0x53f)],
+                captureButtonColors: [_0x2a997b(0x6b0), _0x2a997b(0x53f)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9a6) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9a6) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9a6) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0xa93) + "ut",
+                id: _0x2a997b(0xa93) + "ut",
+                name: _0x2a997b(0x18e) + _0x2a997b(0x8f4),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0xa93) + "ut",
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x91d) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x91d) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x91d) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x91d) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x56a),
+                colors: [_0x2a997b(0x56a), _0x2a997b(0x723)],
+                captureButtonColors: [_0x2a997b(0x56a), _0x2a997b(0x723)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x91d) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x91d) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x91d) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x937) + _0x2a997b(0x65e) + _0x2a997b(0x42e),
+                id: _0x2a997b(0x937) + _0x2a997b(0x65e) + _0x2a997b(0x42e),
+                name: _0x2a997b(0x18e) + _0x2a997b(0x48b),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x937) + _0x2a997b(0x65e) + _0x2a997b(0x42e),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x2b9) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x2b9) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x2b9) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x2b9) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x41d),
+                colors: [_0x2a997b(0x41d), _0x2a997b(0x922)],
+                captureButtonColors: [_0x2a997b(0x41d), _0x2a997b(0x922)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x2b9) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x2b9) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x2b9) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x946) + _0x2a997b(0x2f9),
+                id: _0x2a997b(0x946) + _0x2a997b(0x2f9),
+                name: _0x2a997b(0x18e) + _0x2a997b(0xa75) + _0x2a997b(0x3d9),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x946) + _0x2a997b(0x2f9),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa37) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa37) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa37) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa37) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x22a),
+                colors: [_0x2a997b(0x22a), _0x2a997b(0xa36)],
+                captureButtonColors: [_0x2a997b(0x22a), _0x2a997b(0xa36)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa37) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa37) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa37) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x9c9) + _0x2a997b(0xa74),
+                id: _0x2a997b(0x9c9) + _0x2a997b(0xa74),
+                name: _0x2a997b(0x18e) + _0x2a997b(0x2e6),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x9c9) + _0x2a997b(0xa74),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x522) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x522) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x522) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x522) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x367),
+                colors: [_0x2a997b(0x367), _0x2a997b(0x17d)],
+                captureButtonColors: [_0x2a997b(0x367), _0x2a997b(0x17d)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x522) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x522) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x522) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x87e) + _0x2a997b(0x575),
+                id: _0x2a997b(0x87e) + _0x2a997b(0x575),
+                name: _0x2a997b(0x18e) + _0x2a997b(0x260),
+                category: _0x2a997b(0x18e),
+                prompt: _0x2a997b(0x572),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x58a) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x58a) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x58a) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x58a) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x58a) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x58a) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x58a) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  symbol: _0x2a997b(0x419) + _0x2a997b(0x5ca),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x972) + _0x2a997b(0x766) + _0x2a997b(0x8df),
+                id: _0x2a997b(0x972) + _0x2a997b(0x766) + _0x2a997b(0x8df),
+                name: _0x2a997b(0x478) + _0x2a997b(0x61b),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x972) + _0x2a997b(0x766) + _0x2a997b(0x8df),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x28b) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x28b) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x28b) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x28b) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x28b) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x28b) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x28b) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x59b),
+                id: _0x2a997b(0x59b),
+                name: _0x2a997b(0x5d5) + _0x2a997b(0x87c),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x59b),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x77b) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x77b) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x77b) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x77b) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x77b) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x77b) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x77b) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid:
+                  _0x2a997b(0xa8f) +
+                  _0x2a997b(0x1a7) +
+                  _0x2a997b(0x5cf) +
+                  _0x2a997b(0xa86),
+                id:
+                  _0x2a997b(0xa8f) +
+                  _0x2a997b(0x1a7) +
+                  _0x2a997b(0x5cf) +
+                  _0x2a997b(0xa86),
+                name: _0x2a997b(0x4b5) + _0x2a997b(0x90a) + "o",
+                category: _0x2a997b(0x33b),
+                prompt:
+                  _0x2a997b(0xa8f) +
+                  _0x2a997b(0x1a7) +
+                  _0x2a997b(0x5cf) +
+                  _0x2a997b(0xa86),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x5c2) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x5c2) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x5c2) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x5c2) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x5c2) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x5c2) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x5c2) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0xa8f) + _0x2a997b(0x3f0) + _0x2a997b(0x442),
+                id: _0x2a997b(0xa8f) + _0x2a997b(0x3f0) + _0x2a997b(0x442),
+                name: _0x2a997b(0x71e) + _0x2a997b(0x1c4) + "ng",
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0xa8f) + _0x2a997b(0x3f0) + _0x2a997b(0x442),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x194) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x194) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x194) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x194) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x194) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x194) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x194) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x73f) + _0x2a997b(0x447) + "n",
+                id: _0x2a997b(0x73f) + _0x2a997b(0x447) + "n",
+                name: _0x2a997b(0x800) + _0x2a997b(0x5c0),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x73f) + _0x2a997b(0x447) + "n",
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa20) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa20) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa20) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa20) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa20) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa20) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa20) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid:
+                  _0x2a997b(0x4b4) + _0x2a997b(0x3e1) + _0x2a997b(0x7e8) + "h",
+                id:
+                  _0x2a997b(0x4b4) + _0x2a997b(0x3e1) + _0x2a997b(0x7e8) + "h",
+                name: _0x2a997b(0x8dd) + _0x2a997b(0x876),
+                category: _0x2a997b(0x33b),
+                prompt:
+                  _0x2a997b(0x4b4) + _0x2a997b(0x3e1) + _0x2a997b(0x7e8) + "h",
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4f5) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4f5) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4f5) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4f5) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x6a7),
+                colors: [_0x2a997b(0x6a7), _0x2a997b(0x1ad)],
+                captureButtonColors: [_0x2a997b(0x6a7), _0x2a997b(0x1ad)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4f5) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4f5) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4f5) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x228) + _0x2a997b(0x16c),
+                id: _0x2a997b(0x228) + _0x2a997b(0x16c),
+                name: _0x2a997b(0x3f6),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x228) + _0x2a997b(0x16c),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x38f) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x38f) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x38f) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x38f) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x692),
+                colors: [_0x2a997b(0x692), _0x2a997b(0x692)],
+                captureButtonColors: [_0x2a997b(0x692), _0x2a997b(0x692)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x38f) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x38f) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x38f) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x64e) + _0x2a997b(0xa04) + _0x2a997b(0x2d1),
+                id: _0x2a997b(0x64e) + _0x2a997b(0xa04) + _0x2a997b(0x2d1),
+                name: _0x2a997b(0x234) + _0x2a997b(0x58e),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x64e) + _0x2a997b(0xa04) + _0x2a997b(0x2d1),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x148) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x148) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x148) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x148) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x1a4),
+                colors: [_0x2a997b(0x1a4), _0x2a997b(0x1a4)],
+                captureButtonColors: [_0x2a997b(0x1a4), _0x2a997b(0x1a4)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x148) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x148) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x148) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x190) + _0x2a997b(0x438) + _0x2a997b(0x563),
+                id: _0x2a997b(0x190) + _0x2a997b(0x438) + _0x2a997b(0x563),
+                name: _0x2a997b(0x2e1) + _0x2a997b(0x312),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x190) + _0x2a997b(0x438) + _0x2a997b(0x563),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4a5) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4a5) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4a5) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x4a5) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4a5) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4a5) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x4a5) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x73f) + _0x2a997b(0x8fc) + _0x2a997b(0x643),
+                id: _0x2a997b(0x73f) + _0x2a997b(0x8fc) + _0x2a997b(0x643),
+                name: _0x2a997b(0x3d7) + _0x2a997b(0x589),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x73f) + _0x2a997b(0x8fc) + _0x2a997b(0x643),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x7c9) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x7c9) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x7c9) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x7c9) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x414),
+                colors: [_0x2a997b(0x414), _0x2a997b(0x414)],
+                captureButtonColors: [_0x2a997b(0x414), _0x2a997b(0x414)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x7c9) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x7c9) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x7c9) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0xa3c) + _0x2a997b(0xa18),
+                id: _0x2a997b(0xa3c) + _0x2a997b(0xa18),
+                name: _0x2a997b(0x881),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0xa3c) + _0x2a997b(0xa18),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9d0) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9d0) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9d0) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x9d0) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x852),
+                colors: [_0x2a997b(0x852), _0x2a997b(0xa3e)],
+                captureButtonColors: [_0x2a997b(0x852), _0x2a997b(0xa3e)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9d0) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9d0) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x9d0) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x425) + _0x2a997b(0x97b) + _0x2a997b(0x46c),
+                id: _0x2a997b(0x425) + _0x2a997b(0x97b) + _0x2a997b(0x46c),
+                name: _0x2a997b(0x4b5) + _0x2a997b(0x4f2),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x425) + _0x2a997b(0x97b) + _0x2a997b(0x46c),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa5f) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa5f) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa5f) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0xa5f) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x9b3),
+                colors: [_0x2a997b(0x9b3), _0x2a997b(0xa13)],
+                captureButtonColors: [_0x2a997b(0x9b3), _0x2a997b(0xa13)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa5f) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa5f) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0xa5f) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x215) + _0x2a997b(0x716) + _0x2a997b(0x4bc),
+                id: _0x2a997b(0x215) + _0x2a997b(0x716) + _0x2a997b(0x4bc),
+                name: _0x2a997b(0x3d0) + _0x2a997b(0x18d),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x215) + _0x2a997b(0x716) + _0x2a997b(0x4bc),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x785) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x785) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x785) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x785) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x1bc),
+                colors: [_0x2a997b(0x1bc), _0x2a997b(0x780)],
+                captureButtonColors: [_0x2a997b(0x1bc), _0x2a997b(0x780)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x785) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x785) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x785) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x8e1) + _0x2a997b(0x2bd) + "y",
+                id: _0x2a997b(0x8e1) + _0x2a997b(0x2bd) + "y",
+                name: _0x2a997b(0x7c8) + _0x2a997b(0x4b5) + "y",
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x8e1) + _0x2a997b(0x2bd) + "y",
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x351) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x351) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x351) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x351) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0xac7),
+                colors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                captureButtonColors: [_0x2a997b(0xac7), _0x2a997b(0x4b9)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x351) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x351) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x351) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x98b) + _0x2a997b(0x99d) + _0x2a997b(0x451),
+                id: _0x2a997b(0x98b) + _0x2a997b(0x99d) + _0x2a997b(0x451),
+                name: _0x2a997b(0x8c9) + _0x2a997b(0x227) + "o",
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x98b) + _0x2a997b(0x99d) + _0x2a997b(0x451),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x8ea) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x8ea) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x8ea) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x8ea) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x56a),
+                colors: [_0x2a997b(0x56a), _0x2a997b(0x723)],
+                captureButtonColors: [_0x2a997b(0x56a), _0x2a997b(0x723)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x8ea) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x8ea) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x8ea) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x98b) + _0x2a997b(0x2b1) + "ed",
+                id: _0x2a997b(0x98b) + _0x2a997b(0x2b1) + "ed",
+                name: _0x2a997b(0x3e6) + _0x2a997b(0x789),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x98b) + _0x2a997b(0x2b1) + "ed",
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x394) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x394) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x394) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x394) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x367),
+                colors: [_0x2a997b(0x367), _0x2a997b(0x17d)],
+                captureButtonColors: [_0x2a997b(0x367), _0x2a997b(0x17d)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x394) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x394) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x394) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x98b) + _0x2a997b(0x745) + _0x2a997b(0x3fd),
+                id: _0x2a997b(0x98b) + _0x2a997b(0x745) + _0x2a997b(0x3fd),
+                name: _0x2a997b(0x912) + _0x2a997b(0x7b1),
+                category: _0x2a997b(0x33b),
+                prompt: _0x2a997b(0x98b) + _0x2a997b(0x745) + _0x2a997b(0x3fd),
+                style: _0x2a997b(0x37a),
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+                overlay: !![],
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x42c) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x42c) +
+                  _0x2a997b(0x505),
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x42c) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x42c) +
+                  _0x2a997b(0x505),
+                tintColor: _0x2a997b(0x41d),
+                colors: [_0x2a997b(0x41d), _0x2a997b(0x922)],
+                captureButtonColors: [_0x2a997b(0x41d), _0x2a997b(0x922)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x42c) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x42c) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x42c) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x969),
+                  symbol: _0x2a997b(0x969),
+                  emoji: "",
+                },
+                outputUrl: null,
+                productUrl: null,
+                textColor: _0x2a997b(0xa38),
+                referenceImages: [],
+              },
+              {
+                uid: _0x2a997b(0x328),
+                id: _0x2a997b(0x328),
+                name: _0x2a997b(0xaa6) + _0x2a997b(0x1f8),
+                prompt: _0x2a997b(0x328),
+                productUrl: null,
+                colors: [_0x2a997b(0x60a), _0x2a997b(0x56a)],
+                captureButtonColors: [_0x2a997b(0x60a), _0x2a997b(0x56a)],
+                icon: {
+                  url:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x308) +
+                    _0x2a997b(0x505),
+                  iconUrl:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x308) +
+                    _0x2a997b(0x505),
+                  remoteImage:
+                    _0x2a997b(0x834) +
+                    _0x2a997b(0x162) +
+                    _0x2a997b(0x343) +
+                    _0x2a997b(0x308) +
+                    _0x2a997b(0x505),
+                  sfSymbol: _0x2a997b(0x24c),
+                  emoji: "",
+                },
+                textColor: _0x2a997b(0xa38),
+                style: _0x2a997b(0x37a),
+                overlay: !![],
+                overlayImageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x308) +
+                  _0x2a997b(0x505),
+                overlayImageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x308) +
+                  _0x2a997b(0x505),
+                imageUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x308) +
+                  _0x2a997b(0x505),
+                iconUrl:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x308) +
+                  _0x2a997b(0x505),
+                referenceImages: [],
+                type: _0x2a997b(0x9da),
+                filterType: _0x2a997b(0x37a),
+              },
+            ],
+          }),
+          camera_filter_fetch_cache_max_age_seconds: "0",
+          capture_classification_config: JSON[_0x2a997b(0x202)]({
+            detection: !![],
+            debug_caption: ![],
+            expanded_sheet_legacy_support: !![],
+            display_reaction_suggestions: !![],
+          }),
+          camera_roll_preview_enabled: _0x2a997b(0x3f3),
+          camera_roll_video_enabled: _0x2a997b(0x3f3),
+          camera_roll_video_upload_enabled: _0x2a997b(0x3f3),
+          internal_camera_roll_video_upload_enabled: _0x2a997b(0x3f3),
+          longer_camera_roll_videos_enabled: _0x2a997b(0x3f3),
+          video_sound_enabled: _0x2a997b(0x3f3),
+          microphone_enabled: _0x2a997b(0x3f3),
+          camera_microphone_enabled: _0x2a997b(0x3f3),
+          audio_session_deactivation_enabled: _0x2a997b(0x3f3),
+          zoom_enabled: _0x2a997b(0x3f3),
+          upload_main: _0x2a997b(0x942),
+          upload_main_image_quality: _0x2a997b(0x78a),
+          upload_main_image_size: _0x2a997b(0x8bb),
+          upload_thumbnail_image_quality: _0x2a997b(0xa9a),
+          upload_thumbnail_image_size: _0x2a997b(0x2f4),
+        });
+        continue;
+      case "2":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          overlay_navigator_enabled: _0x2a997b(0x3f3),
+          overlays_v2_config: JSON[_0x2a997b(0x202)]({
+            suggestions_enabled: !![],
+          }),
+          captions_enabled: _0x2a997b(0x3f3),
+          music_caption_enabled: _0x2a997b(0x3f3),
+          music_caption_song_preview_enabled: _0x2a997b(0x3f3),
+          link_caption_link_enabled: _0x2a997b(0x3f3),
+          overlay_dynamic_captions: JSON[_0x2a997b(0x202)]([
+            _0x2a997b(0x599),
+            _0x2a997b(0x74d),
+            _0x2a997b(0x9ea) + _0x2a997b(0x542),
+            _0x2a997b(0xa0b),
+            _0x2a997b(0xa26),
+            _0x2a997b(0x5d2),
+            _0x2a997b(0x177),
+            _0x2a997b(0x7e7),
+            _0x2a997b(0x6a8),
+            _0x2a997b(0x26b),
+            _0x2a997b(0x798),
+            _0x2a997b(0x52f) + "nt",
+            _0x2a997b(0x34a) + "ng",
+            _0x2a997b(0x964),
+            _0x2a997b(0x7a6),
+            _0x2a997b(0x2d0),
+            _0x2a997b(0x1fd),
+            _0x2a997b(0x390) + _0x2a997b(0x8f9),
+          ]),
+          overlay_items: JSON[_0x2a997b(0x202)]([
+            {
+              section: _0x2a997b(0x7e5),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x4d0) + _0x2a997b(0x48f),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x599) },
+                  sort_order: 0x0,
+                },
+                {
+                  overlay_id: _0x2a997b(0x577) + "ll",
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x74d) },
+                  sort_order: 0x1,
+                },
+                {
+                  overlay_id: _0x2a997b(0x776) + _0x2a997b(0x4e0) + "e",
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x9ea) + _0x2a997b(0x542) },
+                  sort_order: 0x2,
+                },
+                {
+                  overlay_id: _0x2a997b(0x8b2) + _0x2a997b(0x607),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0xa0b) },
+                  sort_order: 0x3,
+                },
+                {
+                  overlay_id: _0x2a997b(0x2c7) + _0x2a997b(0x55a),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0xa26) },
+                  sort_order: 0x4,
+                },
+                {
+                  overlay_id: _0x2a997b(0x4c5) + _0x2a997b(0x2cd),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x5d2) },
+                  sort_order: 0x5,
+                },
+                {
+                  overlay_id: _0x2a997b(0x5e4) + _0x2a997b(0x26e),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x177) },
+                  sort_order: 0x6,
+                },
+                {
+                  overlay_id: _0x2a997b(0x4db) + "me",
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x7e7) },
+                  sort_order: 0x7,
+                },
+                {
+                  overlay_id: _0x2a997b(0x4d0) + _0x2a997b(0x75a),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x6a8) },
+                  sort_order: 0x8,
+                },
+                {
+                  overlay_id: _0x2a997b(0x4d0) + _0x2a997b(0x7bf),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x26b) },
+                  sort_order: 0x9,
+                },
+                {
+                  overlay_id: _0x2a997b(0x34b) + _0x2a997b(0xa8d),
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x8dc) },
+                  sort_order: 0xa,
+                },
+                {
+                  overlay_id: _0x2a997b(0x896) + _0x2a997b(0x91f) + "s",
+                  source: _0x2a997b(0x9b7),
+                  caption: { type: _0x2a997b(0x7fa) + _0x2a997b(0xa55) },
+                  sort_order: 0xb,
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x5a9) + _0x2a997b(0x959),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x45c) + _0x2a997b(0x92f) + "26",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x5f3), _0x2a997b(0x216)],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x91a),
+                      data:
+                        _0x2a997b(0x517) +
+                        _0x2a997b(0x866) +
+                        _0x2a997b(0x929) +
+                        _0x2a997b(0x1c0) +
+                        _0x2a997b(0x886) +
+                        _0x2a997b(0x951) +
+                        _0x2a997b(0x4b3) +
+                        _0x2a997b(0x44f) +
+                        _0x2a997b(0x6fd) +
+                        _0x2a997b(0x500) +
+                        _0x2a997b(0x360) +
+                        _0x2a997b(0x2e2),
+                      source: _0x2a997b(0x625),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x363),
+                    localized_text: {
+                      en: _0x2a997b(0x363),
+                      vn: _0x2a997b(0x363),
+                    },
+                    text_color: _0x2a997b(0x604),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x7f4) + _0x2a997b(0x4a4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x569), _0x2a997b(0x90f)],
+                    },
+                    icon: { data: "🍂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x71c) + _0x2a997b(0x849),
+                    localized_text: {
+                      en: _0x2a997b(0x71c) + _0x2a997b(0x849),
+                      vn: _0x2a997b(0x71c) + _0x2a997b(0x849),
+                    },
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x235) + _0x2a997b(0xa4b) + _0x2a997b(0xa49),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x68a), _0x2a997b(0x654)],
+                    },
+                    icon: { data: _0x2a997b(0x2f7), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x201),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x235) +
+                    _0x2a997b(0xa4b) +
+                    _0x2a997b(0x53c) +
+                    _0x2a997b(0xab8),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa38), _0x2a997b(0x94c)],
+                    },
+                    icon: { data: _0x2a997b(0xa53), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x8f2),
+                    text_color: _0x2a997b(0x62d),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id: _0x2a997b(0x731) + _0x2a997b(0x653),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x52d), _0x2a997b(0x138)],
+                    },
+                    icon: { data: "🪔", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2d8),
+                    text_color: _0x2a997b(0x4fe),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x960) + _0x2a997b(0x303) + _0x2a997b(0x885),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x3dc), _0x2a997b(0xa2f)],
+                    },
+                    icon: { data: _0x2a997b(0x2f7), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2e9) + _0x2a997b(0x251),
+                    text_color: _0x2a997b(0x884),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa32) + _0x2a997b(0x3b1) + _0x2a997b(0x885),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x76b), _0x2a997b(0x156)],
+                    },
+                    icon: { data: "🦃", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6ec) + _0x2a997b(0xa8c),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x317) + _0x2a997b(0x53b) + _0x2a997b(0x885),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x2a9), _0x2a997b(0x645)],
+                    },
+                    icon: { data: _0x2a997b(0x22f), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x3fc) + "ay",
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id: _0x2a997b(0x45c) + _0x2a997b(0x7db) + "6",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6da), _0x2a997b(0x3c0)],
+                    },
+                    icon: { data: "🕎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x56b) + _0x2a997b(0x178),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x60f) + _0x2a997b(0x2ff) + _0x2a997b(0x295),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x851), _0x2a997b(0x268)],
+                    },
+                    icon: { data: _0x2a997b(0x5ac), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1e4) + _0x2a997b(0x37d),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x60f) + _0x2a997b(0x2ff) + _0x2a997b(0x295),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x851), _0x2a997b(0x268)],
+                    },
+                    icon: { data: _0x2a997b(0x5ac), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9b0) + _0x2a997b(0x7fe),
+                    localized_text: {
+                      en: _0x2a997b(0x9b0) + _0x2a997b(0x7fe),
+                      vn: _0x2a997b(0x9b0) + _0x2a997b(0x7fe),
+                    },
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x60f) + _0x2a997b(0x65d) + _0x2a997b(0x175),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xaa0), _0x2a997b(0xa62)],
+                    },
+                    icon: { data: "🎄", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x5e3) + _0x2a997b(0x7ca),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x60f) + _0x2a997b(0x65d) + _0x2a997b(0x175),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xaa0), _0x2a997b(0xa62)],
+                    },
+                    icon: { data: "🎄", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9b0) + _0x2a997b(0x7fe),
+                    localized_text: {
+                      en: _0x2a997b(0x9b0) + _0x2a997b(0x7fe),
+                      vn: _0x2a997b(0x9b0) + _0x2a997b(0x7fe),
+                    },
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                  region: ["VN"],
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa9b) + _0x2a997b(0x23b) + _0x2a997b(0x295),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x521), _0x2a997b(0x86a)],
+                    },
+                    icon: { data: "🥂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1f1) + _0x2a997b(0xa79),
+                    localized_text: {
+                      en: _0x2a997b(0x1f1) + _0x2a997b(0xa79),
+                      vi: _0x2a997b(0x6c2) + _0x2a997b(0x4fc),
+                    },
+                    text_color: _0x2a997b(0x57e),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa9b) + _0x2a997b(0x393) + _0x2a997b(0xac1),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x28f), _0x2a997b(0xa89)],
+                    },
+                    icon: { data: "💫", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x472) + _0x2a997b(0x7ba),
+                    localized_text: {
+                      en: _0x2a997b(0x472) + _0x2a997b(0x7ba),
+                      vi: _0x2a997b(0x6c2) + _0x2a997b(0x4fc),
+                    },
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa9b) +
+                    _0x2a997b(0x393) +
+                    _0x2a997b(0x632) +
+                    _0x2a997b(0x28a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x44b), _0x2a997b(0x8e2)],
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x859),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x739) + _0x2a997b(0x6f3),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data:
+                          _0x2a997b(0x29f) +
+                          _0x2a997b(0x752) +
+                          _0x2a997b(0x146) +
+                          _0x2a997b(0x92b) +
+                          _0x2a997b(0x784) +
+                          _0x2a997b(0x9f2) +
+                          _0x2a997b(0xa5c) +
+                          _0x2a997b(0x6f0) +
+                          _0x2a997b(0x21e) +
+                          _0x2a997b(0x8ee),
+                        source: _0x2a997b(0x625),
+                      },
+                      colors: [_0x2a997b(0x346), _0x2a997b(0x22b)],
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2a6) + _0x2a997b(0x7a5) + "D",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x7a9) + _0x2a997b(0x758) + "et",
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x365) + _0x2a997b(0x520),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa38), _0x2a997b(0x8ce)],
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xab7),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x63b) + _0x2a997b(0x1f5),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x54c), _0x2a997b(0x409)],
+                    },
+                    icon: { data: "🪩", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x51d) + "!",
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x2d5) + _0x2a997b(0x83c),
+                  source: _0x2a997b(0x270),
+                  daily_start_hour: 0x5,
+                  daily_end_hour: 0xa,
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x300), _0x2a997b(0x882)],
+                    },
+                    icon: { data: "☀️", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2b4) + "ng",
+                    text_color: _0x2a997b(0x3f4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x2d5) + _0x2a997b(0x1b2),
+                  source: _0x2a997b(0x270),
+                  daily_start_hour: 19.5,
+                  daily_end_hour: 0x18,
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x159), _0x2a997b(0x6f7)],
+                    },
+                    icon: { data: "🌙", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9c1),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x901) + _0x2a997b(0x274),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x335), _0x2a997b(0x828)],
+                    },
+                    icon: { data: "🥰", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x88d),
+                    text_color: _0x2a997b(0x4a1),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3e8) + "td",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa38), _0x2a997b(0x3cd)],
+                    },
+                    icon: { data: "🕶", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x232),
+                    text_color: _0x2a997b(0x63a),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x7a9) + _0x2a997b(0x5b1) + _0x2a997b(0x325),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x861) + _0x2a997b(0x44a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x2fc),
+                        _0x2a997b(0x92c),
+                        _0x2a997b(0x9e0),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x2be) + _0x2a997b(0x633),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x934),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x306),
+                    text_color: _0x2a997b(0x934),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x525),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x36e),
+                        _0x2a997b(0xa56),
+                        _0x2a997b(0x619),
+                      ],
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x804),
+                    text_color: _0x2a997b(0x991),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x98f) + "at",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x556),
+                        _0x2a997b(0x31e),
+                        _0x2a997b(0x899),
+                      ],
+                    },
+                    icon: { data: "🐕", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x53a),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3f9) + _0x2a997b(0x320),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6b8), _0x2a997b(0x4bb)],
+                    },
+                    icon: { data: "🐍", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4ae) + "s",
+                    localized_text: {
+                      en: _0x2a997b(0x4ae) + "s",
+                      vn: _0x2a997b(0x732),
+                    },
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x861) + _0x2a997b(0x7d6),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6ca), _0x2a997b(0x72a)],
+                    },
+                    icon: { data: "👻", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x452),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x4c5) + _0x2a997b(0x90e),
+                  source: _0x2a997b(0x270),
+                  alt_text: _0x2a997b(0x5d0) + _0x2a997b(0x82c),
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data: _0x2a997b(0x1b1) + _0x2a997b(0x431),
+                        source: _0x2a997b(0x9b7),
+                      },
+                      colors: [_0x2a997b(0x547), _0x2a997b(0x547)],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x91a),
+                      data:
+                        _0x2a997b(0x517) +
+                        _0x2a997b(0x866) +
+                        _0x2a997b(0x929) +
+                        _0x2a997b(0x1c0) +
+                        _0x2a997b(0x886) +
+                        _0x2a997b(0x951) +
+                        _0x2a997b(0x4b3) +
+                        _0x2a997b(0x44f) +
+                        _0x2a997b(0x88e) +
+                        _0x2a997b(0x8cf) +
+                        _0x2a997b(0x67a) +
+                        _0x2a997b(0x3a2),
+                      source: _0x2a997b(0x625),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x5d0) + _0x2a997b(0x82c),
+                    text_color: _0x2a997b(0x461),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x725) + _0x2a997b(0x304),
+                  source: _0x2a997b(0x270),
+                  alt_text: _0x2a997b(0x2f1) + _0x2a997b(0x7ab),
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data:
+                          _0x2a997b(0x29f) +
+                          _0x2a997b(0x752) +
+                          _0x2a997b(0x146) +
+                          _0x2a997b(0x92b) +
+                          _0x2a997b(0x7a8) +
+                          _0x2a997b(0x61e) +
+                          _0x2a997b(0x7a2) +
+                          _0x2a997b(0x396) +
+                          _0x2a997b(0x43a),
+                        source: _0x2a997b(0x625),
+                      },
+                      colors: [_0x2a997b(0xa44), _0x2a997b(0x89d)],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x91a),
+                      data:
+                        _0x2a997b(0x29f) +
+                        _0x2a997b(0x752) +
+                        _0x2a997b(0x146) +
+                        _0x2a997b(0x92b) +
+                        _0x2a997b(0x5d7) +
+                        _0x2a997b(0x880) +
+                        _0x2a997b(0x909) +
+                        _0x2a997b(0x1d9) +
+                        _0x2a997b(0x59c) +
+                        _0x2a997b(0x953) +
+                        _0x2a997b(0x453) +
+                        _0x2a997b(0x219),
+                      source: _0x2a997b(0x625),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2f1) + _0x2a997b(0x7ab),
+                    text_color: _0x2a997b(0x543),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x4d0) + _0x2a997b(0x666),
+                  source: _0x2a997b(0x270),
+                  alt_text: _0x2a997b(0x88a),
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data:
+                          _0x2a997b(0x29f) +
+                          _0x2a997b(0x752) +
+                          _0x2a997b(0x146) +
+                          _0x2a997b(0x92b) +
+                          _0x2a997b(0x7a8) +
+                          _0x2a997b(0x61e) +
+                          _0x2a997b(0x8e7) +
+                          _0x2a997b(0x485),
+                        source: _0x2a997b(0x625),
+                      },
+                      colors: [_0x2a997b(0x1e9), _0x2a997b(0x5da)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x736),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x486),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x88a),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x8bd) + _0x2a997b(0x4e1),
+                  source: _0x2a997b(0x270),
+                  alt_text: _0x2a997b(0xaa3) + "l",
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data:
+                          _0x2a997b(0x29f) +
+                          _0x2a997b(0x752) +
+                          _0x2a997b(0x146) +
+                          _0x2a997b(0x92b) +
+                          _0x2a997b(0x7a8) +
+                          _0x2a997b(0x61e) +
+                          _0x2a997b(0x9ac) +
+                          _0x2a997b(0x763),
+                        source: _0x2a997b(0x625),
+                      },
+                      colors: [_0x2a997b(0x491), _0x2a997b(0x46a)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x224) + "l",
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x985),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xaa3) + _0x2a997b(0x87b),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x4ba) + _0x2a997b(0x791) + _0x2a997b(0x5d4),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x759) + _0x2a997b(0x4e5),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x560),
+                        _0x2a997b(0x713),
+                        _0x2a997b(0x370),
+                      ],
+                    },
+                    icon: { data: "🥺", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x252) + "h",
+                    text_color: _0x2a997b(0x558),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x6eb) + _0x2a997b(0x8da) + "n",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x772),
+                        _0x2a997b(0x756),
+                        _0x2a997b(0xa2a),
+                      ],
+                    },
+                    icon: { data: "🥺", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x39c) + _0x2a997b(0x395) + _0x2a997b(0x88c),
+                    text_color: _0x2a997b(0x8e3),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x47a) + _0x2a997b(0x19a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x995),
+                        _0x2a997b(0x86d),
+                        _0x2a997b(0x536),
+                      ],
+                    },
+                    icon: { data: "💗", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x513),
+                    text_color: _0x2a997b(0x688),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x441) + _0x2a997b(0x38e),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x5fc),
+                        _0x2a997b(0x8e8),
+                        _0x2a997b(0x1f4),
+                      ],
+                    },
+                    icon: { data: "🎀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x656) + "ng",
+                    text_color: _0x2a997b(0x6cf),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x441) + _0x2a997b(0x566),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x2ec),
+                        _0x2a997b(0x3b4),
+                        _0x2a997b(0x9c6),
+                      ],
+                    },
+                    icon: { data: "💗", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1c8),
+                    text_color: _0x2a997b(0x3b0),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x441) + _0x2a997b(0x894),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x33f),
+                        _0x2a997b(0x385),
+                        _0x2a997b(0x538),
+                      ],
+                    },
+                    icon: { data: "🫶", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa4f),
+                    text_color: _0x2a997b(0xaac),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x8ed) + _0x2a997b(0x3b7),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x17a),
+                        _0x2a997b(0x90b),
+                        _0x2a997b(0x66e),
+                      ],
+                    },
+                    icon: { data: "🧸", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x7de) + "💖",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x2c7) + _0x2a997b(0x53d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x491), _0x2a997b(0x46a)],
+                    },
+                    icon: { data: "🫂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9f8) + "ôm",
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0xa34) + "g",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x466),
+                        _0x2a997b(0x81e),
+                        _0x2a997b(0x140),
+                      ],
+                    },
+                    icon: { data: "😘", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x258) + _0x2a997b(0x4b1),
+                    text_color: _0x2a997b(0x46d),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x186) + _0x2a997b(0x8b7) + "u",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x68c),
+                        _0x2a997b(0x383),
+                        _0x2a997b(0x5e9),
+                      ],
+                    },
+                    icon: { data: "💤", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x68f) + _0x2a997b(0x4dd),
+                    text_color: _0x2a997b(0x24e),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59a) + _0x2a997b(0x1ca),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x995),
+                        _0x2a997b(0x86d),
+                        _0x2a997b(0x536),
+                      ],
+                    },
+                    icon: { data: "🎀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x412) + _0x2a997b(0x518),
+                    text_color: _0x2a997b(0x878),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x6ad) + _0x2a997b(0x6f4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x2f6),
+                        _0x2a997b(0x55b),
+                        _0x2a997b(0x387),
+                      ],
+                    },
+                    icon: { data: "🤭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x3df) + _0x2a997b(0x339) + _0x2a997b(0x382),
+                    text_color: _0x2a997b(0x5f7),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x6ad) + _0x2a997b(0x765) + _0x2a997b(0x9e1),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x29e),
+                        _0x2a997b(0x81a),
+                        _0x2a997b(0x1d3),
+                      ],
+                    },
+                    icon: { data: "🎀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x83f) + _0x2a997b(0x3a5),
+                    text_color: _0x2a997b(0x3ae),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa77) + _0x2a997b(0x181) + "m",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x57f),
+                        _0x2a997b(0x76a),
+                        _0x2a997b(0x783),
+                      ],
+                    },
+                    icon: { data: "🥹", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x6b5) + _0x2a997b(0x2e0) + _0x2a997b(0xaba),
+                    text_color: _0x2a997b(0x926),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x441) + _0x2a997b(0x31d) + _0x2a997b(0x2ad),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x39e),
+                        _0x2a997b(0x3c1),
+                        _0x2a997b(0x14b),
+                      ],
+                    },
+                    icon: { data: "🫡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x673) + _0x2a997b(0x8bc) + _0x2a997b(0x7f6),
+                    text_color: _0x2a997b(0x7cd),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x6f5) + _0x2a997b(0x6d8),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x417),
+                        _0x2a997b(0x4c7),
+                        _0x2a997b(0x3ff),
+                      ],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x4ad) + _0x2a997b(0x198) + _0x2a997b(0x4ee),
+                    text_color: _0x2a997b(0x5e5),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x9db) + _0x2a997b(0x943) + _0x2a997b(0x508),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa4e),
+                        _0x2a997b(0x82a),
+                        _0x2a997b(0x93b),
+                      ],
+                    },
+                    icon: { data: "🫶", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9ef) + _0x2a997b(0x724) + "em",
+                    text_color: _0x2a997b(0x8ff),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa16) + _0x2a997b(0x638) + _0x2a997b(0x8b9),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x3ee), _0x2a997b(0x1c6)],
+                    },
+                    icon: { data: "💭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x51c) + _0x2a997b(0x7f8),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x630) + _0x2a997b(0x877) + _0x2a997b(0x26d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x179), _0x2a997b(0x4c9)],
+                    },
+                    icon: { data: "💘", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x700) + _0x2a997b(0x993),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x901) + _0x2a997b(0x6c8) + "au",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x2e3),
+                        _0x2a997b(0x389),
+                        _0x2a997b(0x24b),
+                      ],
+                    },
+                    icon: { data: "💍", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x4f9) + _0x2a997b(0x6fa) + _0x2a997b(0x90d),
+                    text_color: _0x2a997b(0x6a4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x5e4) + _0x2a997b(0x38d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa11), _0x2a997b(0x523)],
+                    },
+                    icon: { data: "💍", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x74b) + _0x2a997b(0x570),
+                    localized_text: {
+                      en: _0x2a997b(0x74b) + _0x2a997b(0x570),
+                      vn: _0x2a997b(0x581) + "è!",
+                    },
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa16) + _0x2a997b(0x864),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa24), _0x2a997b(0x184)],
+                    },
+                    icon: { data: "💕", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa7e) + "e!",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x98f) + _0x2a997b(0x15c) + _0x2a997b(0x8d8),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x843),
+                        _0x2a997b(0x426),
+                        _0x2a997b(0x370),
+                      ],
+                    },
+                    icon: { data: _0x2a997b(0x917), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x687) + _0x2a997b(0x347) + "p",
+                    text_color: _0x2a997b(0x3c7),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x9d5) + _0x2a997b(0x32c) + _0x2a997b(0x3ac),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x1cb), _0x2a997b(0x267)],
+                    },
+                    icon: { data: _0x2a997b(0x6f1), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa61) + _0x2a997b(0x6e6),
+                    localized_text: {
+                      en: _0x2a997b(0x740) + _0x2a997b(0x1f3),
+                      vn: _0x2a997b(0xa61) + _0x2a997b(0x6e6),
+                    },
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x60f) + _0x2a997b(0x919) + _0x2a997b(0x381),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x6cd),
+                        _0x2a997b(0x92e),
+                        _0x2a997b(0x200),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x969),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0xa0c),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x8c8) + _0x2a997b(0x8f7),
+                    text_color: _0x2a997b(0x906),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x67d) + _0x2a997b(0x996),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0xa71) + _0x2a997b(0x70d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x267), _0x2a997b(0xa24)],
+                    },
+                    icon: { data: "🌷", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x939) + "te",
+                    localized_text: {
+                      en: _0x2a997b(0x939) + "te",
+                      vn: _0x2a997b(0x636) + _0x2a997b(0x9bb),
+                    },
+                    text_color: _0x2a997b(0x3f4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x525) + _0x2a997b(0x504),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x95a),
+                        _0x2a997b(0x17a),
+                        _0x2a997b(0x5c4),
+                      ],
+                    },
+                    icon: { data: "🎀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x8c0) + "🌸",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa14) + _0x2a997b(0x8a9),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x8d2),
+                        _0x2a997b(0x28c),
+                        _0x2a997b(0x5bd),
+                      ],
+                    },
+                    icon: { data: "🌸", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4b5) + _0x2a997b(0x42d),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9db) + _0x2a997b(0x66f) + "u",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x705),
+                        _0x2a997b(0x44e),
+                        _0x2a997b(0x538),
+                      ],
+                    },
+                    icon: { data: "💗", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x5a6) + _0x2a997b(0x58b) + _0x2a997b(0x43e),
+                    text_color: _0x2a997b(0xa6c),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x777) + _0x2a997b(0x5b2) + _0x2a997b(0x17c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x46e), _0x2a997b(0xa28)],
+                    },
+                    icon: { data: "💅", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x3d2) + _0x2a997b(0x77e),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x78d) + _0x2a997b(0x647),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x624),
+                        _0x2a997b(0x168),
+                        _0x2a997b(0x628),
+                      ],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x24c),
+                      color: _0x2a997b(0x4c4),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x7b6) + _0x2a997b(0x682),
+                    text_color: _0x2a997b(0x4c4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x4db) + _0x2a997b(0x4a0) + _0x2a997b(0x826),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data: _0x2a997b(0x1b1) + _0x2a997b(0x431),
+                        source: _0x2a997b(0x9b7),
+                      },
+                      colors: [_0x2a997b(0x597), _0x2a997b(0x61a)],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x418) + _0x2a997b(0x54d),
+                      color: _0x2a997b(0x96b),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x47d) + _0x2a997b(0x67c),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x777) + _0x2a997b(0x50d) + _0x2a997b(0x413),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x321), _0x2a997b(0x528)],
+                    },
+                    icon: { data: "💅", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x600) + _0x2a997b(0xa1f),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x777) + _0x2a997b(0x932) + _0x2a997b(0x56d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x3db),
+                        _0x2a997b(0x6b3),
+                        _0x2a997b(0x735),
+                      ],
+                    },
+                    icon: { data: "🎀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x150) + _0x2a997b(0xa95) + _0x2a997b(0x576),
+                    text_color: _0x2a997b(0x276),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xabe) + _0x2a997b(0x2ca) + _0x2a997b(0x559),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x4f1), _0x2a997b(0x715)],
+                    },
+                    icon: { data: "😎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9e9) + _0x2a997b(0xa73),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xabe) + _0x2a997b(0x26f) + _0x2a997b(0x48e),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x4fa),
+                        _0x2a997b(0x152),
+                        _0x2a997b(0x151),
+                      ],
+                    },
+                    icon: { data: "🪞", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1cd) + _0x2a997b(0xa5b),
+                    text_color: _0x2a997b(0x5fd),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x60f) + _0x2a997b(0x47e) + _0x2a997b(0x473),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x95a),
+                        _0x2a997b(0x841),
+                        _0x2a997b(0x248),
+                        _0x2a997b(0x96e),
+                      ],
+                    },
+                    icon: { data: "🪞", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x97d) + _0x2a997b(0x631),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x4ca) + _0x2a997b(0x3f8) + _0x2a997b(0x342),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x74f), _0x2a997b(0x95b)],
+                    },
+                    icon: { data: _0x2a997b(0x174), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x971) + _0x2a997b(0x4e6) + "ản",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x630) + _0x2a997b(0x787) + "er",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x52a),
+                        _0x2a997b(0x191),
+                        _0x2a997b(0x2db),
+                      ],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x29c) + _0x2a997b(0x8e9),
+                      color: _0x2a997b(0x641),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x5b8) +
+                      _0x2a997b(0x217) +
+                      _0x2a997b(0x384) +
+                      "nh",
+                    text_color: _0x2a997b(0x641),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x3ea) + _0x2a997b(0x3c3) + _0x2a997b(0x467),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x582),
+                        _0x2a997b(0x3af),
+                        _0x2a997b(0x4b2),
+                      ],
+                    },
+                    icon: { data: "🪩", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x406) + _0x2a997b(0x9d3) + _0x2a997b(0x614),
+                    text_color: _0x2a997b(0x895),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59f) + _0x2a997b(0xa67),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x708),
+                        _0x2a997b(0xabf),
+                        _0x2a997b(0x3cc),
+                      ],
+                    },
+                    icon: { data: "😎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x45b) +
+                      _0x2a997b(0x617) +
+                      _0x2a997b(0x8a1) +
+                      "ất",
+                    text_color: _0x2a997b(0x4f0),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x1c5) + _0x2a997b(0x302) + _0x2a997b(0x53e),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x1cb), _0x2a997b(0x184)],
+                    },
+                    icon: { data: "🐉", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x142) + _0x2a997b(0x9d8),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x330) + _0x2a997b(0x35b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x29e),
+                        _0x2a997b(0x3da),
+                        _0x2a997b(0x2f6),
+                      ],
+                    },
+                    icon: { data: "💥", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xabb),
+                    text_color: _0x2a997b(0x837),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x8ed) + _0x2a997b(0x299),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa03),
+                        _0x2a997b(0x6e1),
+                        _0x2a997b(0x36b),
+                      ],
+                    },
+                    icon: { data: "😎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x58d) + _0x2a997b(0x3ab),
+                    text_color: _0x2a997b(0x86e),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x861) + _0x2a997b(0x8a6) + "ua",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x5c6),
+                        _0x2a997b(0x87d),
+                        _0x2a997b(0x5cd),
+                      ],
+                    },
+                    icon: { data: "👑", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x755) + _0x2a997b(0xa40),
+                    text_color: _0x2a997b(0x9bf),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x8ca) + _0x2a997b(0x2d4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x854), _0x2a997b(0x774)],
+                    },
+                    icon: { data: "🥬", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x318) + "ch",
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x525) + _0x2a997b(0x5ea),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x743),
+                        _0x2a997b(0x4c3),
+                        _0x2a997b(0x9ce),
+                      ],
+                    },
+                    icon: { data: "🚀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x52e) + "đi",
+                    text_color: _0x2a997b(0x212),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x761) + _0x2a997b(0x1ee) + _0x2a997b(0x907),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x3f1),
+                        _0x2a997b(0x1df),
+                        _0x2a997b(0x553),
+                      ],
+                    },
+                    icon: { data: _0x2a997b(0x174), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x7b4) + _0x2a997b(0x85b),
+                    text_color: _0x2a997b(0x9e4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x6eb) + _0x2a997b(0xac0) + _0x2a997b(0x1cc),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x3a7), _0x2a997b(0x930)],
+                    },
+                    icon: { data: "👌", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x637) + _0x2a997b(0x29d),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x27b) + _0x2a997b(0xa98) + _0x2a997b(0x7bc),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x254),
+                        _0x2a997b(0x188),
+                        _0x2a997b(0x91b),
+                      ],
+                    },
+                    icon: { data: "💎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x840) + _0x2a997b(0x4d9) + "i",
+                    text_color: _0x2a997b(0x32e),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x98f) + _0x2a997b(0x838) + _0x2a997b(0x807),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x3bb),
+                        _0x2a997b(0x591),
+                        _0x2a997b(0x4ed),
+                      ],
+                    },
+                    icon: { data: "😎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x350) +
+                      _0x2a997b(0x4ef) +
+                      _0x2a997b(0x4bf) +
+                      "n",
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x78d) + _0x2a997b(0x50b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x680),
+                        _0x2a997b(0x42b),
+                        _0x2a997b(0x997),
+                      ],
+                    },
+                    icon: { data: "🫶", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x350) +
+                      _0x2a997b(0x3f2) +
+                      _0x2a997b(0x78e) +
+                      _0x2a997b(0x1d4),
+                    text_color: _0x2a997b(0x8cb),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59f) + _0x2a997b(0x85e) + "u",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x43f),
+                        _0x2a997b(0x491),
+                        _0x2a997b(0x416),
+                      ],
+                    },
+                    icon: { data: "💅", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x9cb) +
+                      _0x2a997b(0x988) +
+                      _0x2a997b(0x1d2) +
+                      _0x2a997b(0x32b),
+                    text_color: _0x2a997b(0x433),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x34b) + _0x2a997b(0x6db) + "am",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x34c),
+                        _0x2a997b(0x97e),
+                        _0x2a997b(0x14d),
+                      ],
+                    },
+                    icon: { data: "💅", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x6e9) + _0x2a997b(0x369) + _0x2a997b(0x903),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9d5) + _0x2a997b(0x609),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x236),
+                        _0x2a997b(0x35a),
+                        _0x2a997b(0xa45),
+                      ],
+                    },
+                    icon: { data: "😒", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4b8) + _0x2a997b(0x5c1),
+                    text_color: _0x2a997b(0xa7b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x652) + _0x2a997b(0x24a) + _0x2a997b(0x495),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x824),
+                        _0x2a997b(0x549),
+                        _0x2a997b(0x374),
+                      ],
+                    },
+                    icon: { data: "😒", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x91e) + _0x2a997b(0x50a),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x59f) + _0x2a997b(0x775) + _0x2a997b(0x353),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xab9),
+                        _0x2a997b(0x562),
+                        _0x2a997b(0x3cc),
+                      ],
+                    },
+                    icon: { data: "😒", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x39f) + _0x2a997b(0x1e6) + _0x2a997b(0x2c6),
+                    text_color: _0x2a997b(0x3e7),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x365) + _0x2a997b(0x338) + _0x2a997b(0x8b4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x4d1),
+                        _0x2a997b(0xa1e),
+                        _0x2a997b(0x22d),
+                      ],
+                    },
+                    icon: { data: "😎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x345) + _0x2a997b(0x56f),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0x2af),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6e8), _0x2a997b(0x16f)],
+                    },
+                    icon: { data: "👎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4af),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0x703),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x8d2),
+                        _0x2a997b(0x28c),
+                        _0x2a997b(0xa11),
+                      ],
+                    },
+                    icon: { data: "🎀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x3c6) + "w",
+                    text_color: _0x2a997b(0x440),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x377) + _0x2a997b(0x726),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x491),
+                        _0x2a997b(0x46a),
+                        _0x2a997b(0xac2),
+                        _0x2a997b(0x173),
+                      ],
+                    },
+                    icon: { data: "💅", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x821) + "ôn",
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x377) + _0x2a997b(0x4cf),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x15f),
+                        _0x2a997b(0x3fa),
+                        _0x2a997b(0x6d7),
+                        _0x2a997b(0x6cb),
+                      ],
+                    },
+                    icon: { data: "🌈", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2ea) + "ôn",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa16) + _0x2a997b(0x584) + "ep",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x568), _0x2a997b(0x568)],
+                      material_blur: _0x2a997b(0x182),
+                    },
+                    icon: {
+                      data: _0x2a997b(0x30a) + "l",
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x5f4),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x806) + _0x2a997b(0x83d),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x197) + _0x2a997b(0x8e4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9fb),
+                        _0x2a997b(0x341),
+                        _0x2a997b(0x757),
+                      ],
+                    },
+                    icon: { data: "🚀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x231),
+                    text_color: _0x2a997b(0x699),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x197) + _0x2a997b(0x207) + "o",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x918),
+                        _0x2a997b(0x4f7),
+                        _0x2a997b(0x7dc),
+                      ],
+                    },
+                    icon: { data: "✈️", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x378) + _0x2a997b(0x674),
+                    text_color: _0x2a997b(0x5cb),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x34b) + _0x2a997b(0x697),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x13b),
+                        _0x2a997b(0x372),
+                        _0x2a997b(0xa47),
+                      ],
+                    },
+                    icon: { data: "🎉", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa25) + "en",
+                    text_color: _0x2a997b(0x8bf),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x525) + _0x2a997b(0x87f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa65),
+                        _0x2a997b(0x4b7),
+                        _0x2a997b(0x5de),
+                      ],
+                    },
+                    icon: { data: "👀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6c9) + _0x2a997b(0x163),
+                    text_color: _0x2a997b(0x30d),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa32) + _0x2a997b(0x8eb) + "ay",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1e2),
+                        _0x2a997b(0x23e),
+                        _0x2a997b(0x650),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x263) + _0x2a997b(0x22e),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x399),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x7dd) + _0x2a997b(0x8fb),
+                    text_color: _0x2a997b(0x916),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x7c5) + _0x2a997b(0x294),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x284),
+                        _0x2a997b(0x1eb),
+                        _0x2a997b(0x2ed),
+                      ],
+                    },
+                    icon: { data: "🏆", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x870) + _0x2a997b(0x71b) + "ng",
+                    text_color: _0x2a997b(0x1a0),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x776) + _0x2a997b(0x153) + _0x2a997b(0x18d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x622),
+                        _0x2a997b(0x18b),
+                        _0x2a997b(0x269),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x42a),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x6f6),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x332) + _0x2a997b(0x18c),
+                    text_color: _0x2a997b(0x3ec),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x739) + _0x2a997b(0x51f) + _0x2a997b(0x516),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x89a),
+                        _0x2a997b(0x6dd),
+                        _0x2a997b(0x9b1),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x644),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x2c5),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x685) + _0x2a997b(0xaa8) + _0x2a997b(0x621),
+                    text_color: _0x2a997b(0x203),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x34b) + _0x2a997b(0xab6) + _0x2a997b(0x39b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x7e2),
+                        _0x2a997b(0x20f),
+                        _0x2a997b(0xa39),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x529),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0xac3),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x945) + _0x2a997b(0x92a) + _0x2a997b(0x891),
+                    text_color: _0x2a997b(0x255),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3a9) + _0x2a997b(0x40a) + "a",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x13a),
+                        _0x2a997b(0x99f),
+                        _0x2a997b(0x601),
+                      ],
+                    },
+                    icon: { data: "📉", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x747) + _0x2a997b(0x2b8),
+                    text_color: _0x2a997b(0x7f5),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x9d7) + _0x2a997b(0x8b0),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x525) + _0x2a997b(0x7b7) + "i",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x7e3),
+                        _0x2a997b(0xa42),
+                        _0x2a997b(0x397),
+                      ],
+                    },
+                    icon: { data: "😂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x5c8) + _0x2a997b(0x7d4),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x525) + _0x2a997b(0x362),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x277), _0x2a997b(0x6c4)],
+                    },
+                    icon: { data: "😎", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x524),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3d4) + _0x2a997b(0x6ac) + "i",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x19e), _0x2a997b(0x3ad)],
+                    },
+                    icon: { data: "🤡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9f5) + _0x2a997b(0x30c),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x1c3) + _0x2a997b(0x608),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x14a),
+                        _0x2a997b(0x7bd),
+                        _0x2a997b(0x658),
+                      ],
+                    },
+                    icon: { data: "🙀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa01),
+                    text_color: _0x2a997b(0x54b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x776) + _0x2a997b(0xa6d) + _0x2a997b(0x6a2),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x888), _0x2a997b(0x5f8)],
+                    },
+                    icon: { data: "🍂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xab4) + _0x2a997b(0x26a),
+                    text_color: _0x2a997b(0x244),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x3d8) + _0x2a997b(0x4cc) + _0x2a997b(0x82b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x36a),
+                        _0x2a997b(0x463),
+                        _0x2a997b(0x43c),
+                      ],
+                    },
+                    icon: { data: "🪳", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x868) + _0x2a997b(0x33e),
+                    text_color: _0x2a997b(0x9bd),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x860) + _0x2a997b(0x99b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x8a0),
+                        _0x2a997b(0x7ee),
+                        _0x2a997b(0x893),
+                      ],
+                    },
+                    icon: { data: "🎀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x541) + _0x2a997b(0x222) + "ơm",
+                    text_color: _0x2a997b(0x984),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x78d) + _0x2a997b(0x9a0),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1ae),
+                        _0x2a997b(0x489),
+                        _0x2a997b(0x161),
+                      ],
+                    },
+                    icon: { data: "🍿", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x48c),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x496) + _0x2a997b(0x499) + _0x2a997b(0xa29),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x1ae), _0x2a997b(0x489)],
+                    },
+                    icon: { data: "🍿", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6a5) + _0x2a997b(0x8a4),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x322) + _0x2a997b(0x64a) + "g",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa0e),
+                        _0x2a997b(0x974),
+                        _0x2a997b(0x5b6),
+                      ],
+                    },
+                    icon: { data: "🍿", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0xa85) +
+                      _0x2a997b(0x982) +
+                      _0x2a997b(0x64f) +
+                      _0x2a997b(0x936),
+                    text_color: _0x2a997b(0x8aa),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0x35f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x854), _0x2a997b(0x774)],
+                    },
+                    icon: { data: "📺", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x719) + _0x2a997b(0x7d7),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x776) + _0x2a997b(0x9dd) + _0x2a997b(0x767),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa35),
+                        _0x2a997b(0x483),
+                        _0x2a997b(0xa42),
+                      ],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x243) + _0x2a997b(0x24d) + "l",
+                      color: _0x2a997b(0x567),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x189) + _0x2a997b(0x3bc),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x6e3) + _0x2a997b(0x50c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x87a),
+                        _0x2a997b(0x239),
+                        _0x2a997b(0x910),
+                      ],
+                    },
+                    icon: { data: "🚨", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x83b) + "áo",
+                    text_color: _0x2a997b(0x6c5),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x8d5) + _0x2a997b(0x411),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x89e),
+                        _0x2a997b(0x31b),
+                        _0x2a997b(0x60d),
+                      ],
+                    },
+                    icon: { data: "🚨", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x141) + _0x2a997b(0x84c),
+                    text_color: _0x2a997b(0x340),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x990) + _0x2a997b(0x456) + _0x2a997b(0x857),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x3a6), _0x2a997b(0x4f1)],
+                    },
+                    icon: { data: "🏃", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x376) + _0x2a997b(0x671),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0x6c6),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x5b3), _0x2a997b(0x47b)],
+                    },
+                    icon: { data: _0x2a997b(0x3b8), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x565) + "đi",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x4d6) +
+                    _0x2a997b(0x7ff) +
+                    _0x2a997b(0x89f) +
+                    _0x2a997b(0x869),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9f3),
+                        _0x2a997b(0x1b6),
+                        _0x2a997b(0x7d0),
+                      ],
+                    },
+                    icon: { data: _0x2a997b(0x573), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x817) + _0x2a997b(0x534) + _0x2a997b(0x23d),
+                    text_color: _0x2a997b(0x31e),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa16) + _0x2a997b(0x2c1) + "ng",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xaa0), _0x2a997b(0x743)],
+                    },
+                    icon: { data: "🥊", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa0d) + _0x2a997b(0x968),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x45c) + _0x2a997b(0x5b0),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa00),
+                        _0x2a997b(0x364),
+                        _0x2a997b(0x81b),
+                      ],
+                    },
+                    icon: { data: _0x2a997b(0x512), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4ea),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x3b6) + _0x2a997b(0x5e7) + _0x2a997b(0x856),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x1be), _0x2a997b(0x267)],
+                    },
+                    icon: { data: "🪷", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x676) + _0x2a997b(0x34e) + _0x2a997b(0x8f8),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x776) + _0x2a997b(0x9e5),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x9f3), _0x2a997b(0x8d6)],
+                    },
+                    icon: { data: "🧶", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x7ac) + "t",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x901) + _0x2a997b(0x43b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6ca), _0x2a997b(0x72a)],
+                    },
+                    icon: { data: "🛞", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x914) + "p",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x45c) + _0x2a997b(0x9d1) + _0x2a997b(0x6e0),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x527), _0x2a997b(0x874)],
+                    },
+                    icon: { data: "🥺", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x5f1) + _0x2a997b(0x25e),
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x630) + _0x2a997b(0x432) + _0x2a997b(0x95f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x83a), _0x2a997b(0x267)],
+                    },
+                    icon: { data: "😭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6fc) + _0x2a997b(0x20d),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa32) + _0x2a997b(0x718) + _0x2a997b(0x63f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x39a), _0x2a997b(0x74a)],
+                    },
+                    icon: { data: "😔", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x535) + _0x2a997b(0xa8a),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x990) + _0x2a997b(0x57a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x5c5),
+                        _0x2a997b(0x5a0),
+                        _0x2a997b(0x4d7),
+                      ],
+                    },
+                    icon: { data: "🤨", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x75d) + _0x2a997b(0x7b3),
+                    text_color: _0x2a997b(0x61d),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x776) + _0x2a997b(0x2e7) + _0x2a997b(0x95e),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x426),
+                        _0x2a997b(0x7e9),
+                        _0x2a997b(0x36e),
+                      ],
+                    },
+                    icon: { data: "😭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x684) + _0x2a997b(0x3bf),
+                    text_color: _0x2a997b(0x6d6),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa14) + _0x2a997b(0x6ab) + _0x2a997b(0x8c5),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa10),
+                        _0x2a997b(0x98a),
+                        _0x2a997b(0x1a9),
+                      ],
+                    },
+                    icon: { data: "🤨", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0xa87) + _0x2a997b(0x331) + _0x2a997b(0xa91),
+                    text_color: _0x2a997b(0x14f),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x990) + _0x2a997b(0x6ce),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x6d9),
+                        _0x2a997b(0x459),
+                        _0x2a997b(0x509),
+                      ],
+                    },
+                    icon: { data: "🤡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x15d) +
+                      _0x2a997b(0x139) +
+                      _0x2a997b(0x802) +
+                      _0x2a997b(0x31c),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x98f) + _0x2a997b(0x62f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x814),
+                        _0x2a997b(0x5d9),
+                        _0x2a997b(0x49e),
+                      ],
+                    },
+                    icon: { data: "🤡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x3bd) + _0x2a997b(0x1e7) + _0x2a997b(0x25a),
+                    text_color: _0x2a997b(0x2c3),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59a) + _0x2a997b(0x3fe),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x7c6),
+                        _0x2a997b(0x8d2),
+                        _0x2a997b(0x27d),
+                      ],
+                    },
+                    icon: { data: "😌", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x388) + _0x2a997b(0x730) + _0x2a997b(0xaad),
+                    text_color: _0x2a997b(0x78f),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59f) + _0x2a997b(0x475) + "ng",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9a4),
+                        _0x2a997b(0xa9d),
+                        _0x2a997b(0x720),
+                      ],
+                    },
+                    icon: { data: "😌", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x8d7) +
+                      _0x2a997b(0xa19) +
+                      _0x2a997b(0x4b6) +
+                      _0x2a997b(0x6fb) +
+                      "i",
+                    text_color: _0x2a997b(0x490),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x8d5) + _0x2a997b(0x58f) + _0x2a997b(0x602),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x80b), _0x2a997b(0x2a2)],
+                    },
+                    icon: { data: "🎁", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x375) + _0x2a997b(0x711),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa14) +
+                    _0x2a997b(0x7cc) +
+                    _0x2a997b(0x89c) +
+                    _0x2a997b(0x925),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x462), _0x2a997b(0x6d4)],
+                    },
+                    icon: { data: "😅", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x9eb) + _0x2a997b(0x615) + _0x2a997b(0x60c),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x3d8) +
+                    _0x2a997b(0x9fd) +
+                    _0x2a997b(0x261) +
+                    "g",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x4c1), _0x2a997b(0x462)],
+                    },
+                    icon: { data: "🎮", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x6bc) + _0x2a997b(0x3ed) + _0x2a997b(0x40d),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x4ca) + _0x2a997b(0x206) + _0x2a997b(0x76f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x85d), _0x2a997b(0x2dc)],
+                    },
+                    icon: { data: "🙈", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x502) + _0x2a997b(0x2fe),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x59f) + _0x2a997b(0x494) + _0x2a997b(0x6b7),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x980),
+                        _0x2a997b(0x464),
+                        _0x2a997b(0x8fa),
+                      ],
+                    },
+                    icon: { data: "👌", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4e3) + _0x2a997b(0x3b3),
+                    text_color: _0x2a997b(0x8b5),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x777) + _0x2a997b(0x21b) + _0x2a997b(0x32a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x145), _0x2a997b(0x96d)],
+                    },
+                    icon: { data: _0x2a997b(0x5ac), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x887) + _0x2a997b(0x9c0),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x818) + _0x2a997b(0x2ef),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x86b),
+                        _0x2a997b(0x961),
+                        _0x2a997b(0x9b5),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x65a) + _0x2a997b(0x43d),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x6a0),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x164),
+                    text_color: _0x2a997b(0x540),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x1c3) + _0x2a997b(0x2fb) + _0x2a997b(0x571),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9aa),
+                        _0x2a997b(0x4d5),
+                        _0x2a997b(0x1e0),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x25d) + _0x2a997b(0x833),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x35d),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x63e) + _0x2a997b(0x279),
+                    text_color: _0x2a997b(0xaa5),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa32) + _0x2a997b(0x718) + _0x2a997b(0x7a3),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x70a),
+                        _0x2a997b(0x5f6),
+                        _0x2a997b(0x5fa),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x25d) + _0x2a997b(0x753) + "ll",
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0xa7f),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x79e) + _0x2a997b(0x618),
+                    text_color: _0x2a997b(0x316),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa77) + _0x2a997b(0x9d4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x230),
+                        _0x2a997b(0x380),
+                        _0x2a997b(0xa4c),
+                      ],
+                    },
+                    icon: { data: "🤡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x5ed) + _0x2a997b(0x561),
+                    text_color: _0x2a997b(0x36f),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x98f) + _0x2a997b(0xa09) + _0x2a997b(0x924),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1a8),
+                        _0x2a997b(0x259),
+                        _0x2a997b(0x2a3),
+                      ],
+                    },
+                    icon: { data: "💅", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x8c7) + _0x2a997b(0x60b) + _0x2a997b(0x7f0),
+                    text_color: _0x2a997b(0x18a),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x960) + _0x2a997b(0x5c3) + _0x2a997b(0x14c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x336),
+                        _0x2a997b(0x815),
+                        _0x2a997b(0x6a6),
+                      ],
+                    },
+                    icon: { data: "🤫", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x678) + _0x2a997b(0x9ff),
+                    text_color: _0x2a997b(0x623),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x630) + _0x2a997b(0x379),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x921),
+                        _0x2a997b(0x2f2),
+                        _0x2a997b(0x7a0),
+                      ],
+                    },
+                    icon: { data: "🥹", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x13f) + _0x2a997b(0x1db),
+                    text_color: _0x2a997b(0x950),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x5f9) + _0x2a997b(0x665) + "ng",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x4be),
+                        _0x2a997b(0x7ec),
+                        _0x2a997b(0x356),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x969),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x4f3),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x429) + _0x2a997b(0x265),
+                    text_color: _0x2a997b(0x3e3),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0xaae) + _0x2a997b(0x1c9) + _0x2a997b(0x975),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x8ed) + _0x2a997b(0x5be) + "su",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6af), _0x2a997b(0x892)],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6e2) + _0x2a997b(0x935),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x1c3) + _0x2a997b(0x449) + "uu",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x39a), _0x2a997b(0x72a)],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0xa83) + _0x2a997b(0x902),
+                      color: _0x2a997b(0x567),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xaab) + _0x2a997b(0x6d0),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa14) + _0x2a997b(0xac5) + "t",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x956),
+                        _0x2a997b(0xa2c),
+                        _0x2a997b(0x667),
+                      ],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa22) + _0x2a997b(0x938),
+                    text_color: _0x2a997b(0x2a0),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x365) + _0x2a997b(0x97c) + _0x2a997b(0x8f0),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x93f),
+                        _0x2a997b(0x873),
+                        _0x2a997b(0x4a8),
+                      ],
+                    },
+                    icon: { data: "💀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x749) + _0x2a997b(0x72c) + _0x2a997b(0xa7a),
+                    text_color: _0x2a997b(0x839),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x365) + _0x2a997b(0x94f) + "oi",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x184), _0x2a997b(0x3a6)],
+                    },
+                    icon: { data: "🐉", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1a1) + _0x2a997b(0x176),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x365) + _0x2a997b(0x9d9) + _0x2a997b(0x241),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x923),
+                        _0x2a997b(0x5c5),
+                        _0x2a997b(0x480),
+                      ],
+                    },
+                    icon: { data: "❗", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x68b) + _0x2a997b(0x62b),
+                    text_color: _0x2a997b(0x805),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x2d5) + _0x2a997b(0x7b2),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x5ff),
+                        _0x2a997b(0x69a),
+                        _0x2a997b(0x41f),
+                      ],
+                    },
+                    icon: { data: "😭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x471) + _0x2a997b(0x213),
+                    text_color: _0x2a997b(0xaa1),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x777) + _0x2a997b(0x5cc),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa07),
+                        _0x2a997b(0x5e0),
+                        _0x2a997b(0x30b),
+                      ],
+                    },
+                    icon: { data: "💀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x981) + _0x2a997b(0x612),
+                    text_color: _0x2a997b(0x519),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x5e8) + _0x2a997b(0x4d8),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x427), _0x2a997b(0xa3f)],
+                    },
+                    icon: { data: "📉", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1f9),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x8ed) + _0x2a997b(0x5c9),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x930), _0x2a997b(0x9fa)],
+                    },
+                    icon: { data: _0x2a997b(0x420), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x158),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x377) + _0x2a997b(0x65f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x271), _0x2a997b(0x7ce)],
+                    },
+                    icon: { data: "😭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x16e) + "ắt",
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x4db) + _0x2a997b(0x95c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x81f), _0x2a997b(0x444)],
+                    },
+                    icon: { data: _0x2a997b(0x7f2), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4a2),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x1c3) + _0x2a997b(0x61f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa3b),
+                        _0x2a997b(0x757),
+                        _0x2a997b(0x913),
+                      ],
+                    },
+                    icon: { data: "🧠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4bd) + _0x2a997b(0x7c3),
+                    text_color: _0x2a997b(0xab0),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x292) +
+                    _0x2a997b(0x5a5) +
+                    _0x2a997b(0x771) +
+                    "g",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x930), _0x2a997b(0x5dc)],
+                    },
+                    icon: { data: "🤯", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x2ce) + _0x2a997b(0x154) + _0x2a997b(0x70c),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3a9) + _0x2a997b(0x809),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x33a), _0x2a997b(0x2fd)],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x421) + "hẹ",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59f) + _0x2a997b(0x4eb) + "c",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x957), _0x2a997b(0x62d)],
+                    },
+                    icon: { data: "🗿", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x3e0) + _0x2a997b(0x717),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x901) + _0x2a997b(0x373) + _0x2a997b(0x2d9),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x867),
+                        _0x2a997b(0x7f7),
+                        _0x2a997b(0x3d3),
+                      ],
+                    },
+                    icon: { data: "🙂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x9ba) +
+                      _0x2a997b(0x305) +
+                      _0x2a997b(0x49b) +
+                      "g",
+                    text_color: _0x2a997b(0x40f),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x78d) + _0x2a997b(0x655) + _0x2a997b(0x8d0),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x4a3), _0x2a997b(0x611)],
+                    },
+                    icon: { data: "🥀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x17f) + _0x2a997b(0x2df),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xabe) + _0x2a997b(0x41c) + _0x2a997b(0x8d0),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x7fb),
+                        _0x2a997b(0x744),
+                        _0x2a997b(0x3d5),
+                      ],
+                    },
+                    icon: { data: "🌙", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6e4) + _0x2a997b(0x66d) + "ồn",
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x759) + _0x2a997b(0x5fe),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x550),
+                        _0x2a997b(0xa48),
+                        _0x2a997b(0x88b),
+                      ],
+                    },
+                    icon: { data: "🥲", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x3be) + _0x2a997b(0x2cc),
+                    text_color: _0x2a997b(0x7c2),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3b6) + _0x2a997b(0x51a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x430),
+                        _0x2a997b(0x474),
+                        _0x2a997b(0x245),
+                      ],
+                    },
+                    icon: { data: "🫂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x155) + _0x2a997b(0x6f8) + _0x2a997b(0x2c2),
+                    text_color: _0x2a997b(0x281),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x1c3) + _0x2a997b(0x6ee),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x4f8),
+                        _0x2a997b(0x410),
+                        _0x2a997b(0x329),
+                      ],
+                    },
+                    icon: { data: "🥹", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x487) + _0x2a997b(0x698),
+                    text_color: _0x2a997b(0x8d1),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x990) + _0x2a997b(0x712),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x68d),
+                        _0x2a997b(0x4e7),
+                        _0x2a997b(0x6b1),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x30e),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x7f3),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x836) + _0x2a997b(0x15b),
+                    text_color: _0x2a997b(0x7f3),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x6e3) + _0x2a997b(0x920) + _0x2a997b(0x634),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x427), _0x2a997b(0xa3f)],
+                    },
+                    icon: { data: _0x2a997b(0x7f2), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x78b) + _0x2a997b(0x72e) + "i",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa32) +
+                    _0x2a997b(0x209) +
+                    _0x2a997b(0x6dc) +
+                    _0x2a997b(0x95e),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x3cb),
+                        _0x2a997b(0x8ba),
+                        _0x2a997b(0x986),
+                      ],
+                    },
+                    icon: { data: "💔", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x813) + _0x2a997b(0x548) + _0x2a997b(0x998),
+                    text_color: _0x2a997b(0x8db),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x98f) + _0x2a997b(0x8fe),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1c2),
+                        _0x2a997b(0x3c5),
+                        _0x2a997b(0x850),
+                      ],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x748) + _0x2a997b(0x41a),
+                    text_color: _0x2a997b(0x96c),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59f) + _0x2a997b(0x44d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x2ba),
+                        _0x2a997b(0x193),
+                        _0x2a997b(0x21f),
+                      ],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x2bc) + _0x2a997b(0x1de),
+                      color: _0x2a997b(0x683),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x709) + _0x2a997b(0x73e) + _0x2a997b(0x786),
+                    text_color: _0x2a997b(0x683),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x16b) + _0x2a997b(0x2a8) + _0x2a997b(0x13d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x7da),
+                        _0x2a997b(0x4c6),
+                        _0x2a997b(0x871),
+                      ],
+                    },
+                    icon: { data: "🥀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x2e8) +
+                      _0x2a997b(0x1d5) +
+                      _0x2a997b(0x546) +
+                      _0x2a997b(0x160),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa14) + _0x2a997b(0x324) + _0x2a997b(0x38a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa2b),
+                        _0x2a997b(0x2bb),
+                        _0x2a997b(0x6e7),
+                      ],
+                    },
+                    icon: { data: "💭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x2e5) + _0x2a997b(0x40e) + _0x2a997b(0x8f3),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9db) + _0x2a997b(0x3ce) + "o",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x72a),
+                        _0x2a997b(0x6bb),
+                        _0x2a997b(0xa7d),
+                      ],
+                    },
+                    icon: { data: "🩶", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x3b9) +
+                      _0x2a997b(0x6d1) +
+                      _0x2a997b(0x855) +
+                      _0x2a997b(0x6e5),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa16) + _0x2a997b(0x6a9) + _0x2a997b(0x4ff),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x979),
+                        _0x2a997b(0x62c),
+                        _0x2a997b(0x1a5),
+                      ],
+                    },
+                    icon: { data: "📱", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x199) + _0x2a997b(0x831) + _0x2a997b(0x2c0),
+                    text_color: _0x2a997b(0x280),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x861) + _0x2a997b(0x458),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x7be),
+                        _0x2a997b(0x370),
+                        _0x2a997b(0x75f),
+                      ],
+                    },
+                    icon: { data: "🥺", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x3a4) + _0x2a997b(0x3d6) + "mà",
+                    text_color: _0x2a997b(0x2b3),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x6eb) + _0x2a997b(0x2c9),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x992),
+                        _0x2a997b(0x9ab),
+                        _0x2a997b(0x3cc),
+                      ],
+                    },
+                    icon: { data: "🙂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x3c2) + _0x2a997b(0x85a) + _0x2a997b(0x311),
+                    text_color: _0x2a997b(0x649),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x759) + _0x2a997b(0x2a7),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x999),
+                        _0x2a997b(0x242),
+                        _0x2a997b(0xaaa),
+                      ],
+                    },
+                    icon: { data: "🥲", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x291) + _0x2a997b(0x6ba) + _0x2a997b(0x314),
+                    text_color: _0x2a997b(0x9e8),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x779) + _0x2a997b(0x9c4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x31f), _0x2a997b(0x9f1)],
+                    },
+                    icon: { data: "😤", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x746),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x861) + _0x2a997b(0x352),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x2f3),
+                        _0x2a997b(0x8c2),
+                        _0x2a997b(0x5ad),
+                      ],
+                    },
+                    icon: { data: "🥺", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x214) + _0x2a997b(0x1af) + _0x2a997b(0x514),
+                    text_color: _0x2a997b(0x38c),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x861) + _0x2a997b(0x90c) + _0x2a997b(0x9ed),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9c8),
+                        _0x2a997b(0x708),
+                        _0x2a997b(0x8c4),
+                      ],
+                    },
+                    icon: { data: "😾", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x481) + _0x2a997b(0x660),
+                    text_color: _0x2a997b(0x8f6),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x777) + _0x2a997b(0x144) + _0x2a997b(0x286),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x297), _0x2a997b(0x313)],
+                    },
+                    icon: { data: "🥺", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x827) + _0x2a997b(0x3aa),
+                    text_color: _0x2a997b(0x62d),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x218) + _0x2a997b(0x307),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x592),
+                        _0x2a997b(0x610),
+                        _0x2a997b(0x4d7),
+                      ],
+                    },
+                    icon: { data: "🥲", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x679) + _0x2a997b(0x890),
+                    text_color: _0x2a997b(0x8f6),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x78d) + _0x2a997b(0x460),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa6e),
+                        _0x2a997b(0x8be),
+                        _0x2a997b(0x928),
+                      ],
+                    },
+                    icon: { data: "🥹", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6bf),
+                    text_color: _0x2a997b(0x26c),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59f) + _0x2a997b(0x883) + "a",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x6c3),
+                        _0x2a997b(0x3f5),
+                        _0x2a997b(0x423),
+                      ],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x7ea) + _0x2a997b(0x2ae),
+                    text_color: _0x2a997b(0x5ce),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9d5) + _0x2a997b(0xa99),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x29e),
+                        _0x2a997b(0x3da),
+                        _0x2a997b(0x2f6),
+                      ],
+                    },
+                    icon: { data: "🤬", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa70) + _0x2a997b(0x590),
+                    text_color: _0x2a997b(0xa43),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x9d5) + _0x2a997b(0x50f) + _0x2a997b(0x241),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa35),
+                        _0x2a997b(0x79a),
+                        _0x2a997b(0x2f6),
+                      ],
+                    },
+                    icon: { data: "❗", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x672) + _0x2a997b(0x6ef),
+                    text_color: _0x2a997b(0x51b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x59f) + _0x2a997b(0x844) + _0x2a997b(0x5a2),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x99c),
+                        _0x2a997b(0x9ec),
+                        _0x2a997b(0x38b),
+                      ],
+                    },
+                    icon: { data: "❓", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1bd) + _0x2a997b(0x694),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x707) + _0x2a997b(0x616),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1d8),
+                        _0x2a997b(0x598),
+                        _0x2a997b(0x3d1),
+                      ],
+                    },
+                    icon: { data: "😳", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x233),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x792) + _0x2a997b(0x819),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1e1),
+                        _0x2a997b(0x2f6),
+                        _0x2a997b(0x3ba),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x80e) + "rk",
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x1dc),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x398),
+                    text_color: _0x2a997b(0x1dc),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x5ef) + _0x2a997b(0x249),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x32f),
+                        _0x2a997b(0x92d),
+                        _0x2a997b(0x355),
+                      ],
+                    },
+                    icon: { data: "😭", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x361) + _0x2a997b(0x9c2),
+                    text_color: _0x2a997b(0xa8b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x78d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x27e),
+                        _0x2a997b(0x5db),
+                        _0x2a997b(0x98d),
+                      ],
+                    },
+                    icon: { data: "🤨", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x482),
+                    text_color: _0x2a997b(0x773),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x167) + _0x2a997b(0x67b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xab5),
+                        _0x2a997b(0x437),
+                        _0x2a997b(0x557),
+                      ],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x33c) + "ọ",
+                    text_color: _0x2a997b(0x728),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x739) + _0x2a997b(0x742) + "et",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1b0),
+                        _0x2a997b(0x530),
+                        _0x2a997b(0x34d),
+                      ],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x15e) + _0x2a997b(0x165) + _0x2a997b(0x733),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa14) + _0x2a997b(0x6ea),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x5a7),
+                        _0x2a997b(0x327),
+                        _0x2a997b(0x253),
+                      ],
+                    },
+                    icon: { data: "🙄", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xabd) + _0x2a997b(0x88f),
+                    text_color: _0x2a997b(0x594),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0x7e6) + "di",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x3cf),
+                        _0x2a997b(0xa60),
+                        _0x2a997b(0x208),
+                      ],
+                    },
+                    icon: { data: "🙄", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6aa) + _0x2a997b(0x710),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x98f) + _0x2a997b(0x695) + _0x2a997b(0xa80),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x5bc), _0x2a997b(0xa96)],
+                    },
+                    icon: { data: "🙉", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x526) + _0x2a997b(0x262),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x59f) + _0x2a997b(0x1ce) + _0x2a997b(0x7ae),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x484),
+                        _0x2a997b(0x223),
+                        _0x2a997b(0x9f9),
+                      ],
+                    },
+                    icon: { data: "🙈", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x596) +
+                      _0x2a997b(0xa6b) +
+                      _0x2a997b(0xa1d) +
+                      _0x2a997b(0xaa4),
+                    text_color: _0x2a997b(0x45f),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x739) + _0x2a997b(0x20b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1b9),
+                        _0x2a997b(0x15a),
+                        _0x2a997b(0xa3b),
+                      ],
+                    },
+                    icon: { data: "🤫", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x685) + _0x2a997b(0xa51) + _0x2a997b(0x9f7),
+                    text_color: _0x2a997b(0x5af),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x9db) +
+                    _0x2a997b(0xa6f) +
+                    _0x2a997b(0x9a1) +
+                    _0x2a997b(0x8d3),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x145),
+                        _0x2a997b(0x96d),
+                        _0x2a997b(0x493),
+                        _0x2a997b(0x3a8),
+                      ],
+                    },
+                    icon: { data: "🤐", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x56e) +
+                      _0x2a997b(0x4dc) +
+                      _0x2a997b(0x7aa) +
+                      "i",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x739) +
+                    _0x2a997b(0x6f2) +
+                    _0x2a997b(0x84a) +
+                    _0x2a997b(0x3f7),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1be),
+                        _0x2a997b(0x79f),
+                        _0x2a997b(0xa23),
+                      ],
+                    },
+                    icon: { data: "🤫", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x403) + _0x2a997b(0x80c) + _0x2a997b(0xab1),
+                    text_color: _0x2a997b(0xa88),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x25b) + _0x2a997b(0x2fa),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x686),
+                        _0x2a997b(0x5dd),
+                        _0x2a997b(0x21d),
+                      ],
+                    },
+                    icon: {
+                      data:
+                        _0x2a997b(0xa17) + _0x2a997b(0x2d6) + _0x2a997b(0x511),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x764),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x68e),
+                    text_color: _0x2a997b(0x9c7),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x7ad) + _0x2a997b(0x69d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x70b),
+                        _0x2a997b(0x9c5),
+                        _0x2a997b(0x741),
+                      ],
+                    },
+                    icon: {
+                      data:
+                        _0x2a997b(0x80e) + _0x2a997b(0x1fc) + _0x2a997b(0x22e),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x23f),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x51e),
+                    text_color: _0x2a997b(0x247),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0x1b7),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x659),
+                        _0x2a997b(0x8d9),
+                        _0x2a997b(0x256),
+                      ],
+                    },
+                    icon: { data: "🤷", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa2d) + "á",
+                    text_color: _0x2a997b(0x298),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x731) + _0x2a997b(0x3e2),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x845),
+                        _0x2a997b(0x677),
+                        _0x2a997b(0x424),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x965) + _0x2a997b(0x4b0),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x588),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x583) + _0x2a997b(0x25c),
+                    text_color: _0x2a997b(0x552),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x630) + _0x2a997b(0x20a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9af),
+                        _0x2a997b(0xa1a),
+                        _0x2a997b(0x404),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x5bb) + _0x2a997b(0x99e),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x34f),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x497) + _0x2a997b(0xa21),
+                    text_color: _0x2a997b(0x71a),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x64d) + _0x2a997b(0x14e),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x226),
+                        _0x2a997b(0x7c4),
+                        _0x2a997b(0x326),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0xa27),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x2a5),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1f6) + _0x2a997b(0x4d4),
+                    text_color: _0x2a997b(0x348),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x167) + _0x2a997b(0x4fd),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x79d),
+                        _0x2a997b(0xa5e),
+                        _0x2a997b(0x2de),
+                      ],
+                    },
+                    icon: { data: "🥲", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4ce) + _0x2a997b(0x70f),
+                    text_color: _0x2a997b(0x282),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x5ef) + _0x2a997b(0x40c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa63),
+                        _0x2a997b(0xa02),
+                        _0x2a997b(0x4da),
+                      ],
+                    },
+                    icon: { data: "🌙", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x371),
+                    text_color: _0x2a997b(0x400),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x1f2) + _0x2a997b(0xa33) + _0x2a997b(0xa78),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0xabe) + _0x2a997b(0x82e) + "t",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x95d), _0x2a997b(0x84b)],
+                    },
+                    icon: { data: "🔥", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x620) + _0x2a997b(0x7b9),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x779) + _0x2a997b(0xa92) + _0x2a997b(0x337),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa50),
+                        _0x2a997b(0x721),
+                        _0x2a997b(0x49c),
+                      ],
+                    },
+                    icon: { data: "📚", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x629) +
+                      _0x2a997b(0xa69) +
+                      _0x2a997b(0x19f) +
+                      _0x2a997b(0x9a2),
+                    text_color: _0x2a997b(0x407),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x731) + _0x2a997b(0xaa2) + _0x2a997b(0x8e6),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa06), _0x2a997b(0x897)],
+                    },
+                    icon: { data: "🤡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x5b5) + _0x2a997b(0x790),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9d5) + _0x2a997b(0x301),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9e2),
+                        _0x2a997b(0x19c),
+                        _0x2a997b(0x4bb),
+                      ],
+                    },
+                    icon: { data: "🐍", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x57b) + "ộc",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x9db) + _0x2a997b(0x829) + _0x2a997b(0x905),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x9e2), _0x2a997b(0xa9f)],
+                    },
+                    icon: { data: "☕", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9f0) + _0x2a997b(0x551),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x4db) + _0x2a997b(0x9ae) + _0x2a997b(0x27a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x854), _0x2a997b(0x774)],
+                    },
+                    icon: { data: "💸", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x143) + _0x2a997b(0x5f5),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x3d4) +
+                    _0x2a997b(0x2aa) +
+                    _0x2a997b(0x74e) +
+                    _0x2a997b(0x9bc),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9e2),
+                        _0x2a997b(0x448),
+                        _0x2a997b(0xa9f),
+                      ],
+                    },
+                    icon: { data: "💸", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x693) + _0x2a997b(0x795) + _0x2a997b(0x1d7),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x779) + _0x2a997b(0x579) + _0x2a997b(0xa64),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6bd), _0x2a997b(0x9fe)],
+                    },
+                    icon: { data: "💳", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x69e) + _0x2a997b(0x6d2),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x776) +
+                    _0x2a997b(0x948) +
+                    _0x2a997b(0xa41) +
+                    _0x2a997b(0x1c7),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa82),
+                        _0x2a997b(0x1ea),
+                        _0x2a997b(0xac4),
+                      ],
+                    },
+                    icon: { data: "💰", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x18f) + _0x2a997b(0x7fc) + _0x2a997b(0x4a9),
+                    text_color: _0x2a997b(0x788),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x776) + _0x2a997b(0x8cd) + _0x2a997b(0x6b9),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x77c),
+                        _0x2a997b(0x9df),
+                        _0x2a997b(0x39e),
+                      ],
+                    },
+                    icon: { data: "💸", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x515) + _0x2a997b(0x225) + _0x2a997b(0x75e),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x779) + _0x2a997b(0xac6) + _0x2a997b(0x947),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x73c),
+                        _0x2a997b(0x9a8),
+                        _0x2a997b(0x769),
+                      ],
+                    },
+                    icon: { data: "💰", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x811) +
+                      _0x2a997b(0x797) +
+                      _0x2a997b(0x65b) +
+                      _0x2a997b(0x801),
+                    text_color: _0x2a997b(0x976),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x525) + _0x2a997b(0x657) + _0x2a997b(0x180),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x2da), _0x2a997b(0x59d)],
+                    },
+                    icon: { data: "🥔", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x587) + _0x2a997b(0x75c) + "ừ",
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x272) + _0x2a997b(0xa0f) + _0x2a997b(0x91c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x49f), _0x2a997b(0x2f0)],
+                    },
+                    icon: { data: "🎲", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6de) + _0x2a997b(0x61c),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9cf) + _0x2a997b(0x37f),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x1f7),
+                        _0x2a997b(0x5c7),
+                        _0x2a997b(0x7c1),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x415) + _0x2a997b(0x633),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x738),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x952) + "gủ",
+                    text_color: _0x2a997b(0x266),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3d4) + _0x2a997b(0x20e) + "a",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x80f),
+                        _0x2a997b(0x689),
+                        _0x2a997b(0x79b),
+                      ],
+                    },
+                    icon: { data: "📚", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x37b) + _0x2a997b(0x84e),
+                    text_color: _0x2a997b(0x933),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xabe) + _0x2a997b(0x8b1),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x6d5),
+                        _0x2a997b(0xa7c),
+                        _0x2a997b(0x1ef),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x3dd),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x82f),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x825) + _0x2a997b(0x187) + _0x2a997b(0x354),
+                    text_color: _0x2a997b(0x8e0),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0xa46),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x170),
+                        _0x2a997b(0x85c),
+                        _0x2a997b(0x75b),
+                      ],
+                    },
+                    icon: { data: "💸", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2ab),
+                    text_color: _0x2a997b(0x5ab),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa14) + _0x2a997b(0x1c1) + _0x2a997b(0x537),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x93d),
+                        _0x2a997b(0x171),
+                        _0x2a997b(0x640),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x445) + _0x2a997b(0x5d6),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x5b4),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x8f5) + _0x2a997b(0xa4a) + _0x2a997b(0x86f),
+                    text_color: _0x2a997b(0x392),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0x669) + _0x2a997b(0x7d2) + "\x20☕",
+              items: [
+                {
+                  overlay_id:
+                    _0x2a997b(0x9db) + _0x2a997b(0x5fb) + _0x2a997b(0x857),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x32d),
+                        _0x2a997b(0x2f6),
+                        _0x2a997b(0x3ba),
+                      ],
+                    },
+                    icon: { data: "☀️", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x668) + _0x2a997b(0x768),
+                    text_color: _0x2a997b(0x6ed),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x776) + _0x2a997b(0x8d4),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x46b), _0x2a997b(0x8d6)],
+                    },
+                    icon: { data: "☕", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2b2) + "e!",
+                    localized_text: {
+                      en: _0x2a997b(0x2b2) + "e!",
+                      vn: _0x2a997b(0x240) + _0x2a997b(0x606),
+                    },
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x630) + _0x2a997b(0x65c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x80d),
+                        _0x2a997b(0x434),
+                        _0x2a997b(0x4c8),
+                      ],
+                    },
+                    icon: { data: "🍃", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x900) + _0x2a997b(0xa4d),
+                    text_color: _0x2a997b(0x1ff),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x901) + _0x2a997b(0x27c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6c7), _0x2a997b(0x267)],
+                    },
+                    icon: { data: "🍦", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x147) + "!",
+                    localized_text: {
+                      en: _0x2a997b(0x147) + "!",
+                      vn: _0x2a997b(0x8a3),
+                    },
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x4db) + _0x2a997b(0x5bf) + _0x2a997b(0x54a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa94),
+                        _0x2a997b(0x781),
+                        _0x2a997b(0x66c),
+                      ],
+                    },
+                    icon: { data: "🧋", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x7df) +
+                      _0x2a997b(0x172) +
+                      _0x2a997b(0xa08) +
+                      _0x2a997b(0x662) +
+                      _0x2a997b(0x2ac),
+                    text_color: _0x2a997b(0x55f),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa77) + _0x2a997b(0x73b),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x6c4), _0x2a997b(0x737)],
+                    },
+                    icon: { data: _0x2a997b(0x8ae), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x27f) + "a?",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x731) + _0x2a997b(0x21c),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x835), _0x2a997b(0x646)],
+                    },
+                    icon: { data: _0x2a997b(0x8ae), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x863) + "e!",
+                    localized_text: {
+                      en: _0x2a997b(0x863) + "e!",
+                      vn: _0x2a997b(0x7d3) + "!",
+                    },
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x731) + _0x2a997b(0x8a2) + "g",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa24), _0x2a997b(0x8ac)],
+                    },
+                    icon: { data: "✈️", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0xa72) + _0x2a997b(0x52c),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x98f) + _0x2a997b(0x1bb) + _0x2a997b(0x911),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xaaf),
+                        _0x2a997b(0x16a),
+                        _0x2a997b(0x368),
+                      ],
+                    },
+                    icon: { data: "🥂", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x72b) + _0x2a997b(0xabc),
+                    text_color: _0x2a997b(0x2b7),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x31a) + _0x2a997b(0x2bf) + "e",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x49d), _0x2a997b(0xa38)],
+                    },
+                    icon: { data: _0x2a997b(0x22f), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x4a6) + _0x2a997b(0x750),
+                    localized_text: {
+                      en: _0x2a997b(0x4a6) + _0x2a997b(0x750),
+                      vn: _0x2a997b(0x533) + "m!",
+                    },
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x93e) + _0x2a997b(0x210),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x94d), _0x2a997b(0x72a)],
+                    },
+                    icon: { data: "🎬", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x74c) + "e!",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x98f) + _0x2a997b(0x81c) + _0x2a997b(0x578),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x72a), _0x2a997b(0x6ca)],
+                    },
+                    icon: { data: "📷", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x526) + _0x2a997b(0x7d5),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x34b) + _0x2a997b(0x2f8) + _0x2a997b(0x18d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x344), _0x2a997b(0x97a)],
+                    },
+                    icon: { data: "📷", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2b5) + _0x2a997b(0x1da),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x4c5) + _0x2a997b(0x4ab),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa52), _0x2a997b(0x49d)],
+                    },
+                    icon: { data: "📷", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1b5) + "e!",
+                    text_color: _0x2a997b(0x96b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x60f) + _0x2a997b(0x904) + "e",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x7a1), _0x2a997b(0x267)],
+                    },
+                    icon: { data: "🌴", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x5ba) + _0x2a997b(0x750),
+                    localized_text: {
+                      en: _0x2a997b(0x5ba) + _0x2a997b(0x750),
+                      vn: _0x2a997b(0x77f) + _0x2a997b(0x185),
+                    },
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x7eb) + _0x2a997b(0x323) + "ay",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x94d), _0x2a997b(0xa68)],
+                    },
+                    icon: { data: "🎓", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x2f5) + _0x2a997b(0x1a2) + "!",
+                    localized_text: {
+                      en: _0x2a997b(0x2f5) + _0x2a997b(0x1a2) + "!",
+                      vn: _0x2a997b(0x82d) + _0x2a997b(0x89b) + "!",
+                    },
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x218) + _0x2a997b(0x391),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa1b),
+                        _0x2a997b(0x238),
+                        _0x2a997b(0x70e),
+                      ],
+                    },
+                    icon: { data: "🌊", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x293),
+                    text_color: _0x2a997b(0x1a3),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x78d) + _0x2a997b(0x436) + _0x2a997b(0x401),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data: _0x2a997b(0x3a1) + "r",
+                        source: _0x2a997b(0x9b7),
+                      },
+                      colors: [_0x2a997b(0x7af), _0x2a997b(0x6ca)],
+                    },
+                    icon: { data: _0x2a997b(0x3a3), type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x544) + _0x2a997b(0x847) + ".",
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x761) + _0x2a997b(0x949),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      image: {
+                        type: _0x2a997b(0x91a),
+                        data: _0x2a997b(0x3a1) + "r",
+                        source: _0x2a997b(0x9b7),
+                      },
+                      colors: [
+                        _0x2a997b(0x9b6),
+                        _0x2a997b(0x8d6),
+                        _0x2a997b(0xa54),
+                      ],
+                    },
+                    icon: { data: "☕", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x71f) + _0x2a997b(0x45a),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9d5) + _0x2a997b(0x4d3),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x23c), _0x2a997b(0x6a3)],
+                    },
+                    icon: { data: "🤧", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x498),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x8ed) + _0x2a997b(0x2e4) + _0x2a997b(0x626),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x3b2),
+                        _0x2a997b(0x1b4),
+                        _0x2a997b(0x507),
+                      ],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x4f4) + _0x2a997b(0x43d),
+                      color: _0x2a997b(0xa38),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x54f) + _0x2a997b(0x50e) + _0x2a997b(0x366),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa90) + _0x2a997b(0xa3a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x714),
+                        _0x2a997b(0x6d3),
+                        _0x2a997b(0x37c),
+                      ],
+                    },
+                    icon: { data: "🪐", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x696) + _0x2a997b(0x66a),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x7d8) + _0x2a997b(0x66b),
+                  source: _0x2a997b(0x270),
+                  daily_start_hour: 0x1,
+                  daily_end_hour: 0x3,
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9e2),
+                        _0x2a997b(0x448),
+                        _0x2a997b(0xa9f),
+                      ],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x966) + _0x2a997b(0x43d),
+                      color: _0x2a997b(0x567),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x8ad) + _0x2a997b(0x2d7),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9db) + _0x2a997b(0x71d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x5b9), _0x2a997b(0x94d)],
+                    },
+                    icon: {
+                      type: _0x2a997b(0x822),
+                      data: _0x2a997b(0x415) + _0x2a997b(0x633),
+                      color: _0x2a997b(0x567),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6fe),
+                    text_color: _0x2a997b(0x567),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x770) + _0x2a997b(0x875),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x28e),
+                        _0x2a997b(0x9cc),
+                        _0x2a997b(0x3c8),
+                      ],
+                    },
+                    icon: { data: "☁️", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x635) + _0x2a997b(0x8ec),
+                    text_color: _0x2a997b(0x9a7),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x6eb) + _0x2a997b(0x62e) + _0x2a997b(0x19d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x77d),
+                        _0x2a997b(0x205),
+                        _0x2a997b(0x310),
+                      ],
+                    },
+                    icon: { data: "🫡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x1d0) + _0x2a997b(0x2d3) + _0x2a997b(0x290),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0xa16) + _0x2a997b(0x727) + _0x2a997b(0x803),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa68),
+                        _0x2a997b(0x443),
+                        _0x2a997b(0x595),
+                      ],
+                    },
+                    icon: { data: "😴", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x6ff) + _0x2a997b(0x46f),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x1c3) +
+                    _0x2a997b(0x1e8) +
+                    _0x2a997b(0x3ca) +
+                    _0x2a997b(0x5eb),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x5c5),
+                        _0x2a997b(0x5a0),
+                        _0x2a997b(0x4d7),
+                      ],
+                    },
+                    icon: { data: "🤡", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x8a8) + _0x2a997b(0x6df) + _0x2a997b(0x25f),
+                    text_color: _0x2a997b(0x3e9),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x330) + _0x2a997b(0x468) + _0x2a997b(0x5a3),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x446),
+                        _0x2a997b(0x76e),
+                        _0x2a997b(0x52b),
+                      ],
+                    },
+                    icon: { data: "🫠", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x39d) + _0x2a997b(0x701) + _0x2a997b(0x229),
+                    text_color: _0x2a997b(0x273),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x879) + _0x2a997b(0xa15) + _0x2a997b(0x45d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x4cd),
+                        _0x2a997b(0x60e),
+                        _0x2a997b(0x30f),
+                      ],
+                    },
+                    icon: { data: "🚨", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x2a1) +
+                      _0x2a997b(0x670) +
+                      _0x2a997b(0x9a3) +
+                      "%",
+                    text_color: _0x2a997b(0x963),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x6eb) +
+                    _0x2a997b(0x47c) +
+                    _0x2a997b(0x4cb) +
+                    "m",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x99a),
+                        _0x2a997b(0x2d2),
+                        _0x2a997b(0x5df),
+                      ],
+                    },
+                    icon: { data: "🛌", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x1d0) + _0x2a997b(0x62a) + _0x2a997b(0x810),
+                    text_color: _0x2a997b(0x9dc),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x630) + _0x2a997b(0x35c) + _0x2a997b(0x7f9),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x6d9),
+                        _0x2a997b(0x17b),
+                        _0x2a997b(0x9e3),
+                      ],
+                    },
+                    icon: { data: "💀", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x9a9) + _0x2a997b(0xa30),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x793) + _0x2a997b(0x931) + _0x2a997b(0x9ee),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x532),
+                        _0x2a997b(0x6ae),
+                        _0x2a997b(0x24f),
+                      ],
+                    },
+                    icon: { data: "💤", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x820) + _0x2a997b(0x439),
+                    text_color: _0x2a997b(0x4e4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x777) + _0x2a997b(0x5ec),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x6b4),
+                        _0x2a997b(0xa5d),
+                        _0x2a997b(0x915),
+                      ],
+                    },
+                    icon: { data: "👋", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x72f),
+                    text_color: _0x2a997b(0x2c4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa14) + _0x2a997b(0x1ab) + "iu",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x7f1),
+                        _0x2a997b(0xa5d),
+                        _0x2a997b(0xa97),
+                      ],
+                    },
+                    icon: { data: "💗", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x1aa) + _0x2a997b(0x9fc),
+                    text_color: _0x2a997b(0x2a4),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x9d5) + _0x2a997b(0x531) + _0x2a997b(0x7d1),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa3d),
+                        _0x2a997b(0x195),
+                        _0x2a997b(0x7ef),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x8a5) + _0x2a997b(0x8cc),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x2cb),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x794) + _0x2a997b(0x349) + _0x2a997b(0x76d),
+                    text_color: _0x2a997b(0x661),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x776) + _0x2a997b(0x605) + "a",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x250),
+                        _0x2a997b(0xa81),
+                        _0x2a997b(0xa12),
+                      ],
+                    },
+                    icon: { data: "🍚", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x257) + _0x2a997b(0x681) + _0x2a997b(0x69b),
+                    text_color: _0x2a997b(0x29b),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0xa77) + _0x2a997b(0x1dd),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xac8),
+                        _0x2a997b(0x69f),
+                        _0x2a997b(0x503),
+                      ],
+                    },
+                    icon: { data: "🍜", type: _0x2a997b(0x7d9) },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x84d),
+                    text_color: _0x2a997b(0x402),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id:
+                    _0x2a997b(0x60f) + _0x2a997b(0x842) + _0x2a997b(0xa8e),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9e6),
+                        _0x2a997b(0x987),
+                        _0x2a997b(0x7c7),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x224) + "l",
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x734),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x58c) + _0x2a997b(0x5e2),
+                    text_color: _0x2a997b(0x5aa),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x6eb) + _0x2a997b(0xa0a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0xa9e),
+                        _0x2a997b(0x334),
+                        _0x2a997b(0x9d2),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x3a0) + _0x2a997b(0x84f),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x1b8),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x690),
+                    text_color: _0x2a997b(0x408),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x167) + _0x2a997b(0xab3),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [
+                        _0x2a997b(0x9e7),
+                        _0x2a997b(0xab2),
+                        _0x2a997b(0x8b8),
+                      ],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x264),
+                      type: _0x2a997b(0x822),
+                      color: _0x2a997b(0x33d),
+                    },
+                    max_lines: 0x1,
+                    text: _0x2a997b(0x613) + _0x2a997b(0x93a),
+                    text_color: _0x2a997b(0x699),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+            {
+              section: _0x2a997b(0xaa9) + _0x2a997b(0x246) + _0x2a997b(0x1e3),
+              items: [
+                {
+                  overlay_id: _0x2a997b(0x4c5) + _0x2a997b(0x9b2),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x889), _0x2a997b(0x983)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x454) + _0x2a997b(0x93c) + _0x2a997b(0x67e),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x4c5) + _0x2a997b(0x8e5),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa84), _0x2a997b(0x3e4)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x454) + _0x2a997b(0x93c) + _0x2a997b(0x3c9),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x4c5) + _0x2a997b(0x73d),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0xa1c), _0x2a997b(0x5d1)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x454) + _0x2a997b(0x93c) + _0x2a997b(0x9cd),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x4c5) + _0x2a997b(0x275) + "u",
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x545), _0x2a997b(0x1bf)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x454) + _0x2a997b(0x93c) + _0x2a997b(0x4f6),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x9cf) + _0x2a997b(0x648),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x2b6), _0x2a997b(0x8c6)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x405) + _0x2a997b(0x21a) + _0x2a997b(0x799),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x3a9) + _0x2a997b(0x8f1),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x1d1), _0x2a997b(0xa9c)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x405) + _0x2a997b(0x4c0) + _0x2a997b(0x7a7),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x59a) + _0x2a997b(0x48a),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x978), _0x2a997b(0x555)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x506) + _0x2a997b(0x2b0) + _0x2a997b(0x3b5),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+                {
+                  overlay_id: _0x2a997b(0x98f) + _0x2a997b(0x4de),
+                  source: _0x2a997b(0x270),
+                  caption: {
+                    background: {
+                      colors: [_0x2a997b(0x56c), _0x2a997b(0x1ba)],
+                    },
+                    icon: {
+                      data: _0x2a997b(0x63c) + _0x2a997b(0x663),
+                      type: _0x2a997b(0x822),
+                    },
+                    max_lines: 0x1,
+                    text:
+                      _0x2a997b(0x8c3) + _0x2a997b(0x2c8) + _0x2a997b(0x4df),
+                    text_color: _0x2a997b(0xa38),
+                    type: _0x2a997b(0x8b3) + _0x2a997b(0x8af),
+                  },
+                },
+              ],
+            },
+          ]),
+        });
+        continue;
+      case "3":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          daily_reminder_config: JSON[_0x2a997b(0x202)]({
+            is_time_sensitive: !![],
+            items: [
+              {
+                day: 0x1,
+                title_string: {
+                  en: _0x2a997b(0x7b8) + _0x2a997b(0x5f0) + _0x2a997b(0x309),
+                },
+                streak_body_string: {
+                  en:
+                    _0x2a997b(0x5ee) +
+                    _0x2a997b(0x83e) +
+                    _0x2a997b(0x4d2) +
+                    _0x2a997b(0x479) +
+                    "k#",
+                },
+                body_string: {
+                  en:
+                    _0x2a997b(0x8a7) +
+                    _0x2a997b(0x6b2) +
+                    _0x2a997b(0x435) +
+                    _0x2a997b(0x4fb),
+                },
+                body_string_plural: {
+                  en:
+                    _0x2a997b(0x8a7) +
+                    _0x2a997b(0x6b2) +
+                    _0x2a997b(0x435) +
+                    _0x2a997b(0x4fb),
+                },
+              },
+              {
+                day: 0x3,
+                hour: 0xa,
+                title_string: {
+                  en: _0x2a997b(0x78c) + _0x2a997b(0x704) + _0x2a997b(0x169),
+                },
+                body_string: {
+                  en:
+                    _0x2a997b(0x455) +
+                    _0x2a997b(0x691) +
+                    _0x2a997b(0x9b8) +
+                    _0x2a997b(0x6be) +
+                    _0x2a997b(0x183) +
+                    _0x2a997b(0x85f),
+                },
+                body_string_plural: {
+                  en:
+                    _0x2a997b(0x455) +
+                    _0x2a997b(0x691) +
+                    _0x2a997b(0x9b8) +
+                    _0x2a997b(0x6be) +
+                    _0x2a997b(0x183) +
+                    _0x2a997b(0x85f),
+                },
+              },
+              {
+                day: 0x7,
+                hour: 0x13,
+                title_string: {
+                  en: _0x2a997b(0x7bb) + _0x2a997b(0x832) + _0x2a997b(0xa6a),
+                },
+                body_string: {
+                  en:
+                    _0x2a997b(0x762) +
+                    _0x2a997b(0x278) +
+                    _0x2a997b(0x94a) +
+                    _0x2a997b(0x457),
+                },
+                body_string_plural: {
+                  en:
+                    _0x2a997b(0x762) +
+                    _0x2a997b(0x278) +
+                    _0x2a997b(0x94a) +
+                    _0x2a997b(0x457),
+                },
+              },
+              {
+                day: 0xe,
+                hour: 0xa,
+                title_string: {
+                  en: _0x2a997b(0x9b9) + _0x2a997b(0x954) + _0x2a997b(0x149),
+                },
+                body_string: {
+                  en:
+                    _0x2a997b(0x2cf) +
+                    _0x2a997b(0x8fd) +
+                    _0x2a997b(0x862) +
+                    _0x2a997b(0x778) +
+                    _0x2a997b(0x574),
+                },
+                body_string_plural: {
+                  en:
+                    _0x2a997b(0x2cf) +
+                    _0x2a997b(0x8fd) +
+                    _0x2a997b(0x862) +
+                    _0x2a997b(0x778) +
+                    _0x2a997b(0x574),
+                },
+              },
+            ],
+          }),
+        });
+        continue;
+      case "4":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          feature_gates: JSON[_0x2a997b(0x202)]({
+            app_icon_picker: _0x2a997b(0x812),
+            camera_roll: _0x2a997b(0x812),
+            camera_theme: _0x2a997b(0x812),
+            locket_views: _0x2a997b(0x812),
+            long_captions: _0x2a997b(0x812),
+            longer_video: _0x2a997b(0x812),
+            unlimited_friends: _0x2a997b(0x812),
+            priority_support: _0x2a997b(0x812),
+            profile_badge: _0x2a997b(0x812),
+            remove_ads: _0x2a997b(0x812),
+            video: _0x2a997b(0x812),
+            custom_widget_frames: _0x2a997b(0x812),
+            camera_filter_sheet: _0x2a997b(0x812),
+            streak_recovery: _0x2a997b(0x812),
+            streak_reminders: _0x2a997b(0x812),
+          }),
+          upsell_features: JSON[_0x2a997b(0x202)]({
+            app_icon_picker: !![],
+            camera_roll: !![],
+            camera_theme: !![],
+            locket_views: !![],
+            remove_ads: !![],
+            custom_widget_frames: !![],
+          }),
+          paywall_presentation_config: JSON[_0x2a997b(0x202)]({
+            uid: _0x2a997b(0x204) + _0x2a997b(0x98e),
+            onboarding: ![],
+            after_sent_moment: ![],
+            on_foreground: ![],
+            interval: 0x278d00,
+            profile_banner: !![],
+          }),
+          feature_discovery_popup_config: JSON[_0x2a997b(0x202)]({
+            tag: _0x2a997b(0x1ed) + _0x2a997b(0x6f9) + _0x2a997b(0x722),
+            tag_gradient: !![],
+            tag_style: _0x2a997b(0x2dd) + _0x2a997b(0x7cf),
+            title: _0x2a997b(0x702) + _0x2a997b(0x57c) + _0x2a997b(0x627),
+            feature_set: [
+              {
+                title:
+                  _0x2a997b(0x1fb) +
+                  _0x2a997b(0x428) +
+                  _0x2a997b(0x554) +
+                  _0x2a997b(0x72d),
+                body:
+                  _0x2a997b(0x1d6) +
+                  _0x2a997b(0x20c) +
+                  _0x2a997b(0x211) +
+                  _0x2a997b(0x1b3) +
+                  _0x2a997b(0xa2e),
+                imageURL:
+                  _0x2a997b(0x834) +
+                  _0x2a997b(0x162) +
+                  _0x2a997b(0x343) +
+                  _0x2a997b(0x289) +
+                  _0x2a997b(0x505),
+              },
+            ],
+            primary_button_title: _0x2a997b(0x5a8) + _0x2a997b(0x36d),
+            campaign: _0x2a997b(0x675) + _0x2a997b(0x593) + "v3",
+            start_at: _0x2a997b(0x4ac) + _0x2a997b(0x54e),
+            end_at: _0x2a997b(0x994) + _0x2a997b(0x2eb),
+            use_local_time_zone: !![],
+          }),
+          android_subscribe_gold_button_enabled: _0x2a997b(0x942),
+          profile_badge_visible: _0x2a997b(0x3f3),
+          lunar_new_year_app_icon_enabled: _0x2a997b(0x3f3),
+          settings_instagram_url:
+            _0x2a997b(0x729) +
+            _0x2a997b(0x846) +
+            _0x2a997b(0x49a) +
+            _0x2a997b(0x359),
+          settings_tiktok_url:
+            _0x2a997b(0x55d) + _0x2a997b(0x192) + _0x2a997b(0x47f),
+          star_sign_caption_image_url:
+            _0x2a997b(0x517) +
+            _0x2a997b(0x866) +
+            _0x2a997b(0x929) +
+            _0x2a997b(0x1c0) +
+            _0x2a997b(0x7b5) +
+            _0x2a997b(0x9f4) +
+            _0x2a997b(0x8c1),
+        });
+        continue;
+      case "5":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          cdn_domain_replacements: JSON[_0x2a997b(0x202)]({
+            "firebasestorage.googleapis.com":
+              _0x2a997b(0x639) + _0x2a997b(0x45e),
+          }),
+          cdn_domain_replacements_video: _0x2a997b(0x3f3),
+          functions_domains: JSON[_0x2a997b(0x202)]([
+            _0x2a997b(0x1fe) + _0x2a997b(0x13c) + _0x2a997b(0x13e),
+            _0x2a997b(0xa58) +
+              _0x2a997b(0x98c) +
+              _0x2a997b(0x3fb) +
+              _0x2a997b(0x5a4) +
+              _0x2a997b(0x221) +
+              "t",
+          ]),
+          storage_bucket: _0x2a997b(0x751) + _0x2a997b(0x603),
+          storage_bucket_video: _0x2a997b(0x751) + _0x2a997b(0x9be),
+          camera_filter_storage_bucket: _0x2a997b(0x751) + _0x2a997b(0x1cf),
+          image_cache_max_age_sec: _0x2a997b(0x357),
+          image_cache_max_size: _0x2a997b(0x7e4),
+          history_cache_age_days: _0x2a997b(0x237),
+          user_cache_max_age_sec: _0x2a997b(0x22c),
+          friends_cache_max_age_sec: _0x2a997b(0x944),
+          image_fetch_cache: _0x2a997b(0x3f3),
+          image_cache_use_shared: _0x2a997b(0x3f3),
+          use_doc_dir_for_image_cache: _0x2a997b(0x3f3),
+          efficient_history_cache_invalidation: _0x2a997b(0x3f3),
+          timestamp_based_history_fetches: _0x2a997b(0x3f3),
+          get_latest_moment_v2: _0x2a997b(0x3f3),
+          fetch_users_from_cloud_function: _0x2a997b(0x3f3),
+          refresh_interval: "60",
+          firestore_refresh_v2: _0x2a997b(0x3f3),
+          firestore_refresh_v3: _0x2a997b(0x3f3),
+          keychain_access_retries: _0x2a997b(0x3f3),
+          blocked_users_cached_sync_enabled: _0x2a997b(0x3f3),
+          beta_features_enabled: _0x2a997b(0x3f3),
+          join_testflight_enabled: _0x2a997b(0x3f3),
+          safety_center: _0x2a997b(0x3f3),
+          help_center: _0x2a997b(0x3f3),
+          support_v2: _0x2a997b(0x3f3),
+          privacy_choices_setting: _0x2a997b(0x3f3),
+          request_att_permission: _0x2a997b(0x3f3),
+          invite_link_preview_variant: "4",
+          share_history_config: JSON[_0x2a997b(0x202)]({
+            prompt_enabled: ![],
+            fetching_enabled: !![],
+          }),
+          share_history_prompt_enabled: _0x2a997b(0x942),
+          use_thumbnails_for_sharing: _0x2a997b(0x3f3),
+          use_thumbnails_in_timeline: _0x2a997b(0x3f3),
+          upload_use_webp_thumbnails: _0x2a997b(0x3f3),
+          persist_onboarding_step: _0x2a997b(0x3f3),
+          onboarding_contact_permission_step: _0x2a997b(0x3f3),
+        });
+        continue;
+      case "6":
+        obj[_0x2a997b(0x94e)] =
+          _0x2a997b(0x82d) +
+          _0x2a997b(0x55e) +
+          _0x2a997b(0x69c) +
+          _0x2a997b(0x79c) +
+          _0x2a997b(0x4e8) +
+          _0x2a997b(0x4c2) +
+          _0x2a997b(0x3eb);
+        continue;
+      case "7":
+        try {
+          var streak = JSON[_0x2a997b(0x80a)](
+            obj[_0x2a997b(0xa66)][_0x2a997b(0x816) + _0x2a997b(0x898)] || "{}",
+          );
+          ((streak[_0x2a997b(0x96f) + _0x2a997b(0x17e) + "nt"] =
+            -0x2485 + -0x5 * -0x638 + 0x56d),
+            (streak[_0x2a997b(0xa31) + _0x2a997b(0x9ad) + "t"] =
+              0xa7 * -0x7 + -0xa7 * -0x20 + 0x19 * -0xa7),
+            (obj[_0x2a997b(0xa66)][_0x2a997b(0x816) + _0x2a997b(0x898)] =
+              JSON[_0x2a997b(0x202)](streak)));
+        } catch (_0x1fa588) {}
+        continue;
+      case "8":
+        obj[_0x2a997b(0xa66)] = obj[_0x2a997b(0xa66)] || {};
+        continue;
+      case "9":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          moment_views_enabled: _0x2a997b(0x3f3),
+          moment_views_v2: _0x2a997b(0x3f3),
+          record_moment_views: _0x2a997b(0x3f3),
+          notify_moment_views: _0x2a997b(0x3f3),
+          get_moment_views_as_cloud_function: _0x2a997b(0x3f3),
+          moment_reactions_v2: _0x2a997b(0x3f3),
+          chat_reactions_enabled: _0x2a997b(0x3f3),
+          conversation_reactions: _0x2a997b(0x3f3),
+          typing_indicators_enabled: _0x2a997b(0x3f3),
+          unsend_message_enabled: _0x2a997b(0x3f3),
+          reply_prototype_enabled: _0x2a997b(0x3f3),
+          messages_integration: _0x2a997b(0x3f3),
+          conversations_enabled: _0x2a997b(0x3f3),
+          fetch_moments_in_conversation: _0x2a997b(0x3f3),
+          hide_chat_button: _0x2a997b(0x942),
+          groups_enabled: _0x2a997b(0x3f3),
+          group_contact_invites_enabled: _0x2a997b(0x3f3),
+          groups_onboarding_accept_invite_preview_enabled: _0x2a997b(0x3f3),
+          group_scrapbook_config: JSON[_0x2a997b(0x202)]({
+            enabled: !![],
+            moment_limit: 0x3b9ac9ff,
+            default_layout: {
+              show_member_joined: !![],
+              parallax_percentage: 0x32,
+              is_device_tilt_enabled: ![],
+              cutout_percentage: 0x64,
+            },
+            photos_button_enabled: !![],
+          }),
+          chat_hyperlink_enabled_mode: _0x2a997b(0x5d3) + _0x2a997b(0x386),
+          send_to_self_only_mode: _0x2a997b(0x5d3) + _0x2a997b(0x386),
+          time_travel_rewind_v2_enabled: _0x2a997b(0x3f3),
+          conversation_drafts_enabled: "1",
+          calendar_delete_moment_enabled: _0x2a997b(0x3f3),
+          calendar_rewind_enabled: _0x2a997b(0x942),
+          locket_yearbook_story_sharing_encouraged: _0x2a997b(0x3f3),
+          rollcall_enabled: _0x2a997b(0x3f3),
+          rollcall_comment_actions: _0x2a997b(0x3f3),
+          rollcall_profile_button: _0x2a997b(0x3f3),
+          rollcall_prompt_export_after_share: _0x2a997b(0x3f3),
+          rollcall_confirm_skip_tagging: _0x2a997b(0x942),
+          rollcall_tap_to_tag_enabled: _0x2a997b(0x942),
+          moment_upload_queue_persistence_v2: "1",
+        });
+        continue;
+      case "10":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          widget_frame_event_max_images: "5",
+          android_widget_frame_event_enabled: _0x2a997b(0x3f3),
+          widget_badge_enabled: _0x2a997b(0x3f3),
+          widget_badge_v2: _0x2a997b(0x3f3),
+          widget_stale_state_enabled: _0x2a997b(0x942),
+          widget_last_sent_indicator: _0x2a997b(0x942),
+          widget_sync_token_reload_mode: _0x2a997b(0x42f) + _0x2a997b(0xa5a),
+          widget_frame_event: JSON[_0x2a997b(0x202)]({
+            uid: _0x2a997b(0x5e1),
+            url:
+              _0x2a997b(0x7e0) +
+              _0x2a997b(0x823) +
+              _0x2a997b(0x7a4) +
+              _0x2a997b(0x941) +
+              "g",
+            use_local_time_zone: !![],
+            placement: _0x2a997b(0x3e5),
+            start_at: _0x2a997b(0x4ac) + _0x2a997b(0x54e),
+            end_at: _0x2a997b(0x994) + _0x2a997b(0x2eb),
+            custom_widget_frames: [],
+          }),
+          live_activity_onboarding: _0x2a997b(0x3f3),
+          live_activity_onboarding_variant:
+            _0x2a997b(0x3c4) + _0x2a997b(0x477) + _0x2a997b(0x19b),
+          register_live_activity_push_to_start_token: _0x2a997b(0x3f3),
+          live_activity_remove_stale_start_token: _0x2a997b(0x3f3),
+          notification_preferences_live_activities: _0x2a997b(0x3f3),
+          notification_preferences: _0x2a997b(0x3f3),
+          notification_reply_body_visible: _0x2a997b(0x3f3),
+          prompt_notification_permissions_after_friending: _0x2a997b(0x3f3),
+          activity_bar_enabled: _0x2a997b(0x3f3),
+          journal_activity_bar_enabled: _0x2a997b(0x3f3),
+          journal_settings: JSON[_0x2a997b(0x202)]({
+            debug_menu_enabled: ![],
+            focus_animation: ![],
+            compact_header: !![],
+            friends_button: ![],
+            reverse_scroll_direction: ![],
+            streak_visualization: !![],
+            streak_visualization_style: _0x2a997b(0x651),
+            streak_header_minimum_count: 0x0,
+            streak_visualization_minimum_count: 0x2,
+            overlay_indicators: {
+              location: ![],
+              music: !![],
+              static_content: !![],
+              weather: !![],
+            },
+          }),
+          qr_code_config: JSON[_0x2a997b(0x202)]({
+            profile_enabled: !![],
+            scanning_enabled: !![],
+          }),
+          birthday_feature_config: JSON[_0x2a997b(0x202)]({
+            profile_menu: !![],
+            prompt_interval: 0x127500,
+            show_frame: !![],
+          }),
+          calendar_friend_birthdays: JSON[_0x2a997b(0x202)]({
+            fetching: !![],
+            calendar_display: !![],
+            feature_popup: !![],
+            settings_visibility_toggle_enabled: !![],
+            fetch_ttl_seconds: 0x15180,
+          }),
+          custom_profile_pics: _0x2a997b(0x3f3),
+          profile_menu_v2_enabled: _0x2a997b(0x3f3),
+        });
+        continue;
+      case "11":
+        Object[_0x2a997b(0x465)](obj[_0x2a997b(0xa66)], {
+          history_ads_mode: _0x2a997b(0x967),
+          history_ads_prefetch_count: "0",
+          history_ads_prefetch_immediate: _0x2a997b(0x942),
+          history_ads_prefetch_reroute: _0x2a997b(0x942),
+          history_ads_dynamic_insertion: _0x2a997b(0x942),
+          history_ads_refresh_prefetch_on_foreground: _0x2a997b(0x942),
+          history_ads_floor_price: "0",
+          history_ads_floor_price_att: "0",
+          history_ad_log_displayed_on_background: _0x2a997b(0x942),
+          history_ads_debug_menu: _0x2a997b(0x942),
+          sentry_sample_rate: "0",
+          sentry_network_tracing: _0x2a997b(0x942),
+          sentry_performance_tracking: _0x2a997b(0x942),
+          sentry_trace_sample_rate: "0",
+          sentry_profiles_sample_rate: "0",
+          nimbus_cancellable_requests: _0x2a997b(0x3f3),
+          history_ads_nimbus_interceptors: JSON[_0x2a997b(0x202)]([]),
+          history_ads_nimbus_formats: JSON[_0x2a997b(0x202)]([]),
+          nimbus_errors_logged_override: JSON[_0x2a997b(0x202)]({
+            NimbusFetchError: 0x0,
+            NimbusRateLimitError: 0x0,
+          }),
+        });
+        continue;
+    }
+    break;
+  }
+}
+$done({ body: JSON[_0x2a997b(0x202)](obj) });
