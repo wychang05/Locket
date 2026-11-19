@@ -7914,6 +7914,30 @@ if (ua.includes("Locket") || true) {
             },
           },
           {
+            overlay_id: "caption:locket_buong",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FF99CC", "#FF9999"] },
+              icon: { data: "checkmark.seal.fill", type: "sf_symbol" },
+              max_lines: 1,
+              text: "Locket xác nhận bạn bướng nhất",
+              text_color: "#FFFFFF",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:be_quay",
+            source: "remote",
+            caption: {
+              background: { colors: ["#66FF66", "#66FF33"] },
+              icon: { data: "checkmark.seal.fill", type: "sf_symbol" },
+              max_lines: 1,
+              text: "Đã xác nhận bạn là bé siu quậy",
+              text_color: "#FFFFFF",
+              type: "static_content",
+            },
+          },
+          {
             overlay_id: "caption:be_ngoan",
             source: "remote",
             caption: {
