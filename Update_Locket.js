@@ -2,7 +2,7 @@
 // Locket Remote Config Rewrite
 // Endpoint: firebaseremoteconfig.googleapis.com
 // Dùng cho: Loon / Quantumult X / Surge / Shadowrocket
-// Tác giả: em mit ợ ợ (Đã tích hợp Photobooth & Video 45s từ File 3, giữ nguyên Caption File 2)
+// Tác giả: Minh Quý 
 // Vui lòng khi chia sẻ hoặc lấy về, làm ơn để nguồn giúp mình. Mình cảm ơn
 // ============================================================
 
@@ -23,7 +23,7 @@ if (!obj || typeof obj !== "object") {
 
 obj.state = "UPDATE";
 obj.templateVersion = String(Date.now());
-obj.Attention = "chuc mừng b!";
+obj.Attention = "chuc mừng ";
 obj.entries = obj.entries || {};
 obj.entries.cache_ttl_seconds = "0";
 obj.entries.client_cache_ttl_sec = "0";
@@ -117,18 +117,18 @@ if (ua.includes("Locket") || true) {
       profile_banner: true,
     }),
     feature_discovery_popup_config: JSON.stringify({
-      tag: "LOCKET GOLD BY EM MÍT",
+      tag: "LOCKET GOLD BY MQUY",
       tag_gradient: true,
       tag_style: "gold_gradient",
-      title: "Có Locket Gold rồi đó 😎",
+      title: " Locket Gold ",
       feature_set: [
         {
-          title: "Nhớ follow kênh tiktok @emmitcute6 ✨",
-          body: "Một follow của bạn, một niềm vui của mình ❤️‍🩹",
-          imageURL: "https://cdn.upanhlaylink.com/i/BHxWil8h.png",
+          title: "Nâng Gold thành công✨",
+          body: "💛",
+          imageURL: "https://cdn.upanhlaylink.com/i/BCD0qVXl.jpg",
         },
       ],
-      primary_button_title: "Up ảnh thôi nàooo !",
+      primary_button_title: "Up ảnh thôi!",
       campaign: "locket_gold_welcome_v3",
       start_at: "2020-01-01T00:00:00",
       end_at: "2099-12-31T23:59:59",
@@ -137,8 +137,8 @@ if (ua.includes("Locket") || true) {
     android_subscribe_gold_button_enabled: "false",
     profile_badge_visible: "true",
     lunar_new_year_app_icon_enabled: "true",
-    settings_instagram_url: "https://www.instagram.com/dwcbao_/",
-    settings_tiktok_url: "https://www.tiktok.com/@emmitcute6",
+    settings_instagram_url: "https://www.instagram.com/_.iamwuy//",
+    settings_facebook_url: "https://www.facebook.com/iamwuy.05?locale=vi_VN"
 
     // BỘ CỜ MỞ KHÓA BỘ LỌC GOLD & TOÀN DIỆN
     country_code: "US",
@@ -4976,20 +4976,9 @@ if (ua.includes("Locket") || true) {
             caption: { type: "standard" },
           },
           {
-            overlay_id: "caption:link",
-            source: "local",
-            caption: { type: "link" },
-            overlay_type: "caption",
-          },
-          {
             overlay_id: "caption:review",
             source: "local",
             caption: { type: "review" },
-          },
-          {
-            overlay_id: "caption:poll",
-            source: "local",
-            caption: { type: "poll" },
           },
           {
             overlay_id: "caption:music",
@@ -5022,14 +5011,14 @@ if (ua.includes("Locket") || true) {
             caption: { type: "star_sign" },
           },
           {
+            overlay_id: "caption:poll",
+            source: "local",
+            caption: { type: "poll" },
+          },
+          {
             overlay_id: "caption:color_palette",
             source: "local",
             caption: { type: "color_palette" },
-          },
-          {
-            overlay_id: "caption:live",
-            source: "local",
-            caption: { type: "live" },
           },
           {
             overlay_id: "caption:locket_count",
@@ -5038,18 +5027,168 @@ if (ua.includes("Locket") || true) {
           },
         ],
       },
-
       {
-        section: "👨🏻‍💻 locketgold by dwcbao",
+        section: "🎨 Holiday Caption",
         items: [
           {
-            overlay_id: "caption:toi_nho_em",
+            overlay_id: "caption:halloween_2026",
             source: "remote",
             caption: {
-              background: { colors: ["#FFFFFF", "#6D9EEB"] },
+              background: { colors: ["#150804", "#C8540D"] },
+              icon: { data: "🎃", type: "emoji" },
               max_lines: 1,
-              text: "tran duc bao cute pho mai que",
-              text_color: "#000000E6",
+              text: "Halloween",
+              localized_text: { en: "Halloween", vn: "Halloween" },
+              text_color: "#FFB182",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:Spring_2026",
+            source: "remote",
+            caption: {
+              background: { colors: ["#7ceb5a", "#b0f871"] },
+              icon: { data: "🌿", type: "emoji" },
+              max_lines: 1,
+              text: "Xin chào Mùa Xuân",
+              localized_text: {
+                en: "Xin chào Mùa Xuân",
+                vn: "Xin chào Mùa Xuân",
+              },
+              text_color: "#e8467f",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:Summer_2026",
+            source: "remote",
+            caption: {
+              background: { colors: ["#ed9357", "#d76814"] },
+              icon: { data: "🌾", type: "emoji" },
+              max_lines: 1,
+              text: "Xin chào Mùa Hè",
+              localized_text: {
+                en: "Xin chào Mùa Hè",
+                vn: "Xin chào Mùa Hè",
+              },
+              text_color: "#c4a043",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:autumn_2026",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FFE0A0", "#F6A53A"] },
+              icon: { data: "🍂", type: "emoji" },
+              max_lines: 1,
+              text: "Xin chào Mùa Thu",
+              localized_text: {
+                en: "Xin chào Mùa Thu",
+                vn: "Xin chào Mùa Thu",
+              },
+              text_color: "#FFFFFF",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:Winter_2026",
+            source: "remote",
+            caption: {
+              background: { colors: ["#f5f3f2", "#5fc8ec"] },
+              icon: { data: "❄️", type: "emoji" },
+              max_lines: 1,
+              text: "Xin chào Mùa Đông",
+              localized_text: {
+                en: "Xin chào Mùa Đông",
+                vn: "Xin chào Mùa Đông",
+              },
+              text_color: "#6bc1ff",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:christmas_eve_2026",
+            source: "remote",
+            caption: {
+              background: { colors: ["#2FA85F", "#176B3A"] },
+              icon: { data: "🎄", type: "emoji" },
+              max_lines: 1,
+              text: "Giáng sinh an lành",
+              localized_text: {
+                en: "Giáng sinh an lành",
+                vn: "Giáng sinh an lành",
+              },
+              text_color: "#FFFFFF",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:birth_day_2026",
+            source: "remote",
+            caption: {
+              background: { colors: ["#E53935", "#A81818"] },
+              icon: { data: "🕯️", type: "emoji" },
+              max_lines: 1,
+              text: "Sinh nhật vui vẻ",
+              localized_text: {
+                en: "Sinh nhật vui vẻ",
+                vn: "Sinh nhật vui vẻ",
+              },
+              text_color: "#FFFFFF",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:new_years_eve",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FFC64B", "#FFEDBF"] },
+              icon: { data: "🥂", type: "emoji" },
+              max_lines: 1,
+              text: "Happy New Year!",
+              localized_text: { en: "Happy New Year!", vn: "Happy New Year!" },
+              text_color: "#643F00",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:new_years_day_2027",
+            source: "remote",
+            caption: {
+              background: { colors: ["#3B00EC", "#823FFF"] },
+              icon: { data: "💫", type: "emoji" },
+              max_lines: 1,
+              text: "Xin chào 2027!",
+              localized_text: { en: "Xin chào 2027!", vn: "Xin chào 2027!" },
+              text_color: "#FFFFFF",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:new_years_day_2027_alternate",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FF0062", "#FF783F"] },
+              max_lines: 1,
+              text: "2027",
+              text_color: "#FFFFFF",
+              type: "static_content",
+            },
+          },
+        ],
+      },
+      {
+        section: "🎨 Decorative by Minh Quý",
+        items: [
+          {
+            overlay_id: "caption:mquy05",
+            source: "remote",
+            caption: {
+              background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
+              max_lines: 1,
+              text: "💻 mquy05",
+              text_color: "#183153",
               type: "static_content",
             },
           },
@@ -5061,12 +5200,81 @@ if (ua.includes("Locket") || true) {
               background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] },
               icon: { data: "🐀", type: "emoji" },
               max_lines: 1,
-              text: "25 12 2008",
+              text: "06 08 2008",
               text_color: "#FFFFFFE6",
               type: "static_content",
             },
           },
-
+          {
+            overlay_id: "caption:cu",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FFD6A5", "#FFF1A8", "#FFC4D6"] },
+              max_lines: 1,
+              text: "Cu 🐎",
+              text_color: "#633B24",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:tuat",
+            source: "remote",
+            caption: {
+              background: { colors: ["#2C1A0E", "#5D4037", "#D7A86E"] },
+              icon: { data: "🐕", type: "emoji" },
+              max_lines: 1,
+              text: "Tuất già",
+              text_color: "#FFFFFFE6",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:snake_vibes",
+            source: "remote",
+            caption: {
+              background: { colors: ["#2E7D32", "#66BB6A"] },
+              icon: { data: "🐍", type: "emoji" },
+              max_lines: 1,
+              text: "Snake Vibes",
+              localized_text: { en: "Snake Vibes", vn: "Chất rắn" },
+              text_color: "#FFFFFFE6",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:du_an_ma",
+            source: "remote",
+            caption: {
+              background: { colors: ["#263238", "#455A64"] },
+              icon: { data: "👻", type: "emoji" },
+              max_lines: 1,
+              text: "dự án ma",
+              text_color: "#FFFFFFE6",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:xin_chao",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FFFFFF", "#6D9EEB"] },
+              max_lines: 1,
+              text: "hí nhu xin chào 🐿️",
+              text_color: "#b54c4ce6",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:moshi_chao",
+            source: "remote",
+            caption: {
+              background: { colors: ["#afba60", "#6deba6"] },
+              max_lines: 1,
+              text: "mồ shì mố shi moi moi",
+              text_color: "#0d26e2e6",
+              type: "static_content",
+            },
+          },
           {
             overlay_id: "caption:love_vietnam",
             source: "remote",
@@ -5097,6 +5305,29 @@ if (ua.includes("Locket") || true) {
         section: "🎨 Tình yêu & Cơm chó 💕",
         items: [
           {
+            overlay_id: "caption:toi_nho_em",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FFFFFF", "#6D9EEB"] },
+              max_lines: 1,
+              text: "보고 싶어 🥺",
+              text_color: "#000000E6",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:miss_you",
+            source: "remote",
+            caption: {
+              background: { colors: ["#EC0C00", "#FF493F"] },
+              icon: { data: "🥰", type: "emoji" },
+              max_lines: 1,
+              text: "Miss you",
+              text_color: "#FFFFFFDB",
+              type: "static_content",
+            },
+          },
+          {
             overlay_id: "caption:em_nho_anhh",
             source: "remote",
             caption: {
@@ -5109,13 +5340,37 @@ if (ua.includes("Locket") || true) {
             },
           },
           {
+            overlay_id: "caption:anh_nho_emm",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FF6B81", "#FF8E9E", "#FFB3C6"] },
+              icon: { data: "🥺", type: "emoji" },
+              max_lines: 1,
+              text: "anh nhớ em nhắm",
+              text_color: "#8C1938",
+              type: "static_content",
+            },
+          },
+          {
             overlay_id: "caption:nho_anh_phien",
             source: "remote",
             caption: {
               background: { colors: ["#F0B5CB", "#F6D0DF", "#DCCAF0"] },
-              icon: { data: "🥺", type: "emoji" },
+              icon: { data: "🥹", type: "emoji" },
               max_lines: 1,
               text: "nhớ anh tới mức hơi phiền",
+              text_color: "#70445A",
+              type: "static_content",
+            },
+          },
+          {
+            overlay_id: "caption:yeu_em_nhat",
+            source: "remote",
+            caption: {
+              background: { colors: ["#F0B5CB", "#F6D0DF", "#DCCAF0"] },
+              icon: { data: "💞", type: "emoji" },
+              max_lines: 1,
+              text: "yêu em nhất ạ",
               text_color: "#70445A",
               type: "static_content",
             },
@@ -5181,13 +5436,25 @@ if (ua.includes("Locket") || true) {
             },
           },
           {
+            overlay_id: "caption:baby_love_anh",
+            source: "remote",
+            caption: {
+              background: { colors: ["#FFB6C1", "#FF69B4", "#FF1493"] },
+              icon: { data: "🧸", type: "emoji" },
+              max_lines: 1,
+              text: "Vợ đâu rùi 💖",
+              text_color: "#FFFFFFE6",
+              type: "static_content",
+            },
+          },
+          {
             overlay_id: "caption:muon_duoc_om",
             source: "remote",
             caption: {
               background: { colors: ["#FF9A9E", "#FECFEF"] },
               icon: { data: "🫂", type: "emoji" },
               max_lines: 1,
-              text: "Muốn được ôm",
+              text: "Muốn được ôm ôm",
               text_color: "#FFFFFF",
               type: "static_content",
             },
@@ -5211,8 +5478,8 @@ if (ua.includes("Locket") || true) {
               background: { colors: ["#C4C8EF", "#DED3F4", "#EBCDE4"] },
               icon: { data: "💤", type: "emoji" },
               max_lines: 1,
-              text: "mê anh hơn mê ngủ",
-              text_color: "#4F4770",
+              text: "mê em hơn mê ngủ",
+              text_color: "#FF8FAB",
               type: "static_content",
             },
           },
@@ -5283,7 +5550,7 @@ if (ua.includes("Locket") || true) {
               background: { colors: ["#CDB4DB", "#E2CFEA", "#F3E5F5"] },
               icon: { data: "🫠", type: "emoji" },
               max_lines: 1,
-              text: "crush nhìn em một cái là xong",
+              text: " nhìn em một cái nhớ điên",
               text_color: "#593B68",
               type: "static_content",
             },
